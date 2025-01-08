@@ -3,9 +3,10 @@
 # Welcome to my Digital Portfolio 
 
 ## About Me 
-This is a paragraph about me. It explains my major at UCF, my career goals, and skills that I have. Even if I haven't worked anywhere that I would consider *in* the field that I'm majoring in, all work experience demonstrates that I can show up on time, communicate with supervisors, work with co-workers, etc. If you work in hospitality, you already work in a fast-paced environment! Retail? You've got great communication and customer service skills. Think about the things you do at work, and how those skills can be used in your dream job!
+Steven Grevera is currently majoring in Technical Writing with the expressed goal of becoming an asset to your business. He has been writing for several years and worked several jobs that have also improved his customer service skills and communication skills for company employees. He currently works at DoorDash and Uber Eats on the side to deliver food to those in need who are unable to leave their homes or simply are too busy to drive on their own. Previously, Steven worked at E-Writer Solutions, a ghostwriting company that created several different products, such as CDL study guides, Immigration Guides and even AP World History Study Guides. In that job, he dealt with several employees and managers, going back and forth and making changes as they requested and needed on time. He used several programs such as Word, Grammarly, Excel, Outlook, Gmail and various other Microsoft products. 
 
-*Note: this can be written in first person (I, me) or in third person (he/she/they). Third person is especially helpful if you use nonbinary pronouns or have a name that people often misgender.*
+NOTE: The below picture will be changed to something involving me as soon as one is obtained. 
+
 
 [Start Here instructional page for copying this website](starthere.md)
 <center><img src="https://ekjphd.com/wp-content/uploads/2024/12/ilrn_avatarday-3-e1734120202850.jpg"></center>
