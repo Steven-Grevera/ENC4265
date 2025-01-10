@@ -1,3 +1,5 @@
+[Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md) | [Major Projects](Major_Projects.md) | [Contact Me](Contact_Me.md)
+
 ## **This is a page in which I would proceed to provide my email and phone number. However, with advisement from our college professor, I have opted to omit this information and am noting that should this has been a real thing presented to employeers, I would have actually presented those things here.** 
 
 # Said Professors Words: 
