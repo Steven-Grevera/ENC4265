@@ -5,8 +5,12 @@
 ## About Me 
 Steven Grevera is currently majoring in Technical Writing with the expressed goal of becoming an asset to your business. He has been writing for several years and worked several jobs that have also improved his customer service skills and communication skills for company employees. He currently works at DoorDash and Uber Eats on the side to deliver food to those in need who are unable to leave their homes or simply are too busy to drive on their own. Previously, Steven worked at E-Writer Solutions, a ghostwriting company that created several different products, such as CDL study guides, Immigration Guides and even AP World History Study Guides. In that job, he dealt with several employees and managers, going back and forth and making changes as they requested and needed on time. He used several programs such as Word, Grammarly, Excel, Outlook, Gmail and various other Microsoft products. 
 
-# **Note #1: The below picture will be changed to be better likely when I get around to it next.**
+Below, is a complete resume of Steven Grevera's Work History. 
 
-# **Note #2: No AI was used in the creation of this web page.** 
+[ENC4285 Friendly Current Resume.pdf](https://github.com/user-attachments/files/18373664/ENC4285.Friendly.Current.Resume.pdf)
 
-![College Avatar](https://github.com/user-attachments/assets/4b194824-05f3-4b11-bb0c-a003801b9da2)
+
+# **Note: No AI was used in the creation of this web page.** 
+
+
+![Professional Photo For Website](https://github.com/user-attachments/assets/5b9bcc46-ccb6-4ee6-af24-942f0e79db1a)
