@@ -7,7 +7,8 @@ Steven Grevera is currently majoring in Technical Writing with the expressed goa
 
 Below, is a complete resume of Steven Grevera's Work History. 
 
-[ENC4285 Friendly Current Resume.pdf](https://github.com/user-attachments/files/18373664/ENC4285.Friendly.Current.Resume.pdf)
+# [ENC4285 Friendly Current Resume.pdf](https://github.com/user-attachments/files/18446377/ENC4285.Friendly.Current.Resume.pdf)
+
 
 
 # **Note: No AI was used in the creation of this web page.** 
