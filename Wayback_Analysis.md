@@ -4,18 +4,18 @@
 
 Amazon.com has been through a long and storied journey of changes from a mere shopping hub, to now, a streaming competitor for movies and videos, even hosting it’s own original content in those genres. Even dabbling into video games due to them owning Twitch.tv, a major video game and general streaming website for the average person to use. 
 
-#
+
 ![First Design #1](https://github.com/user-attachments/assets/52b0a55c-8cb7-4aef-9074-cfa51dc75f29)
-#
+
 
 The first Amazon was made more to be that of a newspaper then a well thought out organized list to help shoppers. In many ways very similar to the website Craigslist even today in it’s modern design. To put it bluntly, it is a complete textual mess. The text is extremely small in some sections but there are existing, albeit sparingly, recommendations for what to buy or what they think their customers might be interested in. Making it extremely inaccessible for those who struggle to read smaller text. I myself, struggle to read some of the links even with my glasses on and the hyperlink blue does not help that at all. However, what they didn’t consider is how that information actually looks and that a wall of blue text is nowhere near as appealing as many modern designs today. 
 
 
 This old ideology can be found in many old website layouts in the early internet as well, this idea that as much information needs to be crammed onto the screen as possible. The idea being that they want it all presentable without anyone having to scroll down as far. However, what they didn’t consider is how that information actually looks and that a wall of blue text is nowhere near as appealing as many modern designs today.
 
-#
+
 ![Modern Amazon](https://github.com/user-attachments/assets/b1093334-07ec-4100-8366-0ea9fd03b1e6)
-#
+
 
 Those in the early internet would go on to try and change this up by inventing a “wacky” style instead, akin to fireworks and various other niche things like music that plays on a site opening or sounds, or even speech. This however would be completely phased out in our modern era due to the simple reality that with the advent of phones, we access sides everywhere and having a website scream [“YOU ARE AN IDIOT-“](https://archive.org/details/you-are-an-idiot_202112)  might not be the most appropriate thing to have play during your day to day job from your phone. 
 
@@ -23,29 +23,29 @@ Those in the early internet would go on to try and change this up by inventing a
 ![You Are An Idiot 90's](https://github.com/user-attachments/assets/d77ba66d-d7ef-47dc-97bb-57413e1e4d61)
 
 A huge change between the original Amazon and now is it’s direct political ad which is front and center on the web page. Meaning that they were far more lax on what they would allow to actually be advertised on their front home page. Unlike today, in which it focuses primarily on what THEY, as Amazon, are doing and what you can find as Amazon and only on Amazon, as opposed to other parts of the world. It is a type of escape that attempts to drag you into it’s information, for they know that is what people mainly come onto their platform for. Searching for Amazon related things.
-#
+
 
 
 ![Poltical Ad](https://github.com/user-attachments/assets/446a7a51-4781-48d4-b4b0-457149736f82)
 
 ![Modern Amazon Ad](https://github.com/user-attachments/assets/381200f7-3456-48da-9d64-fd330924115d)
-#
+
 
 Another huge change is the fact that the bottom of the Amazon website in the modern design, does not have any disclaimers fully written out at the bottom and is simply the end of a web page.
 
 This is likely due to the fact after becoming much larger, they discovered those disclaimers would be of no help in court, or, laws changed which made them moot. It could also be the objective reality however that it is far better to have such things listed in smaller texted links, as opposed to take up too much of the front of your web page, which is trying to capture your site visitors interest.
 
-#
+
 ![Old Amazon Website Bottom](https://github.com/user-attachments/assets/e20091b1-bc61-4260-9957-d57a117560d6)
 
 
 ![Modern Amazon Page Bottom](https://github.com/user-attachments/assets/d19303b4-82b5-4a88-8c62-e61d8c6cc5ae)
-#
+
 
 My experience seeing the old Amazon is one of understanding. I fully understand and agree with the majority of changes that it’s website made over the years and at it’s starting point to lead to where it is today.
 
 In large part, those changes, are very much likely the case as to why Amazon has become such a big name website today and is used by so many people not  just in America but globally. 
-#
+
 
 ![First Design #2](https://github.com/user-attachments/assets/1428559e-988a-4133-adbb-42c33da8e854)
 
@@ -53,20 +53,20 @@ In large part, those changes, are very much likely the case as to why Amazon has
 
 If Amazon still was using it’s old layout, I and many others would likely struggle to navigate many things with even the slightest of changes, as it would be a chore to learn where everything is and located. While it may take more to fully screenshot, being unafraid of allowing people to actually scroll, as opposed to trying to cram information all as tiny text onto as few pages as possible, in practice, has proven to be much more effective at catching users attention. 
 
-#
+
 ![First Design #3](https://github.com/user-attachments/assets/f7f5e6ce-48bc-4cc6-b905-419cb483d9e3)
 
 ![Modern Amazon #3](https://github.com/user-attachments/assets/24ac58c6-1430-4e65-9ac5-f080bce61f2f)
 
 ![Modern Amazon #4](https://github.com/user-attachments/assets/e86a300b-b261-42db-8462-99c03e85d0a8)
-#
+
 It is due to that understanding in our society, that this has become how most websites tend to operate today. For these websites are extremely successful and so to mimic and learn from success, in theory, should facilitate one’s own success. This has for the most part rung true and in large part explains why most websites today look as similar to each other as they do. 
 
-#
+
 
 ![Amazon Current Stock Value](https://github.com/user-attachments/assets/38f20817-0d0b-408f-b532-fdc40fde8ba4)
 
-#
+
 
 
 
