@@ -1,14 +1,16 @@
 [Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md) | [Major Projects](Major_Projects.md) | [Contact Me](Contact_Me.md)
 
 # Table of Contents 
-1. [Wayback Analysis](Wayback_Analysis.md)
-2. [Quick Start Guide](#quick-start-guide)
-3. [Reflective Blog 3](#reflective-blog-3)
-   
-# Wayback Analysis
+## 1. [Wayback Analysis](Wayback_Analysis.md)
 
-## Assignment Rationale 
+## In progress links below
 
+
+2. [Quick Start Guide In Progress](#quick-start-guide)
+3. [Reflective Blog 3 In Progress](#reflective-blog-3)
+
+
+All text below will be moved to new web pages later. 
 
 ---
 # Quick Start Guide
