@@ -86,26 +86,3 @@ This assignment asks you to explore websites that don't follow contemporary stan
 
 
 
-# Note The below may be removed after thought or clarification. 
-
-### Where to Start
-
-Analyze an early website using the Wayback MachineLinks to an external site.. Search for an old version of your favorite digital source of news, entertainment, shopping, etc. Make note of its layout and things that you find surprising, out of the ordinary, or just plain odd.  
-
-Still not sure what to search? Try this one or this one or really, any of these (images aren't available, but most links still work). 
-
-### What is Due
-
-Write a short analysis of your findings, and post it in your Reflective Blog section of your Portfolio Website.
-
-Based on your analysis, what norms do we expect websites to have? How jarring is it to see a site that does not follow these norms? What was the experience like for you, a modern Internet user, visiting this outdated site?
-
-### Tips
-
-Technical writing is clear and concise. Limit adverbs and excessive description. 
-Remember: never, ever post one giant wall of text for any assignment in this course! 
-Break your writing up with space between paragraphs
-Feel free to also use headings, images, and gifs
-Your writing can be in first person (I, me, my, mine), and it can include opinions
-Your writing should still be formal enough for this digital portfolio to be included as part of your job application materials.
-
