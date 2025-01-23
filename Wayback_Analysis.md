@@ -70,7 +70,7 @@ It is due to that understanding in our society, that this has become how most we
 
 
 
-# No AI was used in the making of this webpage or analysis itself. All images were snipped by mself. Link to old Amazon website below. 
+# No AI was used in the making of this webpage or analysis itself. All images were snipped by myself. Link to old Amazon website below. 
 
 https://web.archive.org/web/20060522143937/http://www.amazon.com/exec/obidos/subst/home/home.html/002-9382263-3415808
 
