@@ -1,6 +1,8 @@
 # Safe Mode 
 
-(Insert Table of Contents Here)
+## Table of Contents 
+
+
 
 Safe mode allows your Windows 10 system to boot into a state in which drivers which are activated is limited and program functionality is at a minimum. This can be used if the computer won’t start under normal circumstances as a troubleshooting step. It can also be used as a means to remove viruses from your system. 
 
