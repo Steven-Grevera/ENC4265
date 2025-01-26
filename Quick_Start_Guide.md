@@ -13,6 +13,8 @@ If you are a veteran from Windows 7 or below and are wondering why you can’t p
 - [Third Party Images](#image-sources-for-those-not-my-own)
 
 
+## Safe Mode Types
+
 ### Safe Mode (Regular) 
 
 The standard Safe Mode that has the most limited functionality but all normal desktop visuals.  
@@ -25,6 +27,8 @@ This version of Safe Mode allows you to still access your network and network co
 ### Safe Mode With Command Prompt 
 
 The most bare version of Safe Mode which doesn’t even load the visuals and instead simply gives you a command prompt to run commands. Most commonly used if graphics drivers are failing at the highest levels or the user wishes to minimize system usage. 
+
+# How To Boot Into Safe Mode
 
 ## Safe Mode Restart Simple Method
 
