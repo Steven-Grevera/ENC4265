@@ -5,3 +5,4 @@ Image Sources (For Those Not My Own)
 
 https://ms.codes/blogs/windows/what-is-safe-mode-in-windows-10 
 
+https://www.drivereasy.com/knowledge/how-to-enter-safe-mode-in-windows-10/
