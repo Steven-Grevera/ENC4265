@@ -1,4 +1,4 @@
-# Safe Mode 
+# Safe Mode (In Windows 10) 
 Safe mode allows your Windows 10 system to boot into a state in which drivers which are activated is limited and program functionality is at a minimum. This can be used if the computer won’t start under normal circumstances as a troubleshooting step. It can also be used as a means to remove viruses from your system. 
 
 If you are a veteran from Windows 7 or below and are wondering why you can’t press F8 at the windows startup screen to activate safe mode, proceed to the section labeled “Enable Safe Mode Key” in order to reenable this feature if this was your preferred method. It will reenable that functionality. 
