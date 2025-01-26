@@ -10,6 +10,7 @@ If you are a veteran from Windows 7 or below and are wondering why you can’t p
 - [Safe Mode Through Settings App](#safe-mode-through-settings-app)
 - [Safe Mode Automatic Method](#safe-mode-automatic-method)
 - [Safe Mode At Startup](#safe-mode-at-startup)
+- [Third Party Images](#image-sources-for-those-not-my-own)
 
 
 ## Safe Mode Restart Simple Method
