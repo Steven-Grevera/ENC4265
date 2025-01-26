@@ -8,3 +8,5 @@ https://ms.codes/blogs/windows/what-is-safe-mode-in-windows-10
 https://www.drivereasy.com/knowledge/how-to-enter-safe-mode-in-windows-10/
 
 https://www.tenforums.com/attachments/tutorials/259099d1576354505-boot-advanced-startup-options-windows-10-a-3-startup_options.jpg
+
+https://ms.codes/cdn/shop/articles/b6f591d9-227c-8ef1-80bc-5139e82b62ac.png?v=1709223211
