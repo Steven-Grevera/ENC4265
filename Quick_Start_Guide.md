@@ -12,3 +12,5 @@ https://www.tenforums.com/attachments/tutorials/259099d1576354505-boot-advanced-
 https://ms.codes/cdn/shop/articles/b6f591d9-227c-8ef1-80bc-5139e82b62ac.png?v=1709223211
 
 https://i.ytimg.com/vi/TwIOazT1BxU/maxresdefault.jpg
+
+https://images.drivereasy.com/wp-content/uploads/2016/03/advanced-options-2-1.jpg
