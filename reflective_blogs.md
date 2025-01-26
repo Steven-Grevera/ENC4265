@@ -3,10 +3,10 @@
 # Table of Contents 
 ## 1. [Wayback Analysis](Wayback_Analysis.md)
 
+## 2. [Quick Start Guide](Quick_Start_Guide.md)
+
 ## In progress links below
 
-
-2. [Quick Start Guide In Progress](#quick-start-guide)
 3. [Reflective Blog 3 In Progress](#reflective-blog-3)
 
 
