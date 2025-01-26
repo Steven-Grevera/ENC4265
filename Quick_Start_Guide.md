@@ -5,7 +5,7 @@ If you are a veteran from Windows 7 or below and are wondering why you can’t p
 
 ## Table of Contents 
 
-- [Safe Mode Types](#safe-mode-with-networking)
+- [Safe Mode Types](#safe-mode-regular)
 - [Safe Mode Restart Simple Method](#safe-mode-restart-simple-method)
 - [Safe Mode Through Settings App](#safe-mode-through-settings-app)
 - [Safe Mode Automatic Method](#safe-mode-automatic-method)
