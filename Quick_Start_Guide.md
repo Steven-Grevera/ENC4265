@@ -13,24 +13,6 @@ If you are a veteran from Windows 7 or below and are wondering why you can’t p
 - [Third Party Images](#image-sources-for-those-not-my-own)
 
 
-## Safe Mode Restart Simple Method
-
-If you can boot into your computer properly to the point of the log in screen, you can access safe mode by doing the following steps. 
-
-1: Right click on the windows icon. 
-
-2: Hold down shift on your keyboard as you click on “Restart”. 
-
-3: You should now be presented with the “Advanced Startup” screen. Click on the “Troubleshoot” option. 
-
-4: Click on Startup Settings. 
-
-5: Click on “Restart” as it pops up. 
-
-6: Once the machine has restarted, a series of options will populate the screen for you to choose from. You have three options to choose from here and you will type the number of which you intend to use. 4 for Safe Mode, 5 for Safe Mode with Networking or 6 for Safe Mode With Command Prompt. What each does will be listed below these steps. 
-
-7: After typing your selected Safe Mode type, your machine will restart and you will be booted into the Safe Mode of your choice. 
-
 ### Safe Mode (Regular) 
 
 The standard Safe Mode that has the most limited functionality but all normal desktop visuals.  
@@ -44,21 +26,74 @@ This version of Safe Mode allows you to still access your network and network co
 
 The most bare version of Safe Mode which doesn’t even load the visuals and instead simply gives you a command prompt to run commands. Most commonly used if graphics drivers are failing at the highest levels or the user wishes to minimize system usage. 
 
+## Safe Mode Restart Simple Method
+
+If you can boot into your computer properly to the point of the log in screen, you can access safe mode by doing the following steps. 
+
+1: Right click on the windows icon. 
+
+![#1](https://github.com/user-attachments/assets/960a5653-72aa-44ec-b377-c282f8025a2a)
+
+
+2: Hold down shift on your keyboard as you click on “Restart”. 
+
+![#2](https://github.com/user-attachments/assets/8e67974b-ed88-4a5d-b85a-da95b9a5fd3b)
+
+
+3: You should now be presented with the “Advanced Startup” screen. Click on the “Troubleshoot” option. 
+
+![#3](https://github.com/user-attachments/assets/d3949b87-a88a-4081-883a-19a379611766)
+
+
+4: Click on Startup Settings. 
+
+![#4](https://github.com/user-attachments/assets/cc9a8f57-40a6-47c3-a2da-0f7630bcee84)
+
+
+5: Click on “Restart” as it pops up. 
+
+
+6: Once the machine has restarted, a series of options will populate the screen for you to choose from. You have three options to choose from here and you will type the number of which you intend to use. 4 for Safe Mode, 5 for Safe Mode with Networking or 6 for Safe Mode With Command Prompt. What each does will be listed below these steps. 
+
+![#6](https://github.com/user-attachments/assets/9ab7b242-6be4-4c68-9aa0-f7dc83b8c041)
+
+
+7: After typing your selected Safe Mode type, your machine will restart and you will be booted into the Safe Mode of your choice. 
+
+
 ## Safe Mode Through Settings App
 
 1: Select the search bar or the windows button at the bottom left of the screen.
 
+![#1](https://github.com/user-attachments/assets/574da4a2-834f-4bf9-aef7-efc300022a8f)
+
+
 2: Type “Settings”. 
+
+![#2](https://github.com/user-attachments/assets/3f167c9b-823e-4303-b922-420792ed90d9)
+
 
 3: Click on “Settings”. 
 
-4: A new menu should open up called “Settings”. Click on “Update and Recovery”. 
+4: A new menu should open up called “Settings”. Click on “Update and Security”. 
 
-5: The update screen should open. Select “Recovery”. 
+![#3](https://github.com/user-attachments/assets/87940a91-f7e6-4ed3-ad63-550cc5a1810f)
+
+
+5: The update screen should open. Select “Recovery”.
+
+![#4](https://github.com/user-attachments/assets/d7c6fca0-6752-4fe7-8db5-8fec91a75ec3)
+
 
 6: The recovery section should open. Navigate to “Advanced Startup” and click on “Restart”. 
 
+![#5](https://github.com/user-attachments/assets/ce350801-2c4c-4922-8f88-2098536a6420)
+
+
 7: Once the machine has restarted, a series of options will populate the screen for you to choose from. You have three options to choose from here and you will type the number of which you intend to use. 4 for Safe Mode, 5 for Safe Mode with Networking or 6 for Safe Mode With Command Prompt. What each does will be listed below these steps. 
+
+![#6](https://github.com/user-attachments/assets/b6603539-2dee-469c-b27c-2d7b732bafd8)
+
 
 8: After typing your selected Safe Mode type, your machine will restart and you will be booted into the Safe Mode of your choice.
 
@@ -67,17 +102,37 @@ The most bare version of Safe Mode which doesn’t even load the visuals and ins
 
 1: Navigate down to the search bar or the windows button. 
 
+![#1](https://github.com/user-attachments/assets/ff27019e-41e5-41e3-9312-ef0f328d682d)
+
+
 2: Type into the bar: “msconfig”. Click on the program that pops up. A new menu will open. 
 
-3: Click on the “boot” tab within the new menu. 
+![#2](https://github.com/user-attachments/assets/1d1ac65b-f8db-4be2-b240-06f5bd6ba18c)
+
+
+3: Click on the “boot” tab within the new menu.
+
+![#3](https://github.com/user-attachments/assets/c1ce6695-02e3-4b57-9154-bd830ba65182)
+
 
 4: Under boot options, select with your mouse “Safe Boot”. Select Minimal for normal Safe Mode or Network to launch Safe Mode With Networking. 
 
+![#4](https://github.com/user-attachments/assets/2e817c3c-2bad-432c-95f8-796515b1c29a)
+
 5: Click on apply. 
+
+![#5](https://github.com/user-attachments/assets/66b4066a-fd14-4a5c-8154-fd15f3c5bac9)
+
 
 6: Click on “ok”. 
 
-7: When the new window pops up, select restart with your cursor and click it. 
+![#6](https://github.com/user-attachments/assets/874c493e-fa2b-41cc-a634-971cacb5c75a)
+
+
+7: When the new window pops up, click on Restart.
+
+![#7](https://github.com/user-attachments/assets/8bf9ed8d-418b-4eb6-92c5-94738f67c077)
+
 
 8: Your machine shall now restart into Safe Mode. 
 
@@ -96,13 +151,24 @@ The most bare version of Safe Mode which doesn’t even load the visuals and ins
 
 4: A new menu will open called “Startup Repair”. Select “Advanced Options”. 
 
-5: You should now be presented with the “Advanced Startup” screen. Click on the “Troubleshoot” option. 
+![#1](https://github.com/user-attachments/assets/994f4444-81ce-42f6-b611-80f3aa3e43bf)
+
+
+5: You should now be presented with the “Advanced Startup” screen. Click on the “Troubleshoot” option.
+
+![#3](https://github.com/user-attachments/assets/2c68d345-805d-4ddb-8dfd-37576b07c176)
+
 
 6: Click on Startup Settings. 
+
+![#4](https://github.com/user-attachments/assets/f1302d87-1080-461f-9e7b-159c2849086b)
 
 7: Click on “Restart” as it pops up. 
 
 8: Once the machine has restarted, a series of options will populate the screen for you to choose from. You have three options to choose from here and you will type the number of which you intend to use. 4 for Safe Mode, 5 for Safe Mode with Networking or 6 for Safe Mode With Command Prompt. What each does will be listed below these steps. 
+
+![#6](https://github.com/user-attachments/assets/9f64610b-2f60-4952-bdf7-0e2c54f92590)
+
 
 9: After typing your selected Safe Mode type, your machine will restart and you will be booted into the Safe Mode of your choice.
 
@@ -112,33 +178,45 @@ The most bare version of Safe Mode which doesn’t even load the visuals and ins
 
 ## Step 1: Enable Safe Mode Key
 
-1: Open Command Prompt by navigating down to the search bar or the windows button. 
+1: Open Command Prompt by navigating down to the search bar or the windows button.
+
+![#1](https://github.com/user-attachments/assets/ff07cfa8-3bc4-498e-bd75-49c0ef2c095f)
+
 
 2: Type “CMD” into the search bar 
 
+![#2](https://github.com/user-attachments/assets/6b43c93a-f861-4f61-9e2e-2797dacaaf62)
+
+
 3: Hover your mouse over to the program name and then right click it with your mouse. Hit “Run As Administrator”. 
 
-4: You will be greeted with a black box that should say the following: “C:/Windows/system32”. (This may also say System 64 if you are using a 64 bit version of Windows 10.)  
+![#3](https://github.com/user-attachments/assets/fd221425-8133-46ea-a1a5-afcefd28fbf9)
+
+
+4: You will be greeted with a black box that should say the following: “C:/Windows/system32”. (This may also say System 64 if you are using a 64 bit version of Windows 10.)
 
 5: Copy this command into the line: “bcdedit /set {default} bootmenupolicy legacy”. Type enter. 
 
+![#4](https://github.com/user-attachments/assets/32a5a5f0-f1e1-40d9-9f15-37e8f0ef8a15)
+
+
 6: The following picture should be displayed. You have successfully enabled Safe Mode’s button press command. If this fails, ensure that you ran the program as outlined in #2 and #3. 
+
+![#5](https://github.com/user-attachments/assets/ab34fbcb-2b14-47c5-abad-93e4616aee48)
+
 
 ## Step 2: Boot Up
 
-First begin by turning on your computer. As this process begins, press the F8 key repeatedly to access the following screen. 
+First begin by turning on your computer. As this process begins, press the F8 key repeatedly to access the following screen.
+
+![#1](https://github.com/user-attachments/assets/a8a3ef45-6ce3-4bb0-9c30-8cdf15161287)
+
 
 Select the version of Safe Mode that suits your needs in the moment and the system will restart once again. You have successfully booted into Safe Mode. If the menu below does not pop up and instead it boots up normally, the button was likely not clicked fast enough.
 
 ### Note: No AI was used in the creation of this project. However, due to the nature of the fact this guide requiring turning off your own machine and accessing menu's without "Print Screen" functionality, third party images were used in some instances. They are listed below. 
 
 # Image Sources (For Those Not My Own) 
-
-https://ms.codes/blogs/windows/what-is-safe-mode-in-windows-10 
-
-https://www.drivereasy.com/knowledge/how-to-enter-safe-mode-in-windows-10/
-
-https://www.tenforums.com/attachments/tutorials/259099d1576354505-boot-advanced-startup-options-windows-10-a-3-startup_options.jpg
 
 https://ms.codes/cdn/shop/articles/b6f591d9-227c-8ef1-80bc-5139e82b62ac.png?v=1709223211
 
