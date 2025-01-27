@@ -59,7 +59,7 @@ If you can boot into your computer properly to the point of the log in screen, y
 5: Click on “Restart” as it pops up. 
 
 
-6: Once the machine has restarted, a series of options will populate the screen for you to choose from. You have three options to choose from here and you will type the number of which you intend to use. 4 for Safe Mode, 5 for Safe Mode with Networking or 6 for Safe Mode With Command Prompt. What each does will be listed below these steps. 
+6: Once the machine has restarted, a series of options will populate the screen for you to choose from. You have three options to choose from here and you will type the number of which you intend to use. 4 for Safe Mode, 5 for Safe Mode with Networking or 6 for Safe Mode With Command Prompt. 
 
 ![#6](https://github.com/user-attachments/assets/9ab7b242-6be4-4c68-9aa0-f7dc83b8c041)
 
@@ -96,7 +96,7 @@ If you can boot into your computer properly to the point of the log in screen, y
 ![#5](https://github.com/user-attachments/assets/ce350801-2c4c-4922-8f88-2098536a6420)
 
 
-7: Once the machine has restarted, a series of options will populate the screen for you to choose from. You have three options to choose from here and you will type the number of which you intend to use. 4 for Safe Mode, 5 for Safe Mode with Networking or 6 for Safe Mode With Command Prompt. What each does will be listed below these steps. 
+7: Once the machine has restarted A series of options will populate the screen for you to choose from. You have three options to choose from here and you will type the number of which you intend to use. 4 for Safe Mode, 5 for Safe Mode with Networking or 6 for Safe Mode With Command Prompt. Your machine will restart and you will be booted into the Safe Mode of your choice.
 
 ![#6](https://github.com/user-attachments/assets/b6603539-2dee-469c-b27c-2d7b732bafd8)
 
@@ -129,8 +129,7 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 ![#5](https://github.com/user-attachments/assets/66b4066a-fd14-4a5c-8154-fd15f3c5bac9)
 
-
-6: Click on “ok”. 
+6: Click on “OK”.  
 
 ![#6](https://github.com/user-attachments/assets/874c493e-fa2b-41cc-a634-971cacb5c75a)
 
@@ -197,7 +196,7 @@ If you can boot into your computer properly to the point of the log in screen, y
 ![#2](https://github.com/user-attachments/assets/6b43c93a-f861-4f61-9e2e-2797dacaaf62)
 
 
-3: Hover your mouse over to the program name and then right click it with your mouse. Select “Run As Administrator”. 
+3: Hover your mouse over to the program name and then right click it with your mouse. Select “Run as administrator”.. 
 
 ![#3](https://github.com/user-attachments/assets/fd221425-8133-46ea-a1a5-afcefd28fbf9)
 
