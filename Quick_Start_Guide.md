@@ -142,7 +142,7 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 8: Your machine shall now restart into Safe Mode. 
 
-9: When done, open “msconfig” again at the search bar, go to the boot tab and uncheck “Safe Boot”. Hit apply and then close to boot normally again. 
+9: When done, open “msconfig” again at the search bar, go to the boot tab and uncheck “Safe Boot”. Click “apply” and then close to boot normally again.  
 
 ![#8](https://github.com/user-attachments/assets/21fd6225-2e41-4380-8658-d3c23c2a647c)
 
@@ -197,7 +197,7 @@ If you can boot into your computer properly to the point of the log in screen, y
 ![#2](https://github.com/user-attachments/assets/6b43c93a-f861-4f61-9e2e-2797dacaaf62)
 
 
-3: Hover your mouse over to the program name and then right click it with your mouse. Hit “Run As Administrator”. 
+3: Hover your mouse over to the program name and then right click it with your mouse. Select “Run As Administrator”. 
 
 ![#3](https://github.com/user-attachments/assets/fd221425-8133-46ea-a1a5-afcefd28fbf9)
 
