@@ -1,3 +1,5 @@
+# Quick Start Guide
+
 # Safe Mode (In Windows 10) 
 Safe mode allows your Windows 10 system to boot into a state in which drivers which are activated is limited and program functionality is at a minimum. This can be used if the computer won’t start under normal circumstances as a troubleshooting step. It can also be used as a means to remove viruses from your system. 
 
@@ -141,6 +143,9 @@ If you can boot into your computer properly to the point of the log in screen, y
 8: Your machine shall now restart into Safe Mode. 
 
 9: When done, open “msconfig” again at the search bar, go to the boot tab and uncheck “Safe Boot”. Hit apply and then close to boot normally again. 
+
+![#8](https://github.com/user-attachments/assets/21fd6225-2e41-4380-8658-d3c23c2a647c)
+
 
 
 ## Safe Mode Automatic Method
