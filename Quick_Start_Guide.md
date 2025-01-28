@@ -40,10 +40,14 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 ![#1](https://github.com/user-attachments/assets/960a5653-72aa-44ec-b377-c282f8025a2a)
 
+*Figure 1. Image of the search bar in windows 10 and also the windows button itself. Taken by self.* 
+
 
 2: Hold down shift on your keyboard as you click on “Restart”. 
 
 ![#2](https://github.com/user-attachments/assets/8e67974b-ed88-4a5d-b85a-da95b9a5fd3b)
+
+*Figure 2. Image of what happens after you click the windows button and that you must press restart. Taken by self.*
 
 
 3: You should now be presented with the “Advanced Startup” screen. Click on the “Troubleshoot” option. 
