@@ -40,25 +40,28 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 ![#1](https://github.com/user-attachments/assets/960a5653-72aa-44ec-b377-c282f8025a2a)
 
-*Figure 1. Image of the search bar in windows 10 and also the windows button itself. Taken by self.* 
+*Figure 1. Image of the search bar in windows 10 and also the windows button itself. Image by Steven Grevera.* 
 
 
 2: Hold down shift on your keyboard as you click on “Restart”. 
 
 ![#2](https://github.com/user-attachments/assets/8e67974b-ed88-4a5d-b85a-da95b9a5fd3b)
 
-*Figure 2. Image of what happens after you click the windows button and that you must press restart. Taken by self.*
+*Figure 2. Image of what happens after you click the windows button and that you must press restart. Image by Steven Grevera.*
 
 
 3: You should now be presented with the “Advanced Startup” screen. Click on the “Troubleshoot” option. 
 
 ![#3](https://github.com/user-attachments/assets/d3949b87-a88a-4081-883a-19a379611766)
 
+*Figure 3. Image of the user being presented with the Advanced Startup screen. Circling it with red to indicate it must be clicked. (Image From: https://www.tenforums.com/attachments/tutorials/259099d1576354505-boot-advanced-startup-options-windows-10-a-3-startup_options.jpg)*
+
 
 4: Click on Startup Settings. 
 
 ![#4](https://github.com/user-attachments/assets/cc9a8f57-40a6-47c3-a2da-0f7630bcee84)
 
+*Figure 4. Image of the user being presented with the next screen and being prompted to click on Startup Settings as it's circled with red. (Image From: https://ms.codes/cdn/shop/articles/b6f591d9-227c-8ef1-80bc-5139e82b62ac.png?v=1709223211)*   
 
 5: Click on “Restart” as it pops up. 
 
@@ -66,6 +69,8 @@ If you can boot into your computer properly to the point of the log in screen, y
 6: Once the machine has restarted, a series of options will populate the screen for you to choose from. You have three options to choose from here and you will type the number of which you intend to use. 4 for Safe Mode, 5 for Safe Mode with Networking or 6 for Safe Mode With Command Prompt. 
 
 ![#6](https://github.com/user-attachments/assets/9ab7b242-6be4-4c68-9aa0-f7dc83b8c041)
+
+*Figure 5. Image of the user being presented options for safemode or other options they could also choose. (Image From https://i.ytimg.com/vi/TwIOazT1BxU/maxresdefault.jpg)
 
 
 7: After typing your selected Safe Mode type, your machine will restart and you will be booted into the Safe Mode of your choice. 
