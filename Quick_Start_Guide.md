@@ -70,7 +70,7 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 ![#6](https://github.com/user-attachments/assets/9ab7b242-6be4-4c68-9aa0-f7dc83b8c041)
 
-*Figure 5. Image of the user being presented options for safemode or other options they could also choose. (Image From https://i.ytimg.com/vi/TwIOazT1BxU/maxresdefault.jpg)
+*Figure 5. Image of the user being presented options for safemode or other options they could also choose. (Image From https://i.ytimg.com/vi/TwIOazT1BxU/maxresdefault.jpg)* 
 
 
 7: After typing your selected Safe Mode type, your machine will restart and you will be booted into the Safe Mode of your choice. 
