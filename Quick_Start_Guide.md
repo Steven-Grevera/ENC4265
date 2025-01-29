@@ -82,11 +82,13 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 ![#1](https://github.com/user-attachments/assets/574da4a2-834f-4bf9-aef7-efc300022a8f)
 
+*Figure 6. Image of the task bar and arrows depicting where to find the windows button and search bar. Image by Steven Grevera.* 
 
 2: Type “Settings”. 
 
 ![#2](https://github.com/user-attachments/assets/3f167c9b-823e-4303-b922-420792ed90d9)
 
+*Figure 7. Image of the settings app once it's been searched for as a visual to show what needs to be clicked. Image by Steven Grevera.* 
 
 3: Click on “Settings”. 
 
@@ -94,21 +96,27 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 ![#3](https://github.com/user-attachments/assets/87940a91-f7e6-4ed3-ad63-550cc5a1810f)
 
+*Figure 8. Image of the settings menu and a circle indicating to click on "Update and Security". Image by Steven Grevera.* 
 
 5: The update screen should open. Select “Recovery”.
 
 ![#4](https://github.com/user-attachments/assets/d7c6fca0-6752-4fe7-8db5-8fec91a75ec3)
 
+*Figure 9. Image of the Update and Security menu and circling the section which says "Recovery" to indicate what should be clicked on.. Image by Steven Grevera.* 
 
-6: The recovery section should open. Navigate to “Advanced Startup” and click on “Restart”. 
+6: The recovery section should open. Navigate to “Advanced Startup” and click on “Restart now”. 
 
 ![#5](https://github.com/user-attachments/assets/ce350801-2c4c-4922-8f88-2098536a6420)
 
+*Figure 10. An image showing the newly opened "Recovery" section and a red circle around "Restart now", indicating what the user should click on. Image by Steven Grevera.* 
 
 7: Once the machine has restarted A series of options will populate the screen for you to choose from. You have three options to choose from here and you will type the number of which you intend to use. 4 for Safe Mode, 5 for Safe Mode with Networking or 6 for Safe Mode With Command Prompt. Your machine will restart and you will be booted into the Safe Mode of your choice.
 
+
+
 ![#6](https://github.com/user-attachments/assets/b6603539-2dee-469c-b27c-2d7b732bafd8)
 
+*Figure 11. Image of the user being presented options for safemode or other options they could also choose. Image From (https://i.ytimg.com/vi/TwIOazT1BxU/maxresdefault.jpg)* 
 
 8: After typing your selected Safe Mode type, your machine will restart and you will be booted into the Safe Mode of your choice.
 
