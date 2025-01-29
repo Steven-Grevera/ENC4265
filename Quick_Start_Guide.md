@@ -224,16 +224,19 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 ![#1](https://github.com/user-attachments/assets/ff07cfa8-3bc4-498e-bd75-49c0ef2c095f)
 
+*Figure 24. An image indicating to use the search bar or the windows button via red arrows. (Image By: Steven Grevera* 
 
 2: Type “CMD” into the search bar 
 
 ![#2](https://github.com/user-attachments/assets/6b43c93a-f861-4f61-9e2e-2797dacaaf62)
 
+*Figure 25. An image showing "CMD" typed into the search bar. (Image By: Steven Grevera* 
 
-3: Hover your mouse over to the program name and then right click it with your mouse. Select “Run as administrator”.. 
+3: Hover your mouse over to the program name and then right click it with your mouse. Select “Run as administrator”. 
 
 ![#3](https://github.com/user-attachments/assets/fd221425-8133-46ea-a1a5-afcefd28fbf9)
 
+*Figure 26. An image showing the user right clicking on CMD with their mouse and circling the option “Run as administrator”. (Image By: Steven Grevera* 
 
 4: You will be greeted with a black box that should say the following: “C:/Windows/system32”. (This may also say System 64 if you are using a 64 bit version of Windows 10.)
 
@@ -241,11 +244,13 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 ![#4](https://github.com/user-attachments/assets/32a5a5f0-f1e1-40d9-9f15-37e8f0ef8a15)
 
+*Figure 27. An image inputing the “bcdedit /set {default} bootmenupolicy legacy” command into the "CMD" program. (Image By: Steven Grevera* 
 
 6: The following picture should be displayed. You have successfully enabled Safe Mode’s button press command. If this fails, ensure that you ran the program as outlined in #2 and #3. 
 
 ![#5](https://github.com/user-attachments/assets/ab34fbcb-2b14-47c5-abad-93e4616aee48)
 
+*Figure 28. An image showing what happens after the command is input successfully. (Image By: Steven Grevera* 
 
 ## Step 2: Boot Up
 
@@ -253,6 +258,7 @@ First begin by turning on your computer. As this process begins, press the F8 ke
 
 ![#1](https://github.com/user-attachments/assets/a8a3ef45-6ce3-4bb0-9c30-8cdf15161287)
 
+*Figure 29. An image showing what Windows 7 Style Safe Mode boot menu but in Windows 10, proven as it says "Windows 10" is being used. Image From: (https://www.drivereasy.com/wp-content/uploads/2019/12/safe-mode-1.jpg)* 
 
 Select the version of Safe Mode that suits your needs in the moment and the system will restart once again. You have successfully booted into Safe Mode. If the menu below does not pop up and instead it boots up normally, the button was likely not clicked fast enough.
 
@@ -267,3 +273,5 @@ https://ms.codes/cdn/shop/articles/b6f591d9-227c-8ef1-80bc-5139e82b62ac.png?v=17
 https://i.ytimg.com/vi/TwIOazT1BxU/maxresdefault.jpg
 
 https://images.drivereasy.com/wp-content/uploads/2016/03/advanced-options-2-1.jpg
+
+https://www.drivereasy.com/wp-content/uploads/2019/12/safe-mode-1.jpg
