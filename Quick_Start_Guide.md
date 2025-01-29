@@ -54,7 +54,7 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 ![#3](https://github.com/user-attachments/assets/d3949b87-a88a-4081-883a-19a379611766)
 
-*Figure 3. Image of the user being presented with the Advanced Startup screen. Circling it with red to indicate it must be clicked. (Image From: https://www.tenforums.com/attachments/tutorials/259099d1576354505-boot-advanced-startup-options-windows-10-a-3-startup_options.jpg)*
+*Figure 3. Image of the user being presented with the Advanced Startup screen. Circling "Troubleshoot" with red to indicate it must be clicked. (Image From: https://www.tenforums.com/attachments/tutorials/259099d1576354505-boot-advanced-startup-options-windows-10-a-3-startup_options.jpg)*
 
 
 4: Click on Startup Settings. 
@@ -178,15 +178,19 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 ![#1](https://github.com/user-attachments/assets/994f4444-81ce-42f6-b611-80f3aa3e43bf)
 
+*Figure ?. Image of the user being presented with the Startup Repair screen. Circling "Advanced Options" to show what should be clicked. (Image From: [https://www.tenforums.com/attachments/tutorials/259099d1576354505-boot-advanced-startup-options-windows-10-a-3-startup_options.jpg](https://github.com/user-attachments/assets/994f4444-81ce-42f6-b611-80f3aa3e43bf))*
 
 5: You should now be presented with the “Advanced Startup” screen. Click on the “Troubleshoot” option.
 
 ![#3](https://github.com/user-attachments/assets/2c68d345-805d-4ddb-8dfd-37576b07c176)
 
+*Figure ?. Image of the user being presented with the Advanced Startup screen. Circling Troubleshoot with red to indicate it must be clicked. (Image From: https://www.tenforums.com/attachments/tutorials/259099d1576354505-boot-advanced-startup-options-windows-10-a-3-startup_options.jpg)*
 
 6: Click on Startup Settings. 
 
 ![#4](https://github.com/user-attachments/assets/f1302d87-1080-461f-9e7b-159c2849086b)
+
+*Figure ?. Image of the user being presented with the next screen and being prompted to click on Startup Settings as it's circled with red. (Image From: https://ms.codes/cdn/shop/articles/b6f591d9-227c-8ef1-80bc-5139e82b62ac.png?v=1709223211)*
 
 7: Click on “Restart” as it pops up. 
 
@@ -194,6 +198,7 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 ![#6](https://github.com/user-attachments/assets/9f64610b-2f60-4952-bdf7-0e2c54f92590)
 
+*Figure ?. Image of the user being presented options for safemode or other options they could also choose. (Image From https://i.ytimg.com/vi/TwIOazT1BxU/maxresdefault.jpg)* 
 
 9: After typing your selected Safe Mode type, your machine will restart and you will be booted into the Safe Mode of your choice.
 
