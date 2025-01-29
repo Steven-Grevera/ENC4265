@@ -40,7 +40,7 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 ![#1](https://github.com/user-attachments/assets/960a5653-72aa-44ec-b377-c282f8025a2a)
 
-*Figure 1. Image of the search bar in windows 10 and also the windows button itself. Image by Steven Grevera.* 
+*Figure 1. Image of the search bar in windows 10 and also the windows button itself circled in red. Image by Steven Grevera.* 
 
 
 2: Hold down shift on your keyboard as you click on “Restart”. 
@@ -82,7 +82,7 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 ![#1](https://github.com/user-attachments/assets/574da4a2-834f-4bf9-aef7-efc300022a8f)
 
-*Figure 6. Image of the task bar and arrows depicting where to find the windows button and search bar. Image by Steven Grevera.* 
+*Figure 6. Image of the search bar in windows 10 and also the windows button itself circled in red. Image by Steven Grevera.* * 
 
 2: Type “Settings”. 
 
@@ -127,34 +127,45 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 ![#1](https://github.com/user-attachments/assets/ff27019e-41e5-41e3-9312-ef0f328d682d)
 
+*Figure 12. Image of the search bar in windows 10 and also the windows button itself circled in red. Image by Steven Grevera.* 
+
 
 2: Type into the bar: “msconfig”. Click on the program that pops up. A new menu will open. 
 
 ![#2](https://github.com/user-attachments/assets/1d1ac65b-f8db-4be2-b240-06f5bd6ba18c)
 
+*Figure 13. Image of the search bar with "msconfig" typed in and the app that pops up when this is done. Image by Steven Grevera.* 
 
 3: Click on the “boot” tab within the new menu.
 
 ![#3](https://github.com/user-attachments/assets/c1ce6695-02e3-4b57-9154-bd830ba65182)
+
+*Figure 14. Image of what pops up when the app is opened and a circle indicating the user should click on the "boot tab". Image by Steven Grevera.* 
 
 
 4: Under boot options, select with your mouse “Safe Boot”. Select Minimal for normal Safe Mode or Network to launch Safe Mode With Networking. 
 
 ![#4](https://github.com/user-attachments/assets/2e817c3c-2bad-432c-95f8-796515b1c29a)
 
+*Figure 15. Showing the various options in the new menu and then circling the section where it says "Safe Boot" and lists other options as well. Image by Steven Grevera.* 
+
 5: Click on apply. 
 
 ![#5](https://github.com/user-attachments/assets/66b4066a-fd14-4a5c-8154-fd15f3c5bac9)
+
+*Figure 16. Circling apply in red. Image by Steven Grevera.* 
 
 6: Click on “OK”.  
 
 ![#6](https://github.com/user-attachments/assets/874c493e-fa2b-41cc-a634-971cacb5c75a)
 
+*Figure 17. Circling OK in red. Image by Steven Grevera.* 
 
 7: When the new window pops up, click on Restart.
 
 ![#7](https://github.com/user-attachments/assets/8bf9ed8d-418b-4eb6-92c5-94738f67c077)
 
+*Figure 18. Circling "Restart" in red to show the user what they should click to enter Safe Mode. Image by Steven Grevera.* 
 
 8: Your machine shall now restart into Safe Mode. 
 
@@ -162,6 +173,7 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 ![#8](https://github.com/user-attachments/assets/21fd6225-2e41-4380-8658-d3c23c2a647c)
 
+*Figure 19. Circling in red how Safe Boot is no longer checked. Image by Steven Grevera.* 
 
 
 ## Safe Mode Automatic Method
@@ -178,19 +190,19 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 ![#1](https://github.com/user-attachments/assets/994f4444-81ce-42f6-b611-80f3aa3e43bf)
 
-*Figure ?. Image of the user being presented with the Startup Repair screen. Circling "Advanced Options" to show what should be clicked. (Image From: [https://www.tenforums.com/attachments/tutorials/259099d1576354505-boot-advanced-startup-options-windows-10-a-3-startup_options.jpg](https://github.com/user-attachments/assets/994f4444-81ce-42f6-b611-80f3aa3e43bf))*
+*Figure 20. Image of the user being presented with the Startup Repair screen. Circling "Advanced Options" to show what should be clicked. (Image From: [https://www.tenforums.com/attachments/tutorials/259099d1576354505-boot-advanced-startup-options-windows-10-a-3-startup_options.jpg](https://github.com/user-attachments/assets/994f4444-81ce-42f6-b611-80f3aa3e43bf))*
 
 5: You should now be presented with the “Advanced Startup” screen. Click on the “Troubleshoot” option.
 
 ![#3](https://github.com/user-attachments/assets/2c68d345-805d-4ddb-8dfd-37576b07c176)
 
-*Figure ?. Image of the user being presented with the Advanced Startup screen. Circling Troubleshoot with red to indicate it must be clicked. (Image From: https://www.tenforums.com/attachments/tutorials/259099d1576354505-boot-advanced-startup-options-windows-10-a-3-startup_options.jpg)*
+*Figure 21. Image of the user being presented with the Advanced Startup screen. Circling Troubleshoot with red to indicate it must be clicked. (Image From: https://www.tenforums.com/attachments/tutorials/259099d1576354505-boot-advanced-startup-options-windows-10-a-3-startup_options.jpg)*
 
 6: Click on Startup Settings. 
 
 ![#4](https://github.com/user-attachments/assets/f1302d87-1080-461f-9e7b-159c2849086b)
 
-*Figure ?. Image of the user being presented with the next screen and being prompted to click on Startup Settings as it's circled with red. (Image From: https://ms.codes/cdn/shop/articles/b6f591d9-227c-8ef1-80bc-5139e82b62ac.png?v=1709223211)*
+*Figure 22. Image of the user being presented with the next screen and being prompted to click on Startup Settings as it's circled with red. (Image From: https://ms.codes/cdn/shop/articles/b6f591d9-227c-8ef1-80bc-5139e82b62ac.png?v=1709223211)*
 
 7: Click on “Restart” as it pops up. 
 
@@ -198,7 +210,7 @@ If you can boot into your computer properly to the point of the log in screen, y
 
 ![#6](https://github.com/user-attachments/assets/9f64610b-2f60-4952-bdf7-0e2c54f92590)
 
-*Figure ?. Image of the user being presented options for safemode or other options they could also choose. (Image From https://i.ytimg.com/vi/TwIOazT1BxU/maxresdefault.jpg)* 
+*Figure 23. Image of the user being presented options for safemode or other options they could also choose. (Image From https://i.ytimg.com/vi/TwIOazT1BxU/maxresdefault.jpg)* 
 
 9: After typing your selected Safe Mode type, your machine will restart and you will be booted into the Safe Mode of your choice.
 
