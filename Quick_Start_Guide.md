@@ -262,16 +262,4 @@ First begin by turning on your computer. As this process begins, press the F8 ke
 
 Select the version of Safe Mode that suits your needs in the moment and the system will restart once again. You have successfully booted into Safe Mode. If the menu below does not pop up and instead it boots up normally, the button was likely not clicked fast enough.
 
-### Note: No AI was used in the creation of this project. However, due to the nature of the fact this guide requiring turning off your own machine and accessing menu's without "Print Screen" functionality, third party images were used in some instances. They are listed below. 
-
-# Image Sources (For Those Not My Own) 
-
-https://www.tenforums.com/attachments/tutorials/259099d1576354505-boot-advanced-startup-options-windows-10-a-3-startup_options.jpg
-
-https://ms.codes/cdn/shop/articles/b6f591d9-227c-8ef1-80bc-5139e82b62ac.png?v=1709223211
-
-https://i.ytimg.com/vi/TwIOazT1BxU/maxresdefault.jpg
-
-https://images.drivereasy.com/wp-content/uploads/2016/03/advanced-options-2-1.jpg
-
-https://www.drivereasy.com/wp-content/uploads/2019/12/safe-mode-1.jpg
+### Note: No AI was used in the creation of this project.
