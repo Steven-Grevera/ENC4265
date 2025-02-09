@@ -5,9 +5,7 @@
 
 ## 2. [Quick Start Guide](Quick_Start_Guide.md)
 
-## In progress links below
-
-3. [Reflective Blog 3 In Progress](#reflective-blog-3)
+## 3. [Quick Start Guide Usability Test](SafeMode Guide Usability Test Results.md)
 
 
 All text below will be moved to new web pages later. 
