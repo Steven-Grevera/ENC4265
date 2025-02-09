@@ -4,7 +4,7 @@
 # Content Table
 
 - [Test Reasoning](#test-reasoning)
-- [Test Results](#test-results)
+- [Test Results](#test-results-prompt-specific-questions)
 - [Data Survey](#data-gathering-survey)
 
 # Test Reasoning 
@@ -53,8 +53,8 @@ This test is taking place on (Insert Date) and within our own home as it is a fa
 
 The test tasks will be going through each listed step in our guide and these will also serve as the main steps.
 
-# Test Results 
-*(Prompt Specific Questions)* 
+# Test Results (Prompt Specific Questions) 
+
 
 
 ## What did they struggle to do? 
