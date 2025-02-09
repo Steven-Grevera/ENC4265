@@ -5,7 +5,7 @@
 
 ## 2. [Quick Start Guide](Quick_Start_Guide.md)
 
-## 3. [Quick Start Guide Usability Test](SafeMode Guide Usability Test Results.md)
+## 3. [Quick Start Guide Usability Test](Safe_Mode_Guide_Usability_Test_Results.md)
 
 
 All text below will be moved to new web pages later. 
@@ -34,5 +34,3 @@ On your portfolio, post the following:
 -The best output 
 -Your reflection 
 ---
-# Reflective Blog 3
-TBD
