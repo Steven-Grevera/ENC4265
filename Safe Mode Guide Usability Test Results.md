@@ -1,6 +1,14 @@
 # Safe Mode User Usability Test
 
 
+# Content Table
+
+- [Test Reasoning](#test-reasoning)
+- [Test Results](#test-results)
+- [Data Survey](#data-gathering-survey)
+
+# Test Reasoning 
+
 ## GUIDE UNDER TEST 
 
 Today we are testing a users experience with the “Safe Mode Quick Guide”. The goal of this test is to see how well users were able to successfully follow the guide to completion down one of the routes they desire and ensuring that all methods work and are understood without any issues. No help will be provided to the user(s), only their experience will be recorded. 
@@ -45,7 +53,9 @@ This test is taking place on (Insert Date) and within our own home as it is a fa
 
 The test tasks will be going through each listed step in our guide and these will also serve as the main steps.
 
-# Test Results (Prompt Specific Questions): 
+# Test Results 
+*(Prompt Specific Questions)* 
+
 
 ## What did they struggle to do? 
 
