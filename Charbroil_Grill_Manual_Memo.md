@@ -4,13 +4,13 @@ TO: MR. Mark Hampton, CEO
 <br />
 FROM: Steven Grevera
 <br />
-SUBJECT: Recommendations for the Product Manual Charbroil – PERFORMANCE 4-Burner Gas Grill
+SUBJECT: Recommendations for the Product Manual Char-broil – PERFORMANCE 4-Burner Gas Grill
 <br />
 DATE: February 12, 2025
 <br />
 
 I evaluated the Charbroil PERFORMANCE 4-Burner Gas Grill manual available at:
-Char-Broil 463365021 4-Burner Gas Grill User Guide. 
+[Char-Broil 463365021 4-Burner Gas Grill User Guide.](https://manuals.plus/char-broil/463365021-4-burner-gas-grill-manual-pdf) 
 <br />
 
 I will discuss the strengths and weaknesses of this manual below. I will close with some recommendations for improving the manual.
