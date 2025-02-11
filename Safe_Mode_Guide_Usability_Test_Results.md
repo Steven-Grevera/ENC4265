@@ -4,7 +4,7 @@
 
 # Guide Being Tested
 
-https://steven-grevera.github.io/ENC4265/Quick_Start_Guide.html
+(https://steven-grevera.github.io/ENC4265/Quick_Start_Guide.html)
 
 
 # Content Table
