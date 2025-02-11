@@ -9,7 +9,6 @@
 
 - [Test Reasoning](#test-reasoning)
 - [Test Results](#test-results-prompt-specific-questions)
-- [Data Survey](#data-gathering-survey)
 
 # Test Reasoning 
 
@@ -63,9 +62,11 @@ The test tasks will be going through each listed step in our guide and these wil
 
 ## What did they struggle to do? 
 
+User was able to complete the task outlined in the guide, however they were confused on how to turn off safe mode. Taking this feedback to mean that the guide should be updated to reflect the fact the user desired that information. Providing that information in a simple step would likely be the best course of action.
 
 ## What seemed well-explained? 
 
+User was able to complete the task outlined within the guide in under a minute without any intervention. Therefore, all seemed well explained. 
 
 ## What recommendations do you have for yourself moving forward?: 
 
@@ -73,9 +74,5 @@ Users only needed 1 solution, never all. For the sake of this test, all were don
 
 As should be noted however, some steps could have been written even better and some captions should have been written better as well. Something that will be strived to be improved in future guides and manuals. 
 
-# Data Gathering Survey 
-
-By clicking on the following link, you can express your own user experiences with our data gathered with our website and if you feel this test was accurate to your own views on how things are. This will allow us to access your feedback in a well and concise way when creating future models. 
-
-Link: (Link Here later) 
+Also of note, the user first did the test on a workstation in which the guide worked without issue. However they would then proceed to do it on their own laptop and came into issues that arose. Namely that it seemed the Windows 10 Black Screen Safe Mode feature that shouldn’t have been toggled on, had been turned on. Guide can be updated to provide two screenshots of how things should work depending on the situation or a link on what to do if their screen shows the black screen as opposed to the standard blue screen that was provided in the guide.
 
