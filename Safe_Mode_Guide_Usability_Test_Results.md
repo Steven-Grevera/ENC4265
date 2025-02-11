@@ -16,8 +16,6 @@
 
 Today we are testing a users experience with the “Safe Mode Quick Guide”. The goal of this test is to see how well users were able to successfully follow the guide to completion down one of the routes they desire and ensuring that all methods work and are understood without any issues. No help will be provided to the user(s), only their experience will be recorded. 
 
-A2: Document notes here. (Will be removed in final web page) 
-
 
 
 ## BUSINESS CASE 
