@@ -72,3 +72,5 @@ The user only needed one solution, never all. For the sake of this test, all wer
 As should be noted, however, some steps could have been written even better and some captions should have been written better as well. Something that will be strived to be improved in future guides and manuals. 
 
 Also of note, the user first did the test on a workstation in which the guide worked without issue. However they would then proceed to do it on their own laptop and came into issues that arose. Namely, it seemed the Windows 10 Black Screen Safe Mode feature that shouldn't have been toggled on had been turned on. Guide can be updated to provide two screenshots of how things should work depending on the situation or a link on what to do if their screen shows the black screen as opposed to the standard blue screen that was provided in the guide. 
+
+AI Statement: Grammarly was used to spellcheck the writing of this assignment.
