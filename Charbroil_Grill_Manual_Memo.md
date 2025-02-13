@@ -26,7 +26,7 @@ Despite the strengths, several weaknesses should be addressed. One notable weakn
 <br />
 
 To improve the manual, I recommend the following modifications: 
-*	Ensure that the instructions that are listed are in the correct order.
+* Ensure that the listed instructions are in the correct order.
 *	Improve the zoomed pictures to ensure the exact meaning of the picture is apparent.
 *	Enlarge pictures overall.
 *	Include additional words for more complicated steps, as pictures may not be enough context for the assembler to complete the step.
