@@ -1,3 +1,5 @@
+[Home](index.md) | [Manual Assessment Memo](Charbroil_Grill_Manual_Memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md) | [Major Projects](Major_Projects.md) | [Contact Me](Contact_Me.md)
+
 # Previous Referenced Blogs
 - [Step One Reflective Blog #2](https://steven-grevera.github.io/ENC4265/Quick_Start_Guide.html)
 - [Step Two Reflective Blog #3](https://steven-grevera.github.io/ENC4265/Safe_Mode_Guide_Usability_Test_Results.html)
