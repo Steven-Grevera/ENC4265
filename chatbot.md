@@ -9,4 +9,4 @@ Examples: “When did Steven Grevera conduct a Usability Test?” “Where can I
 
 Click on the link below to access the bot for any and all questions you might have. 
 
-https://box.boodle.ai/a/@StevenGreveraWebpageNavigationChatbot
+[Click here for chatbot](https://box.boodle.ai/a/@StevenGreveraWebpageNavigationChatbot)
