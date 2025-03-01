@@ -22,10 +22,6 @@ Steven Grevera also runs his own LLC for his creative works.
 
 Technical writing. (Put full degree title here later.) 
 
-## When was Steven Grevera born? 
-
-Steven Grevera was born on October 10th 1997 (10/10/1997). 
-
 ## Where does Steven Grevera live? 
 
 The Sunshine State of Florida, Orlando. 
