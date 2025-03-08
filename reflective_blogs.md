@@ -11,6 +11,8 @@
 
 ## 5 [FAQ's](FAQ.md) (Reflective Blog #5) 
 
+## 6: [Reflecting on AI Tools and Chatbots](Reflective_Blog_Six.md) (Reflective Blog #6)
+
 All text below will be moved to new web pages later or deleted.
 
 ---
