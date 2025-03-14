@@ -3,9 +3,8 @@
 
 # Procedure Video
 
-# **This is a sample video that was provided with the template used and will be replaced.**
+## Click on the image to be taken to the video
 
-[![Watch the video](https://img.youtube.com/vi/iadzYtX4ERU/maxresdefault.jpg)](https://youtu.be/iadzYtX4ERU)
+[![Watch the video](https://github.com/user-attachments/assets/bc7ac319-cd99-42b1-8ded-c16764dcbff6))](https://www.youtube.com/watch?v=5bGXKNGZ6y0)  
 
-### [Watch this video on YouTube](https://youtu.be/iadzYtX4ERU)
-
+### [Watch this video on YouTube](https://www.youtube.com/watch?v=5bGXKNGZ6y0)
