@@ -13,6 +13,8 @@
 
 ## 6: [Reflecting on AI Tools and Chatbots](Reflective_Blog_Six.md) (Reflective Blog #6)
 
+## 7: [AI’s View On My Resume](Reflective_Blog_Seven.md)  (Reflective Blog #7) 
+
 All text below will be moved to new web pages later or deleted.
 
 ---
