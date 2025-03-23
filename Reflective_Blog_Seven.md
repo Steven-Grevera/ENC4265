@@ -1,18 +1,18 @@
-# AI’s View On My Resume
+# AI's View On My Resume
 
-For this weeks assignment I fed my resume into a generative AI on Boodlebox and asked it to tell me what position would best suit me and also to make changes to my resume to look more appealing to that field for possible use in trying to get hired by an employer. 
+For this week's assignment, I fed my resume into a generative AI on Boodlebox and asked it to tell me what position would best suit me and also to make changes to my resume to look more appealing to that field for possible use in trying to get hired by an employer. 
 
 Lastly, I summarize a series of my thoughts below the two prompts as well. 
 
-The prompt responses will be displayed in the exact way in which it was presented to me and so no formatting or anything will be done to change it, starting with a quotation mark and then ending with another. 
+The prompt responses will be displayed in the exact way in which they were presented to me, so no formatting or anything will be done to change them, starting with a quotation mark and then ending with another.
 
 ## Bot Used
 
  Boodlebox - RoleBot Career Counselor 
 
-### What position I am best suited for?
+### What position am I best suited for?
 
-Prompt: Based on my resume, what position I am best suited for?
+Prompt: Based on my resume, what position am I best suited for?
 
 Result: “Based on your resume, I notice several strengths that could align well with various professional paths. Let me analyze your experience and skills:
 Key Strengths:
@@ -70,14 +70,13 @@ Would you like me to explain any of these changes or would you like suggestions 
 
 ## Reflection
 
-The results of the bot are about what I expected, the AI made some improvements mostly based on key words and higher emotional charged words as opposed to neutral words as it believes this is how humans operate as opposed perhaps to the most reality of the situation. Regardless, we as humans did this ourselves by making resumes such a prideful endeavor in the first place and using loaded terms to glorify ourselves. Thus, it’s only doing what we already were to an extent. 
+The results of the bot are about what I expected; the AI made some improvements, mostly based on keywords and higher emotionally charged words as opposed to neutral words, as it believes this is how humans operate as opposed perhaps to the most reality of the situation. Regardless, we as humans did this ourselves by making resumes such a prideful endeavor in the first place and using loaded terms to glorify ourselves. Thus, it's only doing what we already were to an extent. 
 
-The danger of this of course comes into play now in our modern society, in that now all resume checks are done by AI, so if you don’t use an AI to do your resume, your chances of being hired are much lower. This doesn’t mean however this person is any more or any less qualified to a position compared to the actual data on the resume itself. It’s simply a matter of formatting it in such a way that the AI itself can read and appreciate the resume, as opposed to the actual company itself. 
+The danger of this, of course, comes into play now in our modern society, in that now all resume checks are done by AI, so if you don't use an AI to do your resume, your chances of being hired are much lower. This doesn't mean that this person is any more or any less qualified for a position compared to the actual data on the resume itself. It's simply a matter of formatting it in such a way that the AI itself can read and appreciate the resume, as opposed to the actual company itself. 
 
-The good companies use mixes of both. The AI is the first eyes, then an actual interviewer and resume checker check the results that the AI push to the front. Of course, that push up to the front is a major advantage that could ultimately be to a potential employees detriment. 
+The good companies use mixes of both. The AI is the first eyes; then, an actual interviewer and resume checker check the results that the AI pushes to the front. Of course, that push up to the front is a major advantage that could ultimately be to a potential employee's detriment. 
 
-The only major thing I learned from this experience is that it truly wasn’t anything “ground breaking” in terms of resume change suggestions, it was all a matter of simply writing it more for the AI’s like and thus most companies likes, as opposed to what a human being will care about the most, which is the content of the resume itself. Thus, the AI is more focused on the formatting of the resume and thus the formatting of a resume has become far more paramount, at least, to getting an interview. In my own personal experience, this could explain many things in fact. 
-
+The only major thing I learned from this experience is that it truly wasn't anything "groundbreaking" in terms of resume change suggestions; it was all a matter of simply writing it more for the AI's like and thus, most companies likes follow suit, as opposed to what a human being will care about the most, which is the content of the resume itself. Thus, the AI is more focused on the formatting of the resume and thus the formatting of a resume has become far more paramount, at least, to getting an interview. In my own personal experience, this could explain many things in fact.
 
 ## Class Prompt: Q: 
 
