@@ -4,7 +4,7 @@ For this week's assignment, I fed my resume into a generative AI on Boodlebox an
 
 Lastly, I summarize a series of my thoughts below the two prompts as well. 
 
-The prompt responses will be displayed in the exact way in which they were presented to me, so no formatting or anything will be done to change them, starting with a quotation mark and then ending with another.
+The prompt responses will be displayed in the exact way in which they were presented to me, so no formatting or anything will be done to change them, starting with a quotation mark and then ending with another. Some things were misspelled in the prompts sent to the bot and yet the bot gave out results that were functional regardless. So those mistakes will be kept in on purpose. 
 
 ## Bot Used
 
