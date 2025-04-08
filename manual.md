@@ -10,7 +10,7 @@
 
 **Overall Note #3 Some notes to myself still remain in the web page and they will be properly finished and removed upon the final products completion.**
 
-**Overall Note #4 Grammerly has not been run yet if you are viewing this note. So you might find spelling and grammer issues. Go ahead and point them out for easy points if you notice any. Just know they'll be gone for the final prudct :)**
+**Overall Note #4 Grammerly has not been run yet if you are viewing this note. So you might find spelling and grammer issues. Go ahead and point them out for easy points if you notice any. Just know they'll be gone for the final product :)**
 
 **Overall Note #5 This is about 80% or less completed overall as asked and will be finished once I properly get a series of each corridor along with pictures.**
 
