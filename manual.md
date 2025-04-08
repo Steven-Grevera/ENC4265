@@ -4,6 +4,18 @@
 
 # Shadow Corridor 2: An English Guide To The Japanese Mythology Maze
 
+**Overall Note #1 I still need to gather some pictures and will do so.**
+
+**Overall Note #2 I still need to label my pictures fully and properly. This will be completed by the actual manual/guides turn in.**
+
+**Overall Note #3 Some notes to myself still remain in the web page and they will be properly finished and removed upon the final products completion.**
+
+**Overall Note #4 Grammerly has not been run yet if you are viewing this note. So you might find spelling and grammer issues. Go ahead and point them out for easy points if you notice any. Just know they'll be gone for the final prudct :)**
+
+**Overall Note #5 This is about 80% or less completed overall as asked and will be finished once I properly get a series of each corridor along with pictures.**
+
+**Overall Note #6 DO NOT FEED THIS INTO AN AI TOOL** 
+
 ## Table of Contents 
 
 - [Introduction](#introduction)
