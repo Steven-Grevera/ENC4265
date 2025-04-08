@@ -92,17 +92,17 @@ Item Inventory Display Time: The total number (in seconds) that the inventory wi
 
 Display Item Info: This option will display item info when you highlight an item, such as a the firecrackers for example, to provide a tooltip which will provide a general idea of what the item in question does. Toggling to off or on based your preference.
 
-Look When Using Compass: As you traverse your generated corridor, you may run across an item called a compass. (Read more on that here-(Link here later)). If this option is disabled, then you cannot move and look at the compass at the same time. Having this enabled allows you to do so. This is for people who may find this as a distraction. 
+Look When Using Compass: As you traverse your generated corridor, you may run across an item called a compass. (Read more on that here- **(Link here later))** If this option is disabled, then you cannot move and look at the compass at the same time. Having this enabled allows you to do so. This is for people who may find this as a distraction. 
 
-Return To Base Immediately After Results: If this option is set to on, then upon completing a level, you will be sent back to the “hub” of the game. See more on this here: (Link to hub section later)
+Return To Base Immediately After Results: If this option is set to on, then upon completing a level, you will be sent back to the “hub” of the game. See more on this here: **(Link to hub section later)**
 
 Vision Shake From Walking: This option will determine if your vision shakes from walking or not. For immersive experiences, this should be turned on. For those with motion sickness or who dislike this visual effect, keeping it off will ensure this does not occur. 
 
-Controller Vibration: If your controller is in use, having this option set to on will result in certain in game events causing your controller to shake, such as when a Wanderer (the enemy monsters in the game-) approach you. (See more on monsters here (Link here later) 
+Controller Vibration: If your controller is in use, having this option set to on will result in certain in game events causing your controller to shake, such as when a Wanderer (the enemy monsters in the game-) approach you. **(See more on monsters here (Link here later)**
 
 The Shaking of The Flashlight: With this option set to true, when you use your flashlight item, it will shake as you run as opposed to staying sturdy to light up areas. This option will provide a more immersive experience for those who want “realism” in their experiences. 
 
-Whispers of The Remains: When collecting “souls” (more on this later, (link here)), you will hear an audio sound effect when picking them off of skeleton bodies. Having this option off will display this effect, for those who want to focus more on the sound of possible Apparitions instead. 
+Whispers of The Remains: When collecting “souls” **(more on this later, (link here))**, you will hear an audio sound effect when picking them off of skeleton bodies. Having this option off will display this effect, for those who want to focus more on the sound of possible Apparitions instead. 
 
 
 
@@ -325,7 +325,7 @@ To select you Karuta loadout at The Hub, come to this location listed below and 
 ## Sealed Karuta Cards
  
  
-Corrupted  Human’s or Impure look like the above and if they grab you, they will hold onto you for a bit and they will then seal a karuta card at random. Some karuta can protect this sealing effect from occurring but so too can certain coffee effects. (See coffee below (Link Later). **Note as well that while grabbed, you can still be harmed by hostile apparitions. You will also take health damage from the grab itself.** 
+Corrupted  Human’s or Impure look like the above and if they grab you, they will hold onto you for a bit and they will then seal a karuta card at random. Some karuta can protect this sealing effect from occurring but so too can certain coffee effects. (See coffee below **(Link Later)**. **Note as well that while grabbed, you can still be harmed by hostile apparitions. You will also take health damage from the grab itself.** 
 
  
 
@@ -458,7 +458,7 @@ Coffee provides smaller but helpful benefits to the player at a selection of 1 o
 
 Collecting a coffee bean bag while exploring corridors, regardless of if you complete it to it’s exit or get a “game over”, keeps the bean forever in your amount collected total. Each corridor can only have a set amount collected within it maximum, before they no longer count toward your grand total. This amount can be seen on the corridor level selection screen.
  
-To access the coffee menu, select the clipboard menu on the table from the above image (Label figure properly later for referencing-)  and you will be greeted to a selection of options. 
+To access the coffee menu, select the clipboard menu on the table from the above image **(Label figure properly later for referencing-)**  and you will be greeted to a selection of options. 
 
  
 
@@ -509,7 +509,7 @@ To complete a corridor level, you must successfully collect 3 or 5 Magatama depe
 
 If you fail to exit the level and run out of lives, all of your progress in that generated level of the corridor will be lost and you will be returned to the hub, or you may retry. Depending on which you may rather do. 
 
-(LATER WILL HAVE EACH LEVEL LISTED BELOW, NEED PICTURES)  
+**(LATER WILL HAVE EACH LEVEL LISTED BELOW, NEED PICTURES)**  
 
 
 
