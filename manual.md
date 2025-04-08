@@ -989,110 +989,85 @@ Medals will be rewarded for specific actions such as completing a level within a
 | Survival Medal 2 | Clear the level with total damage under 50 to your health. | +3 (6) |
 | Survival Medal 3 | Clear the level with total damage under 1 to your health (Take No Damage) | +3 (9) |
 | Covert Medal 1 | Complete the level without being found by the Apparitions more than twice. | +3 |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| Covert Medal 2 | Complete the level without being found by the Apparitions more than once. | +3 (6) |
+| Covert Medal 3 | Complete the level without being found by the Apparitions or even having any sounds heard. | +3 (9) |
+| Great Cremation Medal | Cremate 2 Apparitions using the One Hole Candle light source item. | +3 (4) |
+| Escape Medal | Escape from the pursuit of the wanderer. | +1|
+| Cremation Medal | Cremate an Apparition using the One Hole Candle light source item. | +1 |
+| Trap Medal | Drop an Apparition into a trapdoor as it’s pursuing you to save yourself. | +1 |
+| Slapstick Medal | Be chased by an Apparition more than three times. (You must obtain escape to also get this one. Making them a series.) | +1 (2) |
+| Barrier Medal | Trap an Apparition in a barrier.| +1|
+| Guidance Medal| Get the Apparition to open a locked door (achieved through firecrackers or other means.) | +1|
+| Break-in Medal | Destroy a locked door yourself. (Requires a special karuta.) | +1 |
+| Unlocking Medal | Unlock 3 or more locked doors. (It will still count even if you use it multiple times in the same Magatama room.) | +1|
+| Crybaby Medal | Take the Magatama in the “No Sound Room” without being discovered by The Shion| +1|
+| Parasitic Medal | Escape the Mayubo that chases after you in “The Trap Room” after taking the Magatama. | +1 |
+| Scream Medal	| Retrieve the magatama without the Hanged Man noticing in the Hanged Man Trap Room | +1 |
+| Den Medal | Retrieve the magatama from among a swarm of human cocoon moths without taking any damage. (Insect Repellent or use Firecrackers.) | +1 |
+| Requiem Medal | Collect Souls from 10 Skeleton’s amidst the level. | +1 |
+| Explosive Shopping Medal| Spend more than 2500 souls at The Butterfly Shop. | +1 |
+| Light Medal | Turn on 20 or more installed light sources in the level. | +1 |
+| Darkness Medal | Clear the level without turning on any of the light sources. | +1 |
+| Gunman Medal | Stop an Apparition at least three times with a Type 26 revolver pistol. (If you hit a stunned wanderer, it will not be counted.) | +1 |
+| Extermination Medal | Drive away pests at least three times. (It is necessary to properly drive the human cocoon moth out of the nest, so using firecrackers for example.) | 	+1 |
+| Exorcism Medal | Drive away 3 or more Impurities (Corrupted  Human’s). | +1 |
+| Teleport Medal | Teleport using a hand held mirror item more then once or more. | +1 |
+| Space-Time Medal | Stop time more than once. | +1 |
+| Tool Medal | Use 9 or more unique consumable items. | +1 |
+| Used Medal | Consume one or more passive items. | +1 |
+| Minimalist Medal | Complete without obtaining any items (except compass, archives, and coffee beans) | +1 |
+| Gourmet Medal | Eat 5 or more rice balls. | +1 |
+|Careful (Keane) Medal |  Medal	Eat Three Popsicles in a row | +1 |
+| Mystical Medal | Obtained by consuming souls outside of the shop. | +1 |
+| Rebirth Medal | Use a candle to reignite a live point.  | +1 |
+| Completion Medal | Cleared when travelling a distance of 3km or more. | +1 |
+| Shortest Medal | Cleared with a travel distance of less than 1km. | +1 |
+| Dark Heart Medal | Use a barrier to trap a Trauma on Deluge difficulty. This will cause it to multiply and break the barrier. | +1 |
+| Bribery Medal | Use the “Bribe” karuta card and then clear the level. | +1 |
+| Beard Medal | Use “The Bearded Dandy” karuta and then clear the level. | +1|
+| Shura Medal | Set the Shura Shackles and clear the level. | +3|
+| Cheat Medal | Use a karuta that is deemed to powerful or use console commands. | Your score will be force to 0 regardless of performance, giving you a rating of “E”. |
 		
-		
-	
-		
-		
-		
-		
-		
-Covert Medal 2	Complete the level without being found by the Apparitions more than once.	+3 (6)
-Covert Medal 3	Complete the level without being found by the Apparitions or even having any sounds heard.	+3 (9)
-Great Cremation Medal	Cremate 2 Apparitions using the One Hole Candle light source item.	+3 (4)
-Escape Medal	Escape from the pursuit of the wanderer.	+1
-Cremation Medal	Cremate an Apparition using the One Hole Candle light source item.	+1
-Trap Medal	Drop an Apparition into a trapdoor as it’s pursuing you to save yourself. 	+1
-Slapstick Medal	Be chased by an Apparition more than three times. (You must obtain escape to also get this one. Making them a series.)	+1 (2)
-Barrier Medal	Trap an Apparition in a barrier.	+1
-Guidance Medal	Get the Apparition to open a locked door (achieved through firecrackers or other means.) 	+1
-Break-in Medal	Destroy a locked door yourself. (Requires a special karuta.) 	+1
-Unlocking Medal	Unlock 3 or more locked doors.
-
-(It will still count even if you use it multiple times in the same Magatama room.)	+1
-Crybaby Medal	Take the Magatama in the “No Sound Room” without being discovered by “The Slug Monster 	+1
-Parasitic Medal	Escape “the Baby Monster” that chases after you in “The Trap Room” after taking the Magatama. 	+1
-Scream Medal	Retrieve the magatama without the Hanged Man noticing in the Hanged Man Trap Room	+1
-Den Medal	Retrieve the magatama from among a swarm of human cocoon moths without taking any damage. (Insect Repellent or use Firecrackers.)	+1
-Requiem Medal	Collect Souls from 10 Skeleton’s amidst the level. 	+1
-Explosive Shopping Medal	Spend more than 2500 souls at The Butterfly Shop.	
-Light Medal	Turn on 20 or more installed light sources in the level.	+1
-Darkness Medal	Clear the level without turning on any of the light sources.	+1
-Gunman Medal	Stop an Apparition at least three times with a Type 26 revolver pistol. (If you hit a stunned wanderer, it will not be counted.)	+1
-Extermination Medal	Drive away pests at least three times. (It is necessary to properly drive the human cocoon moth out of the nest, so using firecrackers for example.)	+1
-Exorcism Medal	Drive away 3 or more Impurities (Corrupted  Human’s).	+1
-Teleport Medal	Teleport using a hand held mirror item more then once or more.	+1
-Space-Time Medal	Stop time more than once.	+1
-Tool Medal	Use 9 or more unique consumable items.	+1
-Used Medal	Consume one or more passive items.	+1
-Minimalist Medal	Complete without obtaining any items (except compass, archives, and coffee beans)	+1
-Gourmet Medal	Eat 5 or more rice balls.	+1
-Careful (Keane)… Medal	Eat Three Popsicles in a row	+1
-Mystical Medal	Obtained by consuming souls outside of the shop. 	+1
-Rebirth Medal	Use a candle to reignite a live point. 	+1
-Completion Medal	Cleared when travelling a distance of 3km or more.	+1
-Shortest Medal	Cleared with a travel distance of less than 1km.	+1
-Dark Heart Medal	Use a barrier to trap a Trauma on Deluge difficulty. This will cause it to multiply and break the barrier. 	+1
-Bribery Medal	Use the “Bribe” karuta card and then clear the level.	+1
-Beard Medal	Use “The Bearded Dandy” karuta and then clear the level.	+1
-Shura Medal	Set the Shura Shackles and clear the level.	+3
-Cheat Medal	Use a karuta that is deemed to powerful or use console commands.	Your score will be force to 0 regardless of performance, giving you a rating of “E”.
-
- 
-
 
 
 ## Ratings: 
 
 Ratings serve as the game’s “stamp” on your performance and will reward bonuses for high enough ratings. The Ratings brackets are as followed below: 
 
-SS: 24 points or beyond.
-S: 15-23 points 
-A: 12-14 points
-B: 9-11 points. 
-C: 6-8 points.
-D: 3-5 points. 
-E: 2 points and below
+- SS: 24 points or beyond.
+- S: 15-23 points 
+- A: 12-14 points
+- B: 9-11 points. 
+- C: 6-8 points.
+- D: 3-5 points. 
+- E: 2 points and below
 
 SS rating is considered “perfect” and the highest rating you can achieve. E is the lowest, while in practice it is “D” as “E” is extremely hard to obtain in game without trying to obtain it deliberately.
 
 Demonstration: To obtain E Rank, you must  follow these rules.
-•	Complete the level AFTER 40 minutes. 
-•	Be heard by Apparitions more then two times. 
-•	Take 100 Health Damage total. 
+- Complete the level AFTER 40 minutes.
+- Be heard by Apparitions more then two times.
+- Take 100 Health Damage total. 
 
 And not break more then 2 of these rules: 
 
-o	Complete the level after traveling below 3KM but more then 1KM (1.1KM and above but now anything past 3KM)
-o	Eat no more then 4 rice balls or more then 2 popsicles in a row
-o	Turn on no more then 19 light sources but having at least one on
-o	Consume no passive items 
-o	Drive away no more then 2 Impurties (Corrupted Humans)
-o	Drive away pests no more then 2 times
-o	Stop the Appariton no more then 2 times and same with the pistol
-o	Spend no more then 2499 souls at the shop
-o	Be killed if you take the Magatama from the Mayubo 
-o	Not use firecrackers in a cocoon moth room
-o	Use firecrackers to ensure that the Shion goes somewhere in the No Noise Shion Trap Rooms
-o	Be discovered before taking a magamata.
-o	Do not destroy a door or have an Apparition destroy a locked door. 
-o	Do not use trapdoors to make an Apparition fall. 
-o	Do not cremate an Apparition with The One Hole Candle. 
-o	Do not trap an apparition in a barrier or the Trauma, 
-o	Do not escape a wander a single time. 
+- Complete the level after traveling below 3KM but more then 1KM (1.1KM and above but now anything past 3KM)
+-  Eat no more then 4 rice balls or more then 2 popsicles in a row
+-   Consume no passive items
+-   Turn on no more then 19 light sources but having at least one on
+-   Give away no more then 2 Impurties (Corrupted Humans)
+- Drive away pests no more then 2 times
+- Stop the Appariton no more then 2 times and same with the pistol
+- Spend no more then 2499 souls at the shop
+- Be killed if you take the Magatama from the Mayubo
+- Not use firecrackers in a cocoon moth room
+- Use firecrackers to ensure that the Shion goes somewhere in the No Noise Shion Trap Rooms
+- Be discovered before taking a magamata.
+- Do not destroy a door or have an Apparition destroy a locked door.
+- Do not use trapdoors to make an Apparition fall.
+- Do not cremate an Apparition with The One Hole Candle.
+- Do not trap an apparition in a barrier or the Trauma,
+- Do not escape a wander a single time. 
 
 The above scenario is POSSIBLE… but is more of a challenge, then something likely to occur. 
 
@@ -1103,13 +1078,13 @@ To see your rating on each difficulty and at each level, on the corridor select 
 
 Based on your rating obtained in the level, you will then be granted a set bonus amount of Magatama to be spent for Karuta or anything else you desire. 
 
-SS = 6 Bonus Magatama. 
-S = 5 Bonus Magatama.
-A = 4 Bonus Magatama
-B = 3 Bonus Magatama
-C = 2 Bonus Magatama
-D = 1 Bonus Magatama
-E = 0 Bonus Magatama
+- SS = 6 Bonus Magatama. 
+- S = 5 Bonus Magatama.
+- A = 4 Bonus Magatama
+- B = 3 Bonus Magatama
+- C = 2 Bonus Magatama
+- D = 1 Bonus Magatama
+- E = 0 Bonus Magatama
  
 # Archives (Collectible Documents) 
 
@@ -1124,9 +1099,9 @@ The Magamata Challenge is unlocked after completing the entire story fully on an
 
 Every 3 Magamata you obtain will grant you with a trophy in the following bracket: 
 
-•	Gold Trophy: 9
-•	Silver Trophy: 6
-•	Bronze Trophy: 3
+- Gold Trophy: 9
+- Silver Trophy: 6
+- Bronze Trophy: 3
 
 The map is 4 x 4 and in total there are 16 magatama generated at once to collect. Health and lives (Candle Lights) still count in this mode, however, you don’t take a direct time penalty for losing a life, aside from the death and respawn animation time itself to the timer. 
 Item appearance rates are based on beginner mode.
