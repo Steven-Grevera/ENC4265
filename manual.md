@@ -425,123 +425,29 @@ Any time the game is loaded or a corridor exploration ends and you load back int
 | Basic Endurance | Slightly increases stamina recovery speed. | Purchased for 5 magatama. | 
 | Adrenaline | When discovered by an Apparition, your stamina will be fully restored. | Purchased for 8 magatama. | 
 | Runner's High | When you run out of stamina, it will cost 10 health points to recover half of your stamina. If you don't have enough stamina, it won't be effective.	| Purchased for 7 magatama. | 
-| |	| |
-| |	| | 
-| |	| | 
-| |	| | 
-| |	| | 
-| |	| | 
-| |	| | 
-| |	| | 
-| |	| | 
-| |	| | 
-| |	| | 
-| |	| | 
-| |	| | 
-| |	| | 
-| |	| | 
-| |	| | 
+| Reckless | Running into an Apparition has a 50% chance of incapacitating the Apparition for a few seconds. | Purchased for 8 magatama. |
+| Automatic Doors | If you interact with the door while running, it will close behind you as you pass through it. | Purchased for 5 magatama. | 
+| Sturdy Door | Apparitions now have slightly longer time to break down doors. | Purchased for 5 magatama. | 
+| Mind's Eye |	When an Apparition unleashes a killing intent, their location becomes visible for 5 seconds. *Note: Murderous intent = screen noise and red flash and indicators from the Apparition.* | Purchased for 15 magatama | 
+| A Haven of Rest | When hiding inside an object, you will not be seen, even if you have a light source turned on or are hiding in front of an Apparition | Purchased for 3 magatama. | 
+| A Delicious Treat | When you escape from the Apparitions pursuit, the Apparitions drops an ice popsicle. | Purchased for 3 magatama. | 
+| Tachyphysia Phenomenon | When you are found by an Apparition, time slows down. | Complete the game on “beginner” difficulty. | 
+| Idaten | Infinite sprint. This card cannot be sealed. The results of clearing a stage will no longer be reflected. (Cheating Card) | Get a gold trophy in all stages of the Magatama Challenge Mode | 
+| Basic Physical Strength | Increases health by 30. | Purchased for 4 magatama. | 
+| Magatama Barrier | When an magatama is obtained, a barrier is placed around the room where it was taken from. | Purchased for 15 magatama. | 
+| Exorcism | When you obtain the magatama, it will release one seal on the karuta. | Purchased for 8 magatama. | 
+| Beacon of Hope | When five magatama are collected, one light of life (life point) will be lit. At that time, all the karuta will be sealed. It only has an effect once per level. | Purchased for 20 magatama. | 
+| Return of Blood | When you receive damage, you gain souls according to the amount of damage received. | Purchased for 4 magatama. | 
+| Hungry Smell | The lower your health, the more likely it is that rice balls will appear. | Purchased for 5 magatama. | 
+| Ninja | For each empty karuta card slot aside from this one, the Apparitions ability to hear will be reduced up to a maximum of maximum 48%. 8% per empty card slot. | Purchased for 8 magatama. | 
+| Mental Care | The rate at which the insanity gauge fills is slowed down. | Purchased for 5 magatama | 
+| Trump Card | When this karuta is sealed, it stops time around you and grants you clairvoyance. | Purchased for 7 magatama. | 
+| Soul Ties | When the amount of corruption reaches its maximum, all corruption is purified and half of your health is restored. It only has an effect once per level. | Complete the story on “Intermediate”. Difficulty.  | 
+| Amaterasu | 	When your health reaches 0 or you touch an Apparition, your health will be fully restored and the Apparition will be cremated. It consumes 15 magatama, and if you don't have enough, it will have no effect. It only has an effect once level.	| Complete the story on “Advanced Difficulty”. | 
+| Body Language | You can now punch by left-clicking, and if you touch an Apparition they will die instantly but will also take damage. This card cannot be sealed. The results of clearing a stage will no longer be reflected. (Cheat Card) | Get all archives. | 
+| Awakening of The Stigma | The light of life (life points) will not decrease. This card cannot be sealed. The results of clearing a stage will no longer be reflected. (Cheat Card.) | 	Complete Marathon mode on “Intermediate” | 
+| Shura's Shackles | Your maximum health will be reduced to 1, and your stamina recovery speed will be greatly reduced. This card cannot be sealed. | 	Clear all stages with S rank. | 
 
-	
-		
-	
-
-	
-
-	
-	
-		
-	
-	
-	
-	
-
-
-
-
-	 
-	
-
-
-
-
-
-
- 
-	
-	
-
-
-
-
-	
-
-
-
-
-
-
-
-		
-		
-
-		
-		
-		
-	
-
-	
-		
-		
-		
-
-Reckless 	Running into an Apparition has a 50% chance of incapacitating the Apparition for a few seconds.	Purchased for 8 magatama.
-Automatic Doors	If you interact with the door while running, it will close behind you as you pass through it.	Purchased for 5 magatama.
-Sturdy Door	Apparitions now have slightly longer time to break down doors.	Purchased for 5 magatama.
-Mind's Eye	When an Apparition unleashes a killing intent, their location becomes visible for 5 seconds.
-
-Note: Murderous intent = screen noise and red flash and indicators from the Apparition. 	Purchased for 15 magatama
-A Haven of Rest	When hiding inside an object, you will not be seen, even if you have a light source turned on or are hiding in front of an Apparition 	Purchased for 3 magatama.
-A Delicious Treat	When you escape from the Apparitions pursuit, the Apparitions drops an ice popsicle. 	Purchased for 3 magatama.
-Tachyphysia Phenomenon	When you are found by an Apparition, time slows down.	Complete the game on “beginner” difficulty.
-Idaten	Infinite sprint.
-
-This card cannot be sealed.
-
-The results of clearing a stage will no longer be reflected. (Cheating Card)	Get a gold trophy in all stages of the Magatama Challenge Mode
-Basic Physical Strength	Increases health by 30.	Purchased for 4 magatama.
-Magatama Barrier	When an magatama is obtained, a barrier is placed around the room where it was taken from.	Purchased for 15 magatama.
-Exorcism	When you obtain the magatama, it will release one seal on the karuta.	Purchased for 8 magatama.
-Beacon of Hope	When five magatama are collected, one light of life (life point) will be lit. At that time, all the karuta will be sealed.
-
-It only has an effect once per level.	Purchased for 20 magatama.
-Return of Blood	When you receive damage, you gain souls according to the amount of damage received.	Purchased for 4 magatama.
-Hungry Smell	The lower your health, the more likely it is that rice balls will appear.	Purchased for 5 magatama.
-Ninja	For each empty karuta card slot aside from this one, the Apparitions ability to hear will be reduced up to a maximum of maximum 48%. 8% per empty card slot.	Purchased for 8 magatama.
-Mental Care	The rate at which the insanity gauge fills is slowed down.	Purchased for 5 magatama
-Trump Card	When this karuta is sealed, it stops time around you and grants you clairvoyance.	Purchased for 7 magatama.
-Soul Ties	When the amount of corruption reaches its maximum, all corruption is purified and half of your health is restored.
-
-It only has an effect once per level.	Complete the story on “Intermediate”. Difficulty. 
-Amaterasu	When your health reaches 0 or you touch an Apparition, your health will be fully restored and the Apparition will be cremated.
-
-It consumes 15 magatama, and if you don't have enough, it will have no effect.
-
-It only has an effect once level.	Complete the story on “Advanced Difficulty”. 
-Body Language	You can now punch by left-clicking, and if you touch an Apparition they will die instantly but will also take damage.
-
-This card cannot be sealed.
-
-The results of clearing a stage will no longer be reflected. (Cheat Card)	Get all archives.
-Awakening of The Stigma	The light of life (life points) will not decrease.
-
-This card cannot be sealed.
-
-The results of clearing a stage will no longer be reflected. (Cheat Card.)	Complete Marathon mode on “Intermediate”
-Shura's Shackles	Your maximum health will be reduced to 1, and your stamina recovery speed will be greatly reduced.
-
-This card cannot be sealed.	Clear all stages with S rank.
- 
 # Coffee 
 
  
