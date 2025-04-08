@@ -468,30 +468,38 @@ Selecting an option will cause your character to drink some coffee as an animati
 
 ## All Coffee’s and Their Effects
 
-Coffee Name	Coffee Bean Unlock Amount	Effect
-Week Coffee	Basic Unlock 	The amount of souls acquired increases slightly.
-(The increase is about 10%)
-Cafe au Lait	10 Coffee Beans	The effect on the Apparitions hearing and vision is slightly reduced.
-(The heartbeat and blinking sound while running are not noticeable even if you switch to walking.)
-Espresso	20 Coffee Beans	Slightly increases stamina recovery speed.
+| Coffee Name | Coffee Bean Unlock Amount | 		Effect |
+|---|---|---|
+| Week Coffee | 	Basic Unlock | 	The amount of souls acquired increases slightly. (The increase is about 10%) | 
+| Cafe au Lait | 	10 Coffee Beans | 	The effect on the Apparitions hearing and vision is slightly reduced. (The heartbeat and blinking sound while running are not noticeable even if you switch to walking.) | 
+| Espresso | 	20 Coffee Beans | 	Slightly increases stamina recovery speed. (Stamina recovery speed increases by 1.25% per second) | 
+| Cafe latte | 	30 Coffee Beans | 	Always recovers a small amount of stamina. (Recovers 1 every 18 seconds) | 
+| Dutch Coffee | 	40 Coffee Beans | 	Slightly increases resistance to corruption. (The rate at which corruption accumulates is reduced by approximately 12.5%) | 
+| Affogato | 	50 Coffee Beans | 	Slightly increases resistance to insanity. (Time until screaming increased from 30 seconds to about 37 seconds) | 
+| Cafe Macchiato | 	60 Coffee Beans | 	The durability and souls consumed by items is slightly reduced. (Maps of Underworlds are not affected) | 
+| Shekarat | 	70 Coffee Beans | 	Slightly decreases the chance of the karuta being sealed. | 
+| Cappuccino | 	80 Coffee Beans | 	Slightly increases item appearance rate. | 
+| Turkish Coffee | 	90 Coffee Beans | 	When you obtain a magatama, there is a small chance that the a light of life (life point) will be lit (you gain a new life point). | 
+| Dandyism Blend | 	100 Coffee Beans | Slightly increases the chances of Bearded Dandy activating and of positive effects occurring from it’s use. |
 
-(Stamina recovery speed increases by 1.25% per second)
-Cafe latte	30 Coffee Beans	Always recovers a small amount of stamina.
 
-(Recovers 1 every 18 seconds)
-Dutch Coffee	40 Coffee Beans	Slightly increases resistance to corruption.
+ 
 
-(The rate at which corruption accumulates is reduced by approximately 12.5%)
-Affogato	50 Coffee Beans	Slightly increases resistance to insanity.
 
-(Time until screaming increased from 30 seconds to about 37 seconds)
-Cafe Macchiato	60 Coffee Beans	The durability and souls consumed by items is slightly reduced.
 
-(Maps of Otherworlds are not affected)
-Shekarat	70 Coffee Beans	Slightly decreases the chance of the karuta being sealed.
-Cappuccino	80 Coffee Beans	Slightly increases item appearance rate.
-Turkish Coffee		90 Coffee Beans	When you obtain a magatama, there is a small chance that the a light of life (life point) will be lit (you gain a new life point).
-Dandyism Blend	100 Coffee Beans	Slightly increases the chances of Bearded Dandy activating and of positive effects occurring from it’s use.
+
+
+
+
+
+
+
+
+
+
+
+	
+
 
 
 
