@@ -409,17 +409,39 @@ Any time the game is loaded or a corridor exploration ends and you load back int
 | Fourth Dimensional Drawstring Bag |  The item will not be consumed. This karuta cannot be sealed. The results of clearing a stage will no longer be reflected. 	| Marathon Deluge Clear.  | 
 | Map of The Underworld | Always consumes souls to display the minimap. (2 souls consumed per second. Beginner level only consumes 1 soul. Cafe Macchiato does not affect this skill.) When your soul reaches 0, the minimap disappears.	| 	Obtained at the start of the game.  | 
 | Walking Technique | Your normal walking speed is increased, and walking speed is not reduced when holding a compass.	| 		Purchased for 10 magatama. | 
+| The Secret of Footwork | Increases crouch walking speed. Footsteps no longer make noise when crouching and walking. | Purchased for 5 magatama. | 
+| Brute Force |	Allows you to destroy locked doors by expending 80 stamina. Accompanied by a loud noise. | Purchased for 8 magatama. | 
+| Soul Extraction | When you obtain a Magatama, you will gain 400 Souls. | Purchased for 5 magatama. | 
+| Psychic Medium | Start the level with 1500 souls. | Purchased for 5 magatama. | 
+| Bribe | Earn a medal when you clear the level. | Purchased for 5 magatama. |              
+| Antique Book Collector | Increased chance of Archives appearing. | Purchased for 3 magatama. | 
+| Caffeine Addiction | Increases coffee effectiveness | Purchased for 5 magatama. | 
+| Karuta Case | Halves the chance of a karuta being sealed. | Purchased for 6 magatama | 	
+| Containment | Completely protects the karuta set to the left of this card from being sealed. This card cannot be sealed. *Note: Only works on the single one to  the left not all.* | Purchased for 5 magatama. | 
+| Doll Calling | Press CTRL (B)  and SHIFT (X) simultaneously and then press  space to consume 800 souls and summon a mechanical doll to the location. | Purchased for 7 magatama. | 
+| Hotaruya Coupon | When revived, the game will resume from Hotaruya. Get 20% off your purchases at Hotaruya. | Spend a certain amount of money at Hotaruya’s Shop. | 
+| Friends from Another World | 	Nyoi-taro follows behind, shining light on the area. This light does not affect the wanderer's vision.	| Special slug pet interactions in the hub world must be achieved. | 
+| Bearded Dandy | When you left-click something happens. Only Beard knows what will happen and when. This card cannot be sealed. | Purchased all the karuta cards and talk to Yakumo (The Barkeep.) | 
+| Basic Endurance | Slightly increases stamina recovery speed. | Purchased for 5 magatama. | 
+| Adrenaline | When discovered by an Apparition, your stamina will be fully restored. | Purchased for 8 magatama. | 
+| Runner's High | When you run out of stamina, it will cost 10 health points to recover half of your stamina. If you don't have enough stamina, it won't be effective.	| Purchased for 7 magatama. | 
+| |	| |
+| |	| | 
+| |	| | 
+| |	| | 
+| |	| | 
+| |	| | 
+| |	| | 
+| |	| | 
+| |	| | 
+| |	| | 
+| |	| | 
+| |	| | 
+| |	| | 
+| |	| | 
+| |	| | 
 | |	| | 
 
-
-
-             
-
-
-	
- 
-
-	 
 	
 		
 	
@@ -458,40 +480,21 @@ Any time the game is loaded or a corridor exploration ends and you load back int
 
 
 
-The Secret of Footwork	Increases crouch walking speed.
 
-Footsteps no longer make noise when crouching and walking.	Purchased for 5 magatama.
-Brute Force	Allows you to destroy locked doors by expending 80 stamina.
 
-Accompanied by a loud noise.	Purchased for 8 magatama.
-Soul Extraction	When you obtain a Magatama, you will gain 400 Souls.	Purchased for 5 magatama.
-Psychic Medium	Start the level with 1500 souls.	Purchased for 5 magatama.
-Bribe	Earn a medal when you clear the level.	Purchased for 5 magatama.
-Antique Book Collector	Increased chance of Archives appearing.	Purchased for 3 magatama.
-Caffeine Addiction	Increases coffee effectiveness 	Purchased for 5 magatama.
-Karuta Case	Halves the chance of a karuta being sealed.	Purchased for 6 magatama
-Containment	Completely protects the karuta set to the left of this card from being sealed.
+		
+		
 
-This card cannot be sealed.
+		
+		
+		
+	
 
-Note: Only works on the single one to  the left not all.	Purchased for 5 magatama.
-Doll Calling	Press CTRL (B)  and SHIFT (X) simultaneously and then press  space to consume 800 souls and summon a mechanical doll to the location.	Purchased for 7 magatama.
-Hotaruya Coupon	When revived, the game will resume from Hotaruya.
+	
+		
+		
+		
 
-Get 20% off your purchases at Hotaruya.	Spend a certain amount of money at Hotaruya’s Shop. 
-Friends from Another World	Nyoi-taro follows behind, shining light on the area.
-
-This light does not affect the wanderer's vision.	Special slug pet interactions in the hub world must be achieved. 
-Bearded Dandy	When you left-click something happens.
-
-Only Beard knows what will happen and when.
-
-This card cannot be sealed.	Purchased all the karuta cards and talk to Yakumo (The Barkeep.)
-Basic Endurance	Slightly increases stamina recovery speed.	Purchased for 5 magatama.
-Adrenaline	When discovered by an Apparition, your stamina will be fully restored.	Purchased for 8 magatama.
-Runner's High	When you run out of stamina, it will cost 10 health points to recover half of your stamina.
-
-If you don't have enough stamina, it won't be effective.	Purchased for 7 magatama.
 Reckless 	Running into an Apparition has a 50% chance of incapacitating the Apparition for a few seconds.	Purchased for 8 magatama.
 Automatic Doors	If you interact with the door while running, it will close behind you as you pass through it.	Purchased for 5 magatama.
 Sturdy Door	Apparitions now have slightly longer time to break down doors.	Purchased for 5 magatama.
