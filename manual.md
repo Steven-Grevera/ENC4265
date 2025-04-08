@@ -280,7 +280,7 @@ Using certain karuta can allow for corruption to be negated through the use of p
 
 On most difficulties other then deluge, the best way to get rid of corruption entirely is to walk over to a skeleton’s remains. Flowers growing out of it will drain your corruption bar until it is entirely free. Making skeletons good to seek out in corridors with heavy amounts of swamp and rain. 
 
-Get images of a swamp and rain descending on a player. Maybe even an image of the boss escape run level as well perhaps. As well as the actual bar.
+**Will Get images of a swamp and rain descending on a player. Maybe even an image of the boss escape run level as well perhaps. As well as the actual bar.**
 
 
  
@@ -972,7 +972,7 @@ Caccoon Moth’s guard this room and the Magatama within. The only way to obtain
 
 Upon the completion of the level of a corridor, you will receive a series of medals with a set valuation of points and from those points, be granted a rating. The ratings consist with the medals unlocked and what are obtained as a result. If enough rating is obtained, you will receive Bonus Magatama for purchasing further karuta cards. 
 
-*Will Get image of an aftermath screen with my rating in it. To post at the top of this.*
+**Will Get image of an aftermath screen with my rating in it. To post at the top of this.**
 
  
 ## Medals and Their Valuations
