@@ -483,27 +483,6 @@ Selecting an option will cause your character to drink some coffee as an animati
 | Dandyism Blend | 	100 Coffee Beans | Slightly increases the chances of Bearded Dandy activating and of positive effects occurring from it’s use. |
 
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
- 
 # The Shadow Corridors (Generated Maze Levels)
  
 
@@ -739,49 +718,63 @@ When picking up items as well, there is a chance for you to be jumped by spiders
 | Item Name | Use |
 |---|---|
 | Onigiri | Restores health and stamina. | 	
-	
-	
-Firecrackers	Directs Apparitions to the sound of the firecracker and covers your own footsteps as you traverse the level. Can also be used to scare away “Pest” level foes. 
-Shining Stone	Places a stone on the ground to mark locations of interest to you and provide a small amount of light.
-Mysterious Key	Used for opening locked doors which tend to be rooms with Magamata waiting to be collected.
-Clairvoyance	Allows you to see through the walls and floor as well as darkness itself. Also picks out item in color, Pests and Apparitions as well. 
-Barrier Card	When used in a partitioned room, it creates a barrier around the room.
-Sound and vision are blocked between the inside and outside of the barrier, and only the player can enter or exit the boundary.
-Star Hourglass	Disables time so that nothing can harm you and also allows you to walk on water without invoking corruption and at a faster speed.
-Bronze Hand Mirror	Instantly teleports to another random location on the level.
-Type 26 Revolver Pistol	Right click to aim and then fire with left click. Shooting Corrupted Humans will make them disappear. Shooting Apparitions will stun them. Shooting the key sockets on a door will force the door open but destroy the pistol in the process. Has a chance to misfire, or break before firing. 
-Hotaruya Ticket	Teleports you to the Butterfly Shop. 
-Ice Candy	It restores some health, stamina and cleanses some corruption. 
-Candle of Life	Place at the alter to receive a new Candle Light (Life Point) if you had one go out.
-Thunder Spear	Right click to aim and then left click to throw the spear. Whatever it touches will be turned to ash, making it stronger then the Revolver. It only has one use. It can also be used to break locked doors.
-Arch	Slashing an Apparition will disable them for a certain period of time but
-will cause you to accumulate Corruption. 
-
- 
+| Firecrackers  | Directs Apparitions to the sound of the firecracker and covers your own footsteps as you traverse the level. Can also be used to scare away “Pest” level foes. | 
+| Shining Stone  | Places a stone on the ground to mark locations of interest to you and provide a small amount of light. |
+| Mysterious Key | Used for opening locked doors which tend to be rooms with Magamata waiting to be collected. |
+| Clairvoyance  | Allows you to see through the walls and floor as well as darkness itself. Also picks out item in color, Pests and Apparitions as well.   |
+| Barrier Card  | When used in a partitioned room, it creates a barrier around the room. Sound and vision are blocked between the inside and outside of the barrier, and only the player can enter or exit the boundary. |
+| Star Hourglass | Disables time so that nothing can harm you and also allows you to walk on water without invoking corruption and at a faster speed.  |
+| Bronze Hand Mirror | Instantly teleports to another random location on the level. |
+| Type 26 Revolver Pistol | Right click to aim and then fire with left click. Shooting Corrupted Humans will make them disappear. Shooting Apparitions will stun them. Shooting the key sockets on a door will force the door open but destroy the pistol in the process. Has a chance to misfire, or break before firing. |
+| Hotaruya Ticket | Teleports you to the Butterfly Shop. |
+| Ice Candy | It restores some health, stamina and cleanses some corruption.  |
+| Candle of Life | Place at the alter to receive a new Candle Light (Life Point) if you had one go out. |
+| Thunder Spear | Right click to aim and then left click to throw the spear. Whatever it touches will be turned to ash, making it stronger then the Revolver. It only has one use. It can also be used to break locked doors. |
+| Arch | Slashing an Apparition will disable them for a certain period of time but will cause you to accumulate Corruption. |
 
 ## Specific Passive Items
 
-Passive Item Name	Effect
-Lizard's Tail	If you are grabbed by a Apparition, you will consume 30% of your health and be teleported elsewhere. 
-Doubtful Knight’s Spur	Increases stamina recovery speed.
-Lucky Kokeshi Doll	Increases the rate of items appearing when you open drawers.
-Insect Repellent	Neutralize the threat of insect Pests, allowing you to walk on them without taking damage, at the cost of the usage bar of this item.
-Barstool for A Hazy Night	You hear the whispers of the skeletal remains, increasing the amount of souls you obtain from one and also restores your health whenever you obtain souls as well.
-Feather of Darkness	Greatly reduces fall damage and negates damage from anything that would harm your feet besides pests (Such as crystals from The Glass Building’s Gimmick.) 
-Purifying Hydrangea	The rate at which corruption accumulates is slowed down and you no longer take damage over time from corruption.
-Beast Sandals	Every time you walk you will make a loud noise but also gain souls.
-Hibana's Charm	Similar to the Lizard’s Tail but takes no health and operates on if you are discovered as opposed to being grabbed. 
-Love Bread	If you run into an Apparition, you will briefly disable the Apparition and take some damage yourself.
+| Passive Item Name | Effect |
+|---|---|
+| Lizard's Tail | If you are grabbed by a Apparition, you will consume 30% of your health and be teleported elsewhere. |
+| Doubtful Knight’s Spur | Increases stamina recovery speed. |
+| Lucky Kokeshi Doll | Increases the rate of items appearing when you open drawers. |
+| Insect Repellent | Neutralize the threat of insect Pests, allowing you to walk on them without taking damage, at the cost of the usage bar of this item |
+| Barstool for A Hazy Night | You hear the whispers of the skeletal remains, increasing the amount of souls you obtain from one and also restores your health whenever you obtain souls as well. |
+| Feather of Darkness | Greatly reduces fall damage and negates damage from anything that would harm your feet besides pests (Such as crystals from The Glass Building’s Gimmick.) |
+| Purifying Hydrangea | The rate at which corruption accumulates is slowed down and you no longer take damage over time from corruption. |
+| Beast Sandals | Every time you walk you will make a loud noise but also gain souls. |
+| Hibana's Charm | Similar to the Lizard’s Tail but takes no health and operates on if you are discovered as opposed to being grabbed. |
+| Love Bread | If you run into an Apparition, you will briefly disable the Apparition and take some damage yourself. |
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
  
 
 
 ## Specific Light Source Items
 
-Light Source Name	Effect
-Flashlight	A stronger light source then the basic lighter. Can be detected easier however by Apparitions as a result. 
-Glowing Butterfly Lantern	A light source that when turned on, is not detectable by Apparitions. It glows green instead of standard light. The more souls you have, the brighter the green light will become. 
-Two-Hole Candle	A red light source that takes one of your Candle Lights (Life Points) to light up the area. Once lit, if an Entity touches the lit Candle, they will be cremated and removed from the corridor. 
+	
+	
+	
+	
+
+| Light Source Name | Effect |
+|---|---|
+| Flashlight | A stronger light source then the basic lighter. Can be detected easier however by Apparitions as a result. |
+| Glowing Butterfly Lantern | A light source that when turned on, is not detectable by Apparitions. It glows green instead of standard light. The more souls you have, the brighter the green light will become.  |
+| Two-Hole Candle | A red light source that takes one of your Candle Lights (Life Points) to light up the area. Once lit, if an Entity touches the lit Candle, they will be cremated and removed from the corridor. |
 
  
 
@@ -869,11 +862,6 @@ The Haikara are a type of stylish, Eurocentric Japanese clothing that were popul
 The Mayubo will start attached to a Magatama, like a parasitic organism. It will be inside a large blood red tumor looking growth on the ceiling that is attached to the Magatama. It will not activate and burst out this tumor, unless you pick up the Magatama. This tumor, is likely a “cocoon”, hence, it’s name of Mayubo, which is a name which means “Cocoon” due to the Kanji: 繭
  
 Once it has emerged, it will cry loudly with the face of a baby and pursue you. It is a fast Apparition and can instantly break down doors. Your best bet is to have means to stun it such as a gun and then to flee as fast as you can. Once you have escaped it’s range and your heartbeat returns to normal, The Apparition will curl up on the ground, running out of lifeforce and die there. 
-
- 
- 
-
-
 
 ### Trauma
  
@@ -992,14 +980,36 @@ Medals will be rewarded for specific actions such as completing a level within a
 
 **Note: If an item is part of the series, such as “Time Medal 3”, by obtaining Time Medal one, you also obtain Time Medals 1 and 2 as well, giving a total valuation of “9” points, as you get all three medals together.**
 
-Medal	How To Obtain	Valuation
-Time Medal 1	Complete the level in under 40 minutes	+3 
-Time Medal 2	Complete the level in under 30  minutes	+3 (6 Total)
-Time Medal 3	Complete the level in under 20 minutes	+3 (9 Total)
-Survival Medal 1	Clear the level with total damage under 100 to your health.	+3 
-Survival Medal 2	Clear the level with total damage under 50 to your health.	+3 (6)
-Survival Medal 3	Clear the level with total damage under 1 to your health (Take No Damage)	+3 (9)
-Covert Medal 1	Complete the level without being found by the Apparitions more than twice.	+3 
+| Medal | How To Obtain | Valuation |
+|---|---|---|
+| Time Medal 1  | Complete the level in under 40 minutes |  +3 |
+| Time Medal 2 | Complete the level in under 30  minutes  | +3 (6 Total) |
+| Time Medal 3 | Complete the level in under 20 minutes | +3 (9 Total) |
+| Survival Medal 1 | Clear the level with total damage under 100 to your health. | +3 |
+| Survival Medal 2 | Clear the level with total damage under 50 to your health. | +3 (6) |
+| Survival Medal 3 | Clear the level with total damage under 1 to your health (Take No Damage) | +3 (9) |
+| Covert Medal 1 | Complete the level without being found by the Apparitions more than twice. | +3 |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+		
+		
+	
+		
+		
+		
+		
+		
 Covert Medal 2	Complete the level without being found by the Apparitions more than once.	+3 (6)
 Covert Medal 3	Complete the level without being found by the Apparitions or even having any sounds heard.	+3 (9)
 Great Cremation Medal	Cremate 2 Apparitions using the One Hole Candle light source item.	+3 (4)
