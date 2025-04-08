@@ -1,16 +1,24 @@
 [Home](index.md) | [Manual Assessment Memo](Charbroil_Grill_Manual_Memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md) | [Major Projects](Major_Projects.md) | [Contact Me](Contact_Me.md)
 
- 
+ ![image](https://github.com/user-attachments/assets/ea791799-5005-43d2-94c1-9cae99890717)
+
 # Shadow Corridor 2: An English Guide To The Japanese Mythology Maze
 
 
 # Introduction
 
 Shadow Corridor 2 is a maze style horror game in which you are given a set predetermined theme, which your “level”, or rather, “corridor”, in this sense. Each “corridor”, is procedurally generated upon level selection based upon a seed which will ensure that each and every experience you have is unique. The layout learned from one session, will not be the same layout for the next even if they are the same corridor and vice versa. 
- 
+
+![image](https://github.com/user-attachments/assets/0429fc8e-732d-4bd6-8b5b-ad9d469c5188)
+
 Amo No Yohira is the spiritual land in which you find yourself, a world of the dead and a world of corrupted infesting water. Beware the water while your journey takes place here, lest you come to regret it. 
- 
+
+![image](https://github.com/user-attachments/assets/3b49031f-3c78-42d4-a358-82a9c8a4730d)
+
+
 Your purpose in each corridor is the find an item known as Magatamas, which are green jade like objects that serve as “keys” to escape the maze. Your difficulty will determine if how many you need to escape, scaling from 3-5. Upon obtaining the required Magatamas, you can then escape the level by finding the generated exit which is never in the same place. Using a type of guide doll or a compass to help you find this exit as well. Keeping track of your progress through the use of glowing stones and your own mental notes as you progress through the maze.
+
+![image](https://github.com/user-attachments/assets/df86fd81-034c-4026-8a60-80606b4b05cc)
 
  
 Shadow Corridor 2 has a large fanbase primarily situated in Japan, yet many English players have also began to play and enjoy the game. However, when looking up information about the game online, most of that information is in Japanese or translated very poorly into English. This guide aims to solve that issue by establishing that information firmly into proper English words and instructions. 
@@ -55,13 +63,15 @@ Shadow Corridor 2 can be purchased on Console exclusively on the Nintendo Switch
 Alternatively, you can use the following link if you are reading this guide online to be taken right there: https://www.nintendo.com/us/store/products/shadow-corridor-2-switch/ 
  
 # Main Menu: 
+![image](https://github.com/user-attachments/assets/0f7872a5-cae0-46d1-9a19-d82d603b67d0)
   
 When you boot up the game software, these 4 options will present themselves to you accordingly. Hitting quit game will close the game software and take you out of everything.
 
 
  
 # Start A New Game 
- 
+![image](https://github.com/user-attachments/assets/a22d0ba1-1bab-4e83-92f6-53f9c56aa102)
+
 
 Selecting Start A New Game will allow you to pick a save slot to use out of your three options, or will wipe out an existing file if you so desire to do so. 
 
@@ -80,7 +90,8 @@ If you are using Nintendo Switch, you will use the Switch based controllers or c
 
  
 ## Game Settings
- 
+![image](https://github.com/user-attachments/assets/cfb84465-00b3-403f-8569-2a3992bc3e35)
+
 
 A series of options will be present in this tab and will each have different effects to your experience with the game. 
 
@@ -109,7 +120,9 @@ Whispers of The Remains: When collecting “souls” **(more on this later, (lin
 
  
 ## Control Settings
- 
+![image](https://github.com/user-attachments/assets/4166a22c-6a99-42b6-b3d9-169b0cb78618)
+
+
 A series of options will be present in this tab and will each have different effects to how your controller/mouse/keyboard operates and feels. 
 
 Look Sensitivity Mouse: Exclusively for Keyboard and Mouse Users, this option determines the sensitivity when looking around in your first person perspective with the mouse.
@@ -130,14 +143,17 @@ Aim Assist Interaction: This option will lock your interaction within a certain 
 
  
 ## Control Assignments 
- 
+![image](https://github.com/user-attachments/assets/db4234cb-4894-48fa-8f48-f19e67f331b9)
+![image](https://github.com/user-attachments/assets/e4370103-a7c8-4313-a4a4-48bd2bfe0502)
+
  
 In this section for keyboard and mouse will be a series of keybindings or mouse interactions that will activate the given action in the scenario’s they list. The top being Mouse and Keyboard Settings and below it being Gamepad settings, showing you what buttons on your controller or gamepad and what they do. 
 
  
 
 ## Graphics Settings 
- 
+![image](https://github.com/user-attachments/assets/a1e4e1fc-9bf2-4d0a-b8d0-b9347d1f7b37)
+
 
 This tab is all about graphical settings for the game itself and will do various graphical things for the game itself. Options in here will mostly effect your visuals in game and be effected by your Graphics Card in your PC or system device. 
 
@@ -162,7 +178,9 @@ Fish Eye Lens: A fish eyes lens effect is a panoramic type of view and can essen
 FPS Cap: Setting an option value here will limit FPS of the game to a certain value. Setting it to off will allow it to run without a cap. Setting FPS caps can improve performance if performance issues arise. Or if a preferred FPS is desired to be experienced without any deviations.
  
 ## Sound Settings
- 
+
+![image](https://github.com/user-attachments/assets/261ae3d9-fe4d-4fe6-8a8d-9c6c3e28836d)
+
 
 In this tab you will find various audio levels for different sets of sounds and the levels in which they will be heard from.
 
@@ -181,13 +199,15 @@ Footsteps: Determines the sound of your footsteps in game if you wish to hear th
 Environmental Sounds: This value determines the atmospheric sounds  that can exist in corridors such as water style effects in levels that exist with them. 
  
 # General Game Mechanics
- 
+ ![image](https://github.com/user-attachments/assets/20c50b62-9a3b-43ba-88d0-417534ce5877)
+
 In order to survive traversing the corridors of this game, you must manage a series of survival mechanisms built into the game in order to succeed. These all must be managed successfully or else you could end up with a game over. Resulting in you having to generating a new level of the corridor and having to rediscover a brand new layout from scratch. 
 
 
  
 ## Lives (Candle’s Lit)
- 
+ ![image](https://github.com/user-attachments/assets/f925d099-eea9-44b9-b8dd-39bbc10cf2ce)
+
 Once you find yourself in the level of a corridor, the candles will appear in the circled location of your screen at the top left. These candles indicate your lives. When you run out, you will obtain a “Game Over” and be given the option to “retry” which will allow you to generate a brand new level of that corridor or “Return to Base” which will take you back to your Hub. 
 
 With a series of two items that can be found while exploring the corridors, you may find an extra life. Restoring one of your extinguished candles. 
@@ -199,42 +219,47 @@ With a series of two items that can be found while exploring the corridors, you 
 
 
 ## Health
- 
+ ![image](https://github.com/user-attachments/assets/f64a2dde-2dcb-4e68-9343-ff6c83994a01)
+
 Next to the candles on the right side is a bar with a value of 100/100. The number on the left is your current health and the number on the right side is your maximum total health you can have. If your health on the left side reaches “0”, you will lose a candle and if you run out of candles, you will obtain a “Game Over” as a failure condition. 
 
 Several items can restore health as well as certain Karuta (Link) and even coffee effects (Link) to try and keep you alive. You can even increase your maximum health by finding a special well/pool room found in your journeys, increasing your max health to 130 at the cost of 1500 souls. (Link)
 
 
 ## Stamina
- 
+ ![image](https://github.com/user-attachments/assets/2f022da8-1d9e-4e15-aa0a-38405e47f9aa)
+
 Stamina is used to sprint in the game and allows for running if being chased or just traversing things faster. Stamina can be increased in it’s regeneration rate, never in it’s maximum amount. Using coffee, karuta and some passive items. 
 
 ## Magatama Total
- 
+ ![image](https://github.com/user-attachments/assets/67ae82b6-d914-4b88-bbd1-d8c3b8bb2413)
+
 To the right of your candles and right below your health bar is the total amount of Magatama you have in your current level’s session. As you pick one up, you will obtain a green glowing orb in the orbs listed in that section. If you play at higher levels, this count of three can raise to 5. You must have all orbs glowing green in order to properly use the levels exit. 
 
-
-
- 
-
- 
-  
- 
+ ![image](https://github.com/user-attachments/assets/f907c05c-0626-4f04-866a-f848216cb66b)
+ ![image](https://github.com/user-attachments/assets/1841d1da-8bae-4057-abd0-72460065c553)
+ ![image](https://github.com/user-attachments/assets/eba649d5-749c-4973-a791-8638c1fa58e1)
+ ![image](https://github.com/user-attachments/assets/157d4661-1edb-4be9-9725-f9ec0d86dadc)
+ ![image](https://github.com/user-attachments/assets/f21f81d0-5be1-4ae3-b767-a991003535d4)
 
 ## Souls: 
- 
+![image](https://github.com/user-attachments/assets/4932c701-5a63-4331-9685-c082b086984f)
+
 Souls are the currency of the corridors. You can use souls for various things, such as karuta effects such as the map which will drain them constantly. Items from the Butterfly Shop (Link), helpful corridor rooms (link) and for things such as the Butterfly Lantern Light Source (Link). 
 
 Souls are obtained through checking resource gathering spots, which are specific and designated in design based on the corridor typing. 
- 
+![image](https://github.com/user-attachments/assets/0ce8a616-36e8-4f1d-85c9-85e7c2fff465)
+
 Or by finding skeleton’s in hallways or rooms, which can appear within any corridor. 
 
- 
+![image](https://github.com/user-attachments/assets/43b76537-98a0-468b-b04d-40aa4e9a34bf)
+
 
 Interacting with either of these objects, will net the player a number of souls. The number obtained for the player can be upgraded with certain karuta for those who want to play with a heavy souls earning potential build. 
 
 ## Items
- 
+![image](https://github.com/user-attachments/assets/cf0449f0-db63-4215-9b17-fe97985e1659)
+
 Items are placed within the section circled and this section will display your max inventory size. By pressing your destinated inventory button, you can open this menu to look as the image above does, though yours might appear smaller in slots. That is due to the fact that in the image above, a karuta is being used which increases the total amount of inventory slots you have for unique items. 
 
 Items have a set number that can be picked up. For example, glowing stones cap at under normal circumstances at 20 stones. You can not duplicate an item beyond that cap into a second slot. Each slot is for unique items only. However, with a karuta, you can increase the cap of held number of the item in question by a set amount that is varied by that item type. 
@@ -243,7 +268,8 @@ For more information on all items in Shadow Corridor 2, click here (Link).
 
 
 ## Passive Items
- 
+![image](https://github.com/user-attachments/assets/4c10183f-e9c4-4061-b969-705508d9b1a2)
+
 Passive items are held items that you hold on your left side of your inventory that have various effects. Such as Insect Repellent, which makes it so insect based Pests cannot deal damage to the player, or will even be alerted to their presence.
 
 Passive items are used up without a button needing to be pressed, which will be indicated by a Grey Bar outlining the passive items uses. Some items will activate a single time, such as the charm item shown above, when the player is grabbed, teleporting them away. 
@@ -254,22 +280,26 @@ For more information about the existing passive items in Shadow Corridor 2, see 
 
 
 ## Light Source Items
- 
+![image](https://github.com/user-attachments/assets/fe28a4e6-b23b-448b-9912-6407fee34bfe)
+
 
 Light Source items are various items that provide light source in an area but may also have other effects. In Shadow Corridor 2, you always start with an infinite basic light source in the “Lighter”, which is obtained at the start of the game and exists no matter what. It cannot be replaced. 
 
- 
+![image](https://github.com/user-attachments/assets/900dc911-0be9-40de-804a-2ab6851d37b8)
+
 
 When a light source is on, not only will a room get brighter, it may have an effect. You can see this item is “on” based on the small sun icon beneath the light source item itself. Some light sources are stronger then others in terms of “brightness”, for example, the flashlight being stronger in directed light then the lighter. However, more light makes it easier for apparitions to find the player and is one of the easiest ways to get spotted. 
 
 For more specifics on Light Source items, see: (Link) 
 
- 
+ ![image](https://github.com/user-attachments/assets/259a7180-42a1-4307-b09a-570b818b8b04)
+
 
 
 
 ## Corruption 
- 
+![image](https://github.com/user-attachments/assets/a29ffb7a-622d-407b-bf01-7a0b09104d41)
+
 Corruption builds up with exposure to water in Shadow Corridor 2, as The Shadow Corridor’s are part of a larger realm of the dead. Water applies to things such as “Swamps” which can spawn randomly in the world or as specific parts of specific corridor types. Another type of “water” that can fill this gauge is “rain”. This rain will build up corruption. 
 
 On deluge difficulty, this water will bombard you and be even more deadly in all of it’s forms as well. 
@@ -285,62 +315,80 @@ On most difficulties other then deluge, the best way to get rid of corruption en
 
  
 ## Insanity 
- 
+ ![image](https://github.com/user-attachments/assets/393cc28b-9a7c-4ee1-a920-b4b6c31c10d7)
+
 Insanity is a yellow bar that will fill up far rarer then corruption. It is caused by being in proximity to certain apparitions or environmental factors that can be triggered in the corridors. 
 
 When insanity is built up to max, you will be stunned in place and let out a loud scream. Alerting apparitions to your location or if you were in a chase, causing you usually to get caught if you don’t break out of it fast enough. By clicking on the indicated button fast, you can break the stun faster. You will also take health damage while in this state. 
 
  
 ## Hiding Places
- 
+![image](https://github.com/user-attachments/assets/17c1dc97-f9ea-49de-9453-3a3fb7f9e076)
+
 Throughout the corridors, you will find places that you can hide in if an Apparition is on your tail or nearby. These places of protection must be found in order to avoid being discovered and if you have your light source on without the right karuta on, you can still be discovered. So it’s best to keep that off. All corridors have different types of hiding places that can range from closets to tiny baskets, all depending on the corridor in which you find yourself exploring. 
- 
+ ![image](https://github.com/user-attachments/assets/9f08911f-e457-4b8d-812b-6a69906cb07d)
+![image](https://github.com/user-attachments/assets/1c77f831-bfe2-4b51-b674-01e9aebfe9ef)
+
+
   
 #The Hub
+![image](https://github.com/user-attachments/assets/fd561390-44be-4f34-bf80-6ff4dcf57aec)
  
 
 After getting through the games intro, you will arrive at the hub. In the hub will be several options that will assist you on your corridor explorations. 
 
 ## Hub Music Control
- 
+![image](https://github.com/user-attachments/assets/3139efc3-360a-491b-aba0-f106bce5af6f)
+
 
 By interacting with this device while in the hub, you can cycle through a series of soundtracks in the game itself. Pick your favorite one! Feel free to change it at any time by coming to this location. 
 
 
  
 # Karuta Cards
- 
+![image](https://github.com/user-attachments/assets/48f05b1e-724c-4f30-a0f8-09be400f5302)
+
 
 Karuta Cards are benefits that you bring into your corridor explorations that all have different benefits and effects. One such example is above. Gamers with experience with other games, might call these “Perks”. 
 
 Karuta are one of Shadow Corridor 2’s most powerful benefits as they can completely change your experience while exploring corridors as their effects can be extremely powerful and dynamically change aspects of the game in some way. They can vary from things like using a special map that can help you navigate, to simple but powerful buffs like stat resistances to certain negative traits you can run into while exploring, such as Corruption. 
 
- 
+![image](https://github.com/user-attachments/assets/c52f1031-0a01-410f-8a12-72710e46bca6)
+
 
 Karuta are limited to 5 total by the end game of Shadow Corridor 2, with an extra slot possible if found in a level itself for a price. 
+
+![image](https://github.com/user-attachments/assets/5d6ddcef-e0a5-418f-a33b-f3bc23d61f20)
 
 To select you Karuta loadout at The Hub, come to this location listed below and interact with the table.
  
 
 ## Sealed Karuta Cards
- 
- 
+
+![image](https://github.com/user-attachments/assets/1829f5bc-b874-4c6e-ba58-15f3991f501b)
+![image](https://github.com/user-attachments/assets/cb178a48-5d7a-4290-91a9-8e1c65cfc77e)
+
+
 Corrupted  Human’s or Impure look like the above and if they grab you, they will hold onto you for a bit and they will then seal a karuta card at random. Some karuta can protect this sealing effect from occurring but so too can certain coffee effects. (See coffee below **(Link Later)**. **Note as well that while grabbed, you can still be harmed by hostile apparitions. You will also take health damage from the grab itself.** 
 
- 
+![image](https://github.com/user-attachments/assets/bbc2110c-8f4c-44fd-9b7e-75ece8dbab83)
+
 
 The only way to unseal karuta is to spend 1000 souls at the butterfly shop, which is randomly located in each corridor. Spending the 1000 souls will unseal all karuta at once for the exact same price, meaning in some situations it might be better to wait for more to be sealed before spending your souls while out exploring. 
  
 
 
 ## Bonus Karuta Slot
- 
+ ![image](https://github.com/user-attachments/assets/9239ad18-8c36-4472-800c-c4b4039445f4)
+
 While exploring in Corridors, you may find a Karuta card table. By spending 1500 at these randomly generated locations, you will unlock an additional Karuta slot for the rest of that corridors exploration and it will be lost on it’s completion or a game over while exploring. 
 
 The bonus karuta card gained is completely up to you to choose from and will bring up your menu of existing cards accordingly. While looking through your cards, the game is paused and so is the corridor timer. So take as long as you need!
 
- 
- 
+ ![image](https://github.com/user-attachments/assets/c8c557e3-3300-461b-b428-5cf56d63c069)
+
+ ![image](https://github.com/user-attachments/assets/9471c385-eebe-4303-a7c5-2c7e50d620a6)
+
  
  
 
@@ -348,7 +396,9 @@ The bonus karuta card gained is completely up to you to choose from and will bri
 
 ## Buying More Karuta
 
- 
+![image](https://github.com/user-attachments/assets/32da4faa-049f-4b9b-988f-1954fdd5e196)
+![image](https://github.com/user-attachments/assets/56443f93-995f-46b1-a02e-91b09a9d224d)
+
 
 Karuta are bought with Magatama, which you obtain 1 of per your explorations outside of the hub in corridors itself. You do not have to complete an exploration in full of a corridor or even finish a session to obtain this currency to spend. The moment you pick one up in a corridor, it is added to your inventory. 
 
@@ -449,20 +499,26 @@ Any time the game is loaded or a corridor exploration ends and you load back int
 | Shura's Shackles | Your maximum health will be reduced to 1, and your stamina recovery speed will be greatly reduced. This card cannot be sealed. | 	Clear all stages with S rank. | 
 
 # Coffee 
+![image](https://github.com/user-attachments/assets/1bdc1c09-adb8-4bb8-96ab-30aee766a288)
+![image](https://github.com/user-attachments/assets/b154265c-9777-4acf-8792-e03369e0ceab)
 
- 
  
 
 Coffee provides smaller but helpful benefits to the player at a selection of 1 of each. Unlocking other coffee requires Coffee Bean Bags which can be found while exploring corridors. 
- 
+![image](https://github.com/user-attachments/assets/0aa0e452-9bb7-49a1-9e6f-f747ce62d6b2)
+
 
 Collecting a coffee bean bag while exploring corridors, regardless of if you complete it to it’s exit or get a “game over”, keeps the bean forever in your amount collected total. Each corridor can only have a set amount collected within it maximum, before they no longer count toward your grand total. This amount can be seen on the corridor level selection screen.
- 
+ ![image](https://github.com/user-attachments/assets/6b6f0c8a-6ab7-4490-b681-7593b0ba86c8)
+
 To access the coffee menu, select the clipboard menu on the table from the above image **(Label figure properly later for referencing-)**  and you will be greeted to a selection of options. 
 
+![image](https://github.com/user-attachments/assets/a75475a4-0645-43db-b5d7-9c75bdf4ec45)
  
 
 Selecting an option will cause your character to drink some coffee as an animation and give you the coffee benefit that you selected. Please note that as well that using a coffee item despite it’s numerical “cost” does not actually use any beans and is more so an unlock requirement, not a “cost”.
+
+
  
  
 
@@ -484,7 +540,8 @@ Selecting an option will cause your character to drink some coffee as an animati
 
 
 # The Shadow Corridors (Generated Maze Levels)
- 
+ ![image](https://github.com/user-attachments/assets/68ab7140-2651-4700-99c3-4bbe72eff7ac)
+
 
 To select a corridor to play through, open a door toward the back of the bar on your right and then walk up to a well with the stone carving of a snail’s face and eyes. 
 
@@ -501,7 +558,8 @@ If you fail to exit the level and run out of lives, all of your progress in that
 
 
 ## Difficulty 
- 
+![image](https://github.com/user-attachments/assets/99c1fae0-da0e-47cb-9438-977709c063bc)
+
 Shadow Corridor 2’s difficulty levels are fairly straightforward and pretty well kept to their names. However, much of what is changed isn’t clear until you play the game at higher levels and by then, you may have forgotten how you started. If you are new to the Shadow Corridor franchise, or maze style games in general, you should certainly pick Beginner. 
  
 ### Beginner 
@@ -616,12 +674,16 @@ Shadow Corridor 2’s difficulty levels are fairly straightforward and pretty we
  
 
 ## Light Markers
- 
+![image](https://github.com/user-attachments/assets/4424af56-4490-4af2-b8fd-793ba5d2aec6)
+
 Across your designated corridor’s level, you might find various forms of interactable light sources. Turning these one will mark the area as explored by you and provide you with higher visibility in the area. However, what provides you with better visibility, may also provide the apparitions with higher visibility as well depending on the corridor 2. So keep this in my when deciding which lights to turn on.
 
 ## Trapdoors 
- 
+![image](https://github.com/user-attachments/assets/a748c8e3-c6ce-4b18-93ec-fca64d4b2758)
+
 Trapdoors will spawn in the ground in rare occasions which lead to linked locations. If you walk over one twice, you will fall through. However, if you walk over it once while being pursued by an Apparition, the Apparition that walks over it will fall through the trapdoor, saving you from the chase. If you fall through yourself, you will be teleported to the corresponding location connected with the trapdoor around the corridor which is randomly generated. However, an Apparition that falls through will simply despawn. 
+
+![image](https://github.com/user-attachments/assets/ae5e3f54-a037-47fe-a94f-d34a32a013cb)
 
    
 
@@ -636,80 +698,99 @@ Across the levels you explore amongst the corridors, you will encounter special 
 
 
 ## Extra Life (Candle) Rooms 
- 
+ ![image](https://github.com/user-attachments/assets/d5025287-bf18-41bd-a384-09f786c455db)
+
 These exist as two different parts, a section which contains a buyable candle for 1500 souls. (3000 in Marathon.) 
 
 Then the second part is the actual shrine in which you place the candle. In placing the candle, you will obtain a new life if you had a candle extinguished.
 
- 
+![image](https://github.com/user-attachments/assets/62eac86d-db78-4035-9c53-2c3f30cdf0c5)
+
 
  
 
 
 ## Doll Rooms
- 
+ ![image](https://github.com/user-attachments/assets/d8041a79-249f-4e49-b35d-2944a3b18c0b)
+
 For the price of 1500 souls, you can buy this Doll, which will spawn onto the ground nearby. The doll will then upon being interacted with, wind up and will start to head in the direction of the levels exist. Serving as a guide to the exit for you. 
 
 While you are within a certain range of the doll, due to the flower in which it is holding, you will be cleansed of all corruption buildup, allowing it to be used as a mobile safe hub from corruption all the way to the exit. 
 
 For 800 souls instead, you can use one of your karuta card slots to spawn this same doll anywhere by inputting a button combination. This can also help with corruption if you are near full corruption build up. You must select this card at the start of the game or as an extra slotted card if you can find the table. 
+![image](https://github.com/user-attachments/assets/2c32ba30-2ec3-42e1-abd6-71b78686ffce)
+![image](https://github.com/user-attachments/assets/b638e22e-4026-4579-ad75-539edba8e0c9)
 
  
   
 
 
 ## Extra Health Well Rooms
- 
+ ![image](https://github.com/user-attachments/assets/b0ecb10c-5456-46ae-a638-2f6625a038be)
+
 For the price of 1000 souls, upon finding this well in a room, you can add 30 additional maximum health to your character for the duration of that level’s journey permanently. This effect persists even through death but does not persist beyond an exit/completion of a level, or a “Game Over”. 
+![image](https://github.com/user-attachments/assets/87662bfb-61b9-45a8-8433-3665f3251b0e)
 
  
  
 
 
 ## Swamps
+ ![image](https://github.com/user-attachments/assets/96682f1d-1be4-4a6d-98df-ccfa9afbe49f)
  
 Swamps don’t spawn on every corridor unless it is at the higher difficulties for the “Swamp Trap” Magatama rooms. The swamps when walked in will slow down the player’s movement drastically and also build up corruption at a fast rate. Traversing these could be extremely dangerous as a result. 
 
 Apparitions are not slowed by these unlike the player so if being chased by one, factor this into your decision making when choosing to traverse one. 
 
+![image](https://github.com/user-attachments/assets/83ff8382-9316-4d19-aabc-28161321ca55)
+
    
 
 
 ## The Butterfly Shop
- 
+![image](https://github.com/user-attachments/assets/913f42cd-3c67-4a6e-93e1-fece1c3c545b)
+
 The Butterfly Shop is owned by The Shopkeeper: Hotariya and has two means to get to it, which are mirrors which are randomly generated throughout the level of the corridor that your within. 
 
 A good way to indicate that your are approaching a mirror entrance to the shop, is hearing the sound of a toybox’s music playing. This music indicates that you are approaching a mirror whether behind a locked door or located somewhere within the level. 
 
- 
+ ![image](https://github.com/user-attachments/assets/ddd8ba2a-ae16-4b20-bc5f-ba1180b29905)
+
 
 Upon interacting with the mirror, the player can then teleport into a Butterfly Shop Hub, which consists of the mirror you used to reach it’s location and another to another location somewhere else in the level. If you look into the mirror before teleporting back from the shop, you can usually see the state it’s in. If you see flashing lights, this is a good indication that apparitions are nearby and you may want to consider waiting to teleport to that area. 
 
- 
+ ![image](https://github.com/user-attachments/assets/b5a7d369-14df-42e6-b63d-175b17c136a9)
+
 
 The Shopkeeper sells items for souls that range from items, passives, a single buyable coffee bean bag for the collection or archives. The Shopkeepers stock of an item is not unlimited and in the case of the coffee bean and the archive collectible, these can only be bought once in your save file per corridor. Whereas other items refresh on returns to the corridor after you escape or obtain a “Game Over” and generate a new one. 
 
 
+![image](https://github.com/user-attachments/assets/0bad8db0-e948-43fd-85d3-306f3c6a016e)
 
  
 
 By spending a certain amount of souls, the shop keeper will reward you with special karuta items over time and these do not have to be spent all at once and serve as a tracking across your save file. 
 
- 
+![image](https://github.com/user-attachments/assets/fd54e4c1-8d0b-4ec0-8985-fd3523c1b785)
+
  
 
 # Corridor Items
- 
+ ![image](https://github.com/user-attachments/assets/34ccb8ab-d725-4f3d-a5cf-4fc7b5c02e27)
+
 Corridor items are items that you pick up while exploring the level of a corridor. Certain karuta cards allow you to start with specific items to achieve purposes. Items can be used for a variety of purposes such as restoring health and stamina, scaring away apparitions, pests or drawing their attention somewhere else. Some are used to mark areas of the map or light up the map as a light source. Whereas others can be used to combat apparitions directly through the use of stunning or outright forced removal with the right item in hand. 
 
 Items are collected by opening up drawers scattered throughout the corridor levels in the form usually of desks and tables and are always indoors on levels that have an outside and inside. 
 
 The Compass item is a unique item that spawns at a very rare chance from drawers and when found, will display the exit’s location, guiding the player to the means of escape.
+![image](https://github.com/user-attachments/assets/affdd6e3-ddad-4af6-b0f0-880a3b65e4e6)
+![image](https://github.com/user-attachments/assets/ae69c316-d8bd-4ed2-80ea-f99a44261fac)
 
 
  
  
 When picking up items as well, there is a chance for you to be jumped by spiders as a “trap” that will do damage to you. This can also result sometimes in a karuta being sealed. The way to tell if it’s a trap or not, is the drawer should slightly open but not all the way and seem to get “stuck.” This will tell you the drawer is a trap. You can open it again to take damage and there will usually be an item inside. Giving you the choice: Some of your health and a karuta sealing chance for an item, or ignore it. 
+![image](https://github.com/user-attachments/assets/1d1e0bfd-1594-480e-a49d-f90ea7205e4c)
 
  
  
@@ -779,7 +860,8 @@ When picking up items as well, there is a chance for you to be jumped by spiders
  
 
 # Apparitions (Enemies)
- 
+![image](https://github.com/user-attachments/assets/a44ed994-d096-4678-abd4-6ca2a8ade344)
+
 Apparitions are wandering enemies that will usually proceed to extinguish a life should the player be caught by them regardless of health value.. All Apparitions behave differently and have unique characteristics. Some are even unique to specific corridors themselves or specific difficulties of those corridors. 
 
 To avoid an Apparition, players need to hide without any light sources in the corridors safe hiding zone which will change it’s appearance and type each corridor type. Some may be closets, some may be small baskets. If an Apparition finds you while you are hiding within a hiding spot due to unfortunate circumstances, you will lose a life regardless of health value. 
@@ -795,13 +877,19 @@ If you are being chased by an Apparition and you close a door behind yourself, d
 
  
 ## Apparition Types
-Teru teru bōzu (Screaming Dolls)
- 
-Apparitions which are covered in branded white cloth covering their faces. Their lower body of “feet” are hands and can be identified from far distances due to their loud screaming and constantly shaking speed of their limbs. They cannot hear sounds due to how loud they are and so are not prone to sounds other then firecrackers. They also only ever look in front of themselves and will not look behind unless they turn their entire bodies around. 
- 
-### Teru teru bōzu destroy doors extremely fast and on the higher levels, destroy doors instantly. They will destroy doors even if they haven’t spotted you sometimes. This is not cause for panic if you are not being chased, simply duck into cover and wait for their business to conclude. 
 
- 
+
+
+### Teru teru bōzu (Screaming Dolls)
+![image](https://github.com/user-attachments/assets/b94cf4a7-e06c-4c9e-bc40-160bc3d1d8a6)
+
+Apparitions which are covered in branded white cloth covering their faces. Their lower body of “feet” are hands and can be identified from far distances due to their loud screaming and constantly shaking speed of their limbs. They cannot hear sounds due to how loud they are and so are not prone to sounds other then firecrackers. They also only ever look in front of themselves and will not look behind unless they turn their entire bodies around. 
+ ![image](https://github.com/user-attachments/assets/9d667a70-cdcf-4e0f-bba7-360130e45fa6)
+
+Teru teru bōzu destroy doors extremely fast and on the higher levels, destroy doors instantly. They will destroy doors even if they haven’t spotted you sometimes. This is not cause for panic if you are not being chased, simply duck into cover and wait for their business to conclude. 
+
+ ![image](https://github.com/user-attachments/assets/7d0c06fc-cd2e-40f6-9c6b-a51c2b3b71c5)
+
 
 If being chased by a Teru teru bōzu, try to find a trap door fast as they are extremely fast and without items to stun them, you will be in great trouble without the ability to block them with doors. 
 
@@ -810,28 +898,43 @@ Outside of the game, Teru teru bōzu is a Japanese doll tradition involving the 
 
 ### Whirlpool Dancer (Kagura suzu)
  
- 
+ ![image](https://github.com/user-attachments/assets/de7c3c40-9718-49b4-985e-9fc1ffba45de)
+![image](https://github.com/user-attachments/assets/d610e7a2-6fe1-4845-8e27-cc6282172632)
+
 
 The Whirlpool Dancer will first be heard by their ringing bells, which are Kagura suzu, a traditional Shinto instrument that is meant to entertain the Gods and worn by forms of priest traditional uses. The Dancer is an old man in a mask in appearance. 
+![image](https://github.com/user-attachments/assets/4f7ad804-2b9b-4ed6-9928-0513e2f1f51e)
 
  
 The Whirlpool Dancer has a full 360 degree vision, is it is advised not to try and sneak up behind them and to stay calm, quiet and in the darkness. At the bare minimum, use light sources they cannot see for themselves, such as The Butterfly Lantern, to avoid detection. They can hear you and can even sometimes find you even if you are crouched, so it is best to hide to the best of your ability and preferably in a “hiding place” as opposed to out in the open.
- 
+ ![image](https://github.com/user-attachments/assets/a60af481-36f2-4796-a030-9d7480cc0562)
+![image](https://github.com/user-attachments/assets/bff46906-de97-4f8a-b1a3-2179beb7c8a4)
+
  
 
 ### Shion (Snail/Slug Monster)
- 
+ ![image](https://github.com/user-attachments/assets/f1fea948-6c0b-488d-99d1-7d9e7f71407d)
+
 The Shion is constantly crying and whimpering, usually in place in it’s most common form. Rarely, it can wonder the halls as a wandering form, that acts just like the stationary form but actually moves it’s locations. As it is blind, it won’t react to your flashlight or any other light sources which you may turn on. 
+
+![image](https://github.com/user-attachments/assets/0926d7b1-00e6-4621-b31e-f0dac0ca30d7)
 
  
 The Shion is entirely blind but on higher level difficulties, can sense your presence if you get too close. From a large radius, it can sense your movements, on the higher difficulties even something as simple as walking normally, will trigger this Apparitions attention and they will come to verify and check where you are. If you run while in the radius of these Apparitions, you will initiate a chase and these entities are extremely fast. Your only hope of escaping one is to quickly use a firecracker to cover your own movements and flee as far and fast as you can. You’ll likely need to throw several firecrackers at higher levels behind yourself, to keep it’s attention drawn just long enough to lose it. 
 
- 
+![image](https://github.com/user-attachments/assets/79d546a9-35b0-42f5-bc93-4a0514421f48)
+
+
 The Shion naming is due to the flowers which grow out of it’s head in some ways, though these flowers have the same effects of Hydrangea Flowers and will actually cleanse your corruption within a certain radius for the player. These flowers are called: Aster tataricus, or the word “Shion” in Japanese. Which means in the language of flowers: “I won’t forget you.” Implying that perhaps the apparition crying, is due to being forgotten. Alternatively It can also be interpreted that the name “Shion” in Japanese for females, is a name which means “A person who remembers, one who does not forget.” Which could explain why they are crying, for they remember something horrible and it torments them, based on the trauma apparition, this is likely another hint at the linkage to the main character. Shion can also mean “Purple Garden.”. Which relates to the flowers and colorations on them. All of these things, can be true at once and lead to the Apparition you see before you and could explain why the character even has some resemblance to the main character. 
 
 ### Mizuchi (Snake Woman)
- 
+
+![image](https://github.com/user-attachments/assets/dcfbd603-c3d1-4682-af17-f32c145aa047)
+
+
 The Mizuchi is a unique Apparition as it has no unique sound until it has found you, in which case it will scream at you in a woman’s shrieking voice. If you have light sources around you flickering and your heart beat is ringing out, this means that a Mizuchi is nearby. You must get to cover to hide as they can both see and hear you under the right circumstances. 
+
+![image](https://github.com/user-attachments/assets/562a347c-fc60-46fb-ae38-1d7214e6654b)
 
  
 If the Mizuchi  senses a loud enough noise, will borrow underground in which case, it’s presence cannot be heard or even seen at all. Not even your heart beats will go off. They will then emerge from the ground to scare you and chase after you after this occurs. This means that if you are in the clear sometimes, you are not always. 
@@ -842,29 +945,39 @@ In Japanese mythology, "mizuchi" (蛟, 虯) refers to a type of aquatic, dragon-
 
 
 ### Mechanical Doll 
- 
+ ![image](https://github.com/user-attachments/assets/03530e9f-08ce-45ba-995d-01aa0dfaadde)
+
 The Mechanical Doll Apparition only appears in The Shrine corridor and they will only begin to wander around or chase after you if you walk into their search lights from their eyes or trigger the map gimmick depending on the difficulty you are playing on. 
 
- 
+![image](https://github.com/user-attachments/assets/bcac902f-e484-4f08-9f16-41bd1b388a53)
+
+
 The Mechanical Doll can be shot and stunned by gunfire but will not make any indication aside from stopping it’s movement that it’s been hit. Additionally, they will not react to the sound of your running but will react to screaming Hanging Men, as well as firecrackers. Which you can use to your advantage to draw them away. If they see you however, they will pursue you at all cost. 
  
 ### Haikara (Stylish, Megaphone Heads)
- 
+ ![image](https://github.com/user-attachments/assets/4f376705-d54d-4291-9d81-cba8e50e4eb1)
+
 The first thing you will hear is a type of crazed chattering through a filtered technological wind pipe of some kind. These are the sounds produced through the megaphone. While it is within hearing distance of the player, it will start to build up your “insanity” gauge. Causing major issues if you end up not being able to find cover. As if you scream by becoming “frenzied”, you will be discovered and likely lose a Cande Light (Life Point). 
 
- 
+ ![image](https://github.com/user-attachments/assets/18261bd3-f9ca-485d-8beb-e83d204882c7)
+
 Haikara due to their lack of heads, are considered “blind”, to an extent, in that they won’t usually react to light sources at all. However, they will “see/sense” you if you can be found within a straight line and their ability to sense you will increase if you have light sources up, other then the Butterfly Lantern. 
 
 The Haikara are a type of stylish, Eurocentric Japanese clothing that were popular in the Meiji period ( 1868-1912) of Japanese culture. The Emperor Meiji in Japaense culture is seen as an Emperor that took their traditions and kept the nation as it’s nation and yet still modernized it and embraced some of it’s European traditions as well. In the context of this Apparition, it could mean two possibilities. It could simply be a note of their fancy looking Europeanized clothing, as well as the Apparitions location in “The Glass Building” in normal circumstances, which is a fancy large corridor in itself. Alternatively, it could be a critique on a time in which the Japanese changed drastically and became more Europeanized. Which is a Japanese criticism primarily pointed at Americans, specifically. 
 
 ### Mayubo (Cocoon, Baby Faces) 
- 
+ ![image](https://github.com/user-attachments/assets/963255c5-b6ac-4fcb-8695-f66304d693e2)
+
 The Mayubo will start attached to a Magatama, like a parasitic organism. It will be inside a large blood red tumor looking growth on the ceiling that is attached to the Magatama. It will not activate and burst out this tumor, unless you pick up the Magatama. This tumor, is likely a “cocoon”, hence, it’s name of Mayubo, which is a name which means “Cocoon” due to the Kanji: 繭
- 
+ ![image](https://github.com/user-attachments/assets/fc754426-b8ec-4364-b92f-88e1f55ce77a)
+
 Once it has emerged, it will cry loudly with the face of a baby and pursue you. It is a fast Apparition and can instantly break down doors. Your best bet is to have means to stun it such as a gun and then to flee as fast as you can. Once you have escaped it’s range and your heartbeat returns to normal, The Apparition will curl up on the ground, running out of lifeforce and die there. 
 
+![image](https://github.com/user-attachments/assets/72308185-49ef-47af-bffb-f2df14ca17a5)
+
+
 ### Trauma
- 
+
 The trauma will be heard by it’s crazed loud sounds approaching you, grating and noticeable from far away, it can distinctively be heard louder then any other Apparition in the game. They resemble in some ways, the main player yet appear when the text is displayed that says: “You fell a darkness within you….” While the character looks like themselves, the dress and slight detailed differences, imply that it might instead be that of the “mother” of the main character instead. 
 
 This Apparition is the most deadly in the entire game, as if you barrier it on the higher modes, it will multiply. Yet worse, no matter where you are, even if you hide, it will be able to find you. From the moment it spawns until the very end, it will rush at you from any distance away and pursue you endlessly. The only way to be rid of a Trauma for good, is to use a Two-Hole Candle, costing you a Cande Light (Life Point) to permanently erase them from the level. As if they grab you and take one life themselves, they will still be present and pursue you yet again in your next life. 
