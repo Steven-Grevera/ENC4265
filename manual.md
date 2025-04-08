@@ -527,113 +527,113 @@ Shadow Corridor 2’s difficulty levels are fairly straightforward and pretty we
  
 ### Beginner 
 
-•	The easiest way to play the game. In total you must obtain three magatama . 
-•	Items spawn in great quantity. 
+- The easiest way to play the game. In total you must obtain three magatama . 
+- Items spawn in great quantity. 
 
-•	The running speed of Apparitions is slower and the distance that they chase is much shorter then higher levels. 
+- The running speed of Apparitions is slower and the distance that they chase is much shorter then higher levels. 
 
-•	It takes a longer period of time for Apparitions to break down doors when in pursuit. 
+- It takes a longer period of time for Apparitions to break down doors when in pursuit. 
 
-•	Apparitions detection of sound is very low
+- Apparitions detection of sound is very low
 
-•	Karuta being sealed is very low. 
+- Karuta being sealed is very low. 
 
-•	Levels are smaller in size that other levels
+- Levels are smaller in size that other levels
 
-•	The number of pests is very low. 
+- The number of pests is very low. 
 
-•	There is less rain dripping ceiling locations.
+- There is less rain dripping ceiling locations.
 
-•	Corruption buildup is very slow. 
+- Corruption buildup is very slow. 
 
-•	Damage is halved. 
+- Damage is halved. 
 
-•	At the start of the game, magatama rooms are not always locked and can be just open without the need of a key. 
+- At the start of the game, magatama rooms are not always locked and can be just open without the need of a key. 
 
-•	All Trap Room Magatama rooms are unlocked.
+- All Trap Room Magatama rooms are unlocked.
 
-•	Gimmick usually only occurs once in most maps. 
+- Gimmick usually only occurs once in most maps. 
  
 ### Intermediate 
 
-•	A more average experience, preparing you for harder difficulties of the game. The number of magatama collected is set to 5, as opposed to 3. 
+- A more average experience, preparing you for harder difficulties of the game. The number of magatama collected is set to 5, as opposed to 3. 
 
-•	There are still many items.
+- There are still many items.
 
-•	The running speed of Apparitions is more accurate to their true speeds and you must shake them off more efficiently as a result. 
+- The running speed of Apparitions is more accurate to their true speeds and you must shake them off more efficiently as a result. 
 
-•	The detection of which they can hear you is increased from beginner but still not too intense. About the range of your heartbeat and slightly beyond. If you can see flashing lights, they can hear you if you make loud sounds.
+- The detection of which they can hear you is increased from beginner but still not too intense. About the range of your heartbeat and slightly beyond. If you can see flashing lights, they can hear you if you make loud sounds.
 
-•	You are more likely to have your karuta sealed if you’re grabbed by a Corrupted Human. 
+- You are more likely to have your karuta sealed if you’re grabbed by a Corrupted Human. 
 
-•	The map is larger. 
+- The map is larger. 
 
-•	There still remain a lower number of pests. 
+- There still remain a lower number of pests. 
 
-•	There is a slightly higher amount of rain dripping ceiling locations. 
+- There is a slightly higher amount of rain dripping ceiling locations. 
 
-•	The corruption accumulation is higher and will become far more of a factor.
+- The corruption accumulation is higher and will become far more of a factor.
 
-•	Magatama Trap Rooms are now locked properly like other rooms, aside from in rarer instances toward the starting levels of the game.
+- Magatama Trap Rooms are now locked properly like other rooms, aside from in rarer instances toward the starting levels of the game.
 
-•	The stage gimmick can occur twice. After picking up your 3rd Magatama and your 5th and final. 
+- The stage gimmick can occur twice. After picking up your 3rd Magatama and your 5th and final. 
 
 ### Advanced
 
-•	Your built up skills at this point will be tested to your known limits in this difficulty. 
+- Your built up skills at this point will be tested to your known limits in this difficulty. 
 
-•	There are far more Apparitions that can and will spawn. 
+- There are far more Apparitions that can and will spawn. 
 
-•	Wandering Shion can patrol the hallways in rare circumstances. 
+- Wandering Shion can patrol the hallways in rare circumstances. 
 
-•	Item counts are much smaller then previously. 
+- Item counts are much smaller then previously. 
 
-•	The time if takes an Apparition to break down doors is decreased by a large amount. 
+- The time if takes an Apparition to break down doors is decreased by a large amount. 
 
-•	The range in which an Apparition can hear you is greatly increased. 
+- The range in which an Apparition can hear you is greatly increased. 
 
-•	Corrupted Humans will almost always seal karuta if you are grabbed without any assistance.
+- Corrupted Humans will almost always seal karuta if you are grabbed without any assistance.
 
-•	The map is even larger then previous difficulties, making for longer amounts of time exploring.
+- The map is even larger then previous difficulties, making for longer amounts of time exploring.
 
-•	There are a lot of pests now.
+- There are a lot of pests now.
 
-•	There are many leaking ceiling locations throughout the corridors.
+- There are many leaking ceiling locations throughout the corridors.
 
-•	The corruption builds up faster then Intermediate. 
+- The corruption builds up faster then Intermediate. 
 
-•	All Magatama Rooms are closed except the Mayubo room. However, after The Shrine level, these rooms also become locked as well. 
+- All Magatama Rooms are closed except the Mayubo room. However, after The Shrine level, these rooms also become locked as well. 
 
-•	The stage gimmick is activated each time you obtain a magatama, and the range of the stage gimmick increases slightly. 
+- The stage gimmick is activated each time you obtain a magatama, and the range of the stage gimmick increases slightly. 
  
 
 ### Deluge 
 
-•	The hardest difficulty in Shadow Corridor 2, this will break you and force you to escape your comfort zones. 
+- The hardest difficulty in Shadow Corridor 2, this will break you and force you to escape your comfort zones. 
 
-•	Initially only one Candle Light (Life Point) is lit, however, if you find other candles throughout the corridor’s exploration, you can increase this up to a maximum of three.
+- Initially only one Candle Light (Life Point) is lit, however, if you find other candles throughout the corridor’s exploration, you can increase this up to a maximum of three.
 
-•	From the beginning, enemies that wouldn’t usually appear now will do so, such as more unique ones such as the Mizuchi Apparition
+- From the beginning, enemies that wouldn’t usually appear now will do so, such as more unique ones such as the Mizuchi Apparition
 
-•	There are many Apparitions in a large quantity. 
+- There are many Apparitions in a large quantity. 
 
-•	There are a lot of pests.
+- There are a lot of pests.
 
-•	The number of leaking ceiling locations is extremely high. You will deal with corruption.
+- The number of leaking ceiling locations is extremely high. You will deal with corruption.
 
-•	When the soul is retrieved from the corpse, the four petals wither and the corpse is no longer able to purify corruption.
+- When the soul is retrieved from the corpse, the four petals wither and the corpse is no longer able to purify corruption.
 
-•	Normal magatama is replaced with corrupted magatama that when picked up, will increase your buildup or start it. It will also continue to build up for 30 seconds after picking one up after the initial pick up.
+- Normal magatama is replaced with corrupted magatama that when picked up, will increase your buildup or start it. It will also continue to build up for 30 seconds after picking one up after the initial pick up.
 
-•	There is a 35% chance upon picking up a magatama that a karuta will also be sealed.
+- There is a 35% chance upon picking up a magatama that a karuta will also be sealed.
 
-•	If you are grabbed by a corrupted human, you are guaranteed to have a karuta sealed, no matter what resistances you have.
+- If you are grabbed by a corrupted human, you are guaranteed to have a karuta sealed, no matter what resistances you have.
 
-•	Magatama rooms spawn in less frequency. 
+- Magatama rooms spawn in less frequency. 
 
-•	Trauma will appear after you collect 5 Magatama in each corridor. This will not double for Sea of Reminiscence however.
+- Trauma will appear after you collect 5 Magatama in each corridor. This will not double for Sea of Reminiscence however.
 
-•	The range of stage gimmicks is increased further slightly
+- The range of stage gimmicks is increased further slightly
  
 
 ## Light Markers
@@ -736,8 +736,11 @@ When picking up items as well, there is a chance for you to be jumped by spiders
  
 ## Specific Corridor Items
 
-Item Name	Use
-Onigiri	Restores health and stamina. 
+| Item Name | Use |
+|---|---|
+| Onigiri | Restores health and stamina. | 	
+	
+	
 Firecrackers	Directs Apparitions to the sound of the firecracker and covers your own footsteps as you traverse the level. Can also be used to scare away “Pest” level foes. 
 Shining Stone	Places a stone on the ground to mark locations of interest to you and provide a small amount of light.
 Mysterious Key	Used for opening locked doors which tend to be rooms with Magamata waiting to be collected.
