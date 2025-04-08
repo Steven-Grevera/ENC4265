@@ -192,7 +192,7 @@ Once you find yourself in the level of a corridor, the candles will appear in th
 
 With a series of two items that can be found while exploring the corridors, you may find an extra life. Restoring one of your extinguished candles. 
 
-Note: You need all your candles to survive. Losing your third and final candle, is a Game Over. You have 3 lives total and 0 in this context is counted as “Dead”.
+**Note: You need all your candles to survive. Losing your third and final candle, is a Game Over. You have 3 lives total and 0 in this context is counted as “Dead”.**
  
   
 
@@ -325,7 +325,7 @@ To select you Karuta loadout at The Hub, come to this location listed below and 
 ## Sealed Karuta Cards
  
  
-Corrupted  Human’s or Impure look like the above and if they grab you, they will hold onto you for a bit and they will then seal a karuta card at random. Some karuta can protect this sealing effect from occurring but so too can certain coffee effects. (See coffee below (Link Later). Note as well that while grabbed, you can still be harmed by hostile apparitions. You will also take health damage from the grab itself.  
+Corrupted  Human’s or Impure look like the above and if they grab you, they will hold onto you for a bit and they will then seal a karuta card at random. Some karuta can protect this sealing effect from occurring but so too can certain coffee effects. (See coffee below (Link Later). **Note as well that while grabbed, you can still be harmed by hostile apparitions. You will also take health damage from the grab itself.** 
 
  
 
@@ -417,7 +417,7 @@ Any time the game is loaded or a corridor exploration ends and you load back int
 | Antique Book Collector | Increased chance of Archives appearing. | Purchased for 3 magatama. | 
 | Caffeine Addiction | Increases coffee effectiveness | Purchased for 5 magatama. | 
 | Karuta Case | Halves the chance of a karuta being sealed. | Purchased for 6 magatama | 	
-| Containment | Completely protects the karuta set to the left of this card from being sealed. This card cannot be sealed. *Note: Only works on the single one to  the left not all.* | Purchased for 5 magatama. | 
+| Containment | Completely protects the karuta set to the left of this card from being sealed. This card cannot be sealed. **Note: Only works on the single one to  the left not all.** | Purchased for 5 magatama. | 
 | Doll Calling | Press CTRL (B)  and SHIFT (X) simultaneously and then press  space to consume 800 souls and summon a mechanical doll to the location. | Purchased for 7 magatama. | 
 | Hotaruya Coupon | When revived, the game will resume from Hotaruya. Get 20% off your purchases at Hotaruya. | Spend a certain amount of money at Hotaruya’s Shop. | 
 | Friends from Another World | 	Nyoi-taro follows behind, shining light on the area. This light does not affect the wanderer's vision.	| Special slug pet interactions in the hub world must be achieved. | 
@@ -428,7 +428,7 @@ Any time the game is loaded or a corridor exploration ends and you load back int
 | Reckless | Running into an Apparition has a 50% chance of incapacitating the Apparition for a few seconds. | Purchased for 8 magatama. |
 | Automatic Doors | If you interact with the door while running, it will close behind you as you pass through it. | Purchased for 5 magatama. | 
 | Sturdy Door | Apparitions now have slightly longer time to break down doors. | Purchased for 5 magatama. | 
-| Mind's Eye |	When an Apparition unleashes a killing intent, their location becomes visible for 5 seconds. *Note: Murderous intent = screen noise and red flash and indicators from the Apparition.* | Purchased for 15 magatama | 
+| Mind's Eye |	When an Apparition unleashes a killing intent, their location becomes visible for 5 seconds. **Note: Murderous intent = screen noise and red flash and indicators from the Apparition.** | Purchased for 15 magatama | 
 | A Haven of Rest | When hiding inside an object, you will not be seen, even if you have a light source turned on or are hiding in front of an Apparition | Purchased for 3 magatama. | 
 | A Delicious Treat | When you escape from the Apparitions pursuit, the Apparitions drops an ice popsicle. | Purchased for 3 magatama. | 
 | Tachyphysia Phenomenon | When you are found by an Apparition, time slows down. | Complete the game on “beginner” difficulty. | 
@@ -934,7 +934,7 @@ Hole Rooms are locked Magatama Rooms that require a key to unlock. A large hole 
 The Magatama will be on a small alter and behind in the opposite direction will be a mirror. This mirror will not work like The Butterfly Shop mirrors and will instead teleport you to a random location within the level itself. 
  
 
-Note: If you drop into the hole without 50 health, you will die and lose a life or be given a “Game Over”.  
+**Note: If you drop into the hole without 50 health, you will die and lose a life or be given a “Game Over”.**  
 
 ## Trap Room
  
@@ -952,7 +952,7 @@ By throwing firecrackers, you can draw the slug creature away from the Magatama 
 
 Swamp Trap Magatama Rooms are rooms that are entirely covered on the floor in water. Entering the room will cause corruption build up, meaning that you must obtain the Magatama fast and then proceed to leave it with the Magatama obtained. On Deluge, these rooms can be extremely deadly without coffee and karuta card negations for corruption as you’ll build up corruption on your way to the Magatama and then proceed to get hit with further buildup that could push it over the edge to cost a life. 
 
-*Note: Will Get an image of a swamp room that spawns usually in the first level on 2nd highest level or Deluge. Will have to try and get one spawned via Deluge or Time Trial Deluge. Or both.*
+**Note: Will Get an image of a swamp room that spawns usually in the first level on 2nd highest level or Deluge. Will have to try and get one spawned via Deluge or Time Trial Deluge. Or both.**
 
 
 ## Hanging Man Trap Room
@@ -979,7 +979,7 @@ Upon the completion of the level of a corridor, you will receive a series of med
  
 Medals will be rewarded for specific actions such as completing a level within a certain time limit or performing a specific action while in that level itself. All possible obtainable medals are listed below:
 
-*Note: If an item is part of the series, such as “Time Medal 3”, by obtaining Time Medal one, you also obtain Time Medals 1 and 2 as well, giving a total valuation of “9” points, as you get all three medals together.*
+**Note: If an item is part of the series, such as “Time Medal 3”, by obtaining Time Medal one, you also obtain Time Medals 1 and 2 as well, giving a total valuation of “9” points, as you get all three medals together.**
 
 Medal	How To Obtain	Valuation
 Time Medal 1	Complete the level in under 40 minutes	+3 
