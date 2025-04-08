@@ -977,6 +977,7 @@ Once it has emerged, it will cry loudly with the face of a baby and pursue you. 
 
 
 ### Trauma
+![image](https://github.com/user-attachments/assets/2cc151ab-7baf-476b-91e8-24587f37e5c9)
 
 The trauma will be heard by it’s crazed loud sounds approaching you, grating and noticeable from far away, it can distinctively be heard louder then any other Apparition in the game. They resemble in some ways, the main player yet appear when the text is displayed that says: “You fell a darkness within you….” While the character looks like themselves, the dress and slight detailed differences, imply that it might instead be that of the “mother” of the main character instead. 
 
@@ -987,7 +988,8 @@ If you go to the Butterfly Shop, The Trauma will not follow you. Instead, it wil
 Another thing you should never do is use a barrier without a teleport out, as the Trauma will way for you outside. If the barrier room you used only has one way inside, the only way out is through the Trauma, which means losing your Candle Light (Life Point) anyway. 
 
 ### Shadow of the True Story (Boss)
- 
+![image](https://github.com/user-attachments/assets/88680fc6-0a9e-45a8-9982-5c1ee4967354)
+
 The Shadow of The True Story, is a godlike entity which is story explained to be your “other half”. An abandoned half that has been left within the realm in which you preside. For this reason, it feels rage toward you due to how long it’s been isolated and left to the corrupting forces that live amongst the realm of the dead. 
 
 The boss only appears on the Missing Windhole level and will pursue the player throughout the level as a chase stage. You will damage it by blowing up or shooting barrels. You can blow up the barrels without shooting them with a pistol by using firecrackers. The Boss must be close enough in range to take the explosion damage, stunning them for a time and allowing you a chance to escape. 
@@ -995,7 +997,8 @@ The boss only appears on the Missing Windhole level and will pursue the player t
 If you try and put a barrier down on the map to block it’s path, it will destroy the barrier and then continue it’s pursuit. If you make it to the end of the level and use the mirror to transport back to an area similar to the start of the level, you will find The Boss will return by seeping out of the ground behind you. The same will occur if you are captured by it and lose a Candle Light (Life Point) in earlier parts of the chase itself. 
  
 ## Pests
- 
+![image](https://github.com/user-attachments/assets/ea4abd87-2ffd-45af-9345-9ced643d3163)
+
 Pests are enemies that won’t outright kill you right away but can deal damage to your total health as well as effect various other aspects of your character and the game. While a pest won’t instantly kill you like an Apparition will, if your left in a bad situation, they could be largely responsible for giving you a game over or taking one of your lives. 
 
 Some can seal your karuta, some can slow you down, a pest is “an annoyance” but combined with an apparition together, could result in the loss of your life, or worse, an entire run’s failure if the wrong karuta ends up sealed. 
@@ -1005,57 +1008,72 @@ Some can seal your karuta, some can slow you down, a pest is “an annoyance” 
 ### Pest Types
 
 #### The Hanged Man
- 
+ ![image](https://github.com/user-attachments/assets/c41406ac-dbb8-4a14-8337-b6ed4156b353)
+
 The Hanged Man can be sticking out of ceiling’s of enclosed buildings in corridors and will then proceed to jumpscare the player, causing great sounds and disturbances and doing damage to what it touches. It will also cause loud amounts of noise which can attract Apparitions 
 
 #### Spiders
- 
+ ![image](https://github.com/user-attachments/assets/de02b2a8-ea2c-4e66-bd2c-046a0640b435)
+
 The Spiders lay webs on the ground waiting for it’s prey to step inside, slowing them down. Apparitions are unaffected by the webs but players will be slowed down extremely and take damage for every second they are within the webs.
 
 #### Human Cocoon Moth
- 
+ ![image](https://github.com/user-attachments/assets/378de37c-c518-45f0-a728-36f31969211b)
+
 Human Cocoon Moth’s like the spiders, lay on top of human cocoon remains amidst the corridors and when triggered by getting to close to them, will chase the player, doing damage to them constantly until they are escaped or a certain amount of time passes. If a player stands still on their cocoon base location, they will take damage until they lose a life or receive a “Game Over”. 
 
 The alternative version of these are the moths which fly in the room of the Cocoon Moth Trap Room which guard a Magatama. 
 
 
 #### A Glimpse of The Past (Snails)
- 
+ ![image](https://github.com/user-attachments/assets/2daa3ed9-cd85-4ece-a093-8f0c686f8f38)
+
 When approached, walked over or scared, The Snails will spew out a purple mist that covers aw ide area of a corridor and will build up the players corruption meter until they escape it’s large purple radius, or they die. The radius bypasses walls and is determined in a circular radius from where the smoke is emitted from.
- 
+ ![image](https://github.com/user-attachments/assets/c9598301-631f-4b3a-bbe1-db780a2b74d5)
+
 #### Corrupted Humans (Impure) 
- 
+ ![image](https://github.com/user-attachments/assets/80b1c5c8-7c70-4fc8-bfab-d3010c1dc7c8)
+
 
 Corrupted Humans (Impure) will grab the player if contact is made and you will have to hit the button for breaking out repeatedly to get free. They can also end up sealing a karuta at a very high chance if you aren’t lucky. If you shoot one or throw firecrackers at it and have them explode, they will disappear.
   
- 
+ ![image](https://github.com/user-attachments/assets/79eb43a9-3dca-486c-9a76-aff3e6957e16)
+
 # Magatama Rooms
- 
+ ![image](https://github.com/user-attachments/assets/d622385d-e5e6-48ec-aa74-be649a9b5312)
+
 Magatama Rooms are rooms in which you can find Magatama. These rooms are usually behind locked doors, which will require a key to unlock. On higher difficulties, even if taking a Magatama from a room without any traps, the corridor’s effect maybe be triggered on each one’s pick up. Moreover, on deluge, picking up a Magatama will cause an amount of buildup of corruption, which may even kill you if you pick it up and you had enough corruption prior to picking it up. Causing a “Game Over” or loss of a life. 
- 
+ ![image](https://github.com/user-attachments/assets/9755883d-c544-4449-84d5-c95a45997449)
+
 ## Standard Room: 
 These are standard locked rooms that have a Magatama to be picked up within. Picking up the Magatama will grant you it. 
    
 
 
+
 ## Hole Room
+ ![image](https://github.com/user-attachments/assets/372666a2-7b81-454c-a1a8-2fd184e69699)
  
 Hole Rooms are locked Magatama Rooms that require a key to unlock. A large hole is in the middle of them that you can fall into. By falling into the hole, you will take health damage similar to trapdoors but instead of being teleported to a location associated with the trapdoor, you will instead be teleported to an area below ground.
 
- 
+ ![image](https://github.com/user-attachments/assets/3e8f7d6b-a9b4-4a98-8674-1ccb647aed6b)
+
 The Magatama will be on a small alter and behind in the opposite direction will be a mirror. This mirror will not work like The Butterfly Shop mirrors and will instead teleport you to a random location within the level itself. 
  
+![image](https://github.com/user-attachments/assets/36ffdf8c-1cac-43b0-b54f-ed2d492f262d)
 
 **Note: If you drop into the hole without 50 health, you will die and lose a life or be given a “Game Over”.**  
 
 ## Trap Room
- 
+ ![image](https://github.com/user-attachments/assets/ae708fa3-1647-470e-a935-98b3428fce3c)
+
 Unlike most other Magatama Rooms, Trap Rooms are usually open unless on Deluge difficulty in some instances. You can tell a room is a trap room, based on a red line that will be attached to the Magatama like an umbilical cord. Once the Magatama is taken from this cord in the room, a baby monster apparition will be spawned and chase you down until you lose it or you die, costing you a life or a “Game Over” if you are out of them. These rooms are easy to access but at a very high reward. 
 
 To see more about the entity spawned from this room, click here: (Link)  
 
 ## No Noise Shion Trap Rooms
- 
+ ![image](https://github.com/user-attachments/assets/10892c97-eaa5-4540-9d3a-3a7b156ab7f9)
+
 In many instances, these rooms will be heard not found right away. The flicker of lights will begin as well as the distinct sound of crying. Usually, this indicates a Shion guarding these rooms and the Magatama which is within the room. These rooms can be locked but there are easy work arounds to this fact. 
 
 By throwing firecrackers, you can draw the slug creature away from the Magatama safely without any major risks. It can also result in the apparition breaking down a locked door and allowing you to safely enter inside. If you try to approach the Magatama without drawing the slug creature away, you will most likely enter up triggering it’s proximity, in which it will never stop chasing you until it has taken a life from you, or caused you to get a “Game Over”. Due to the fact this entity is attracted by footsteps and sounds, it’s sensitivity, dependent on the difficulty you are playing on. 
@@ -1068,15 +1086,18 @@ Swamp Trap Magatama Rooms are rooms that are entirely covered on the floor in wa
 
 
 ## Hanging Man Trap Room
- 
+ ![image](https://github.com/user-attachments/assets/f4e13e99-6b90-468c-98ca-a3746eef3951)
+
 Hanging Man Magatama Trap Room’s contain many Hanging Men trap pests which when touched will start to flail around and cause issues for your character and deal damage as well as create loud noises that could attract apparitions. The key to these rooms is to carefully try and traverse them or run through them and trigger a few at a time. Once they are triggered, waiting for them to untrigger and then that area will remain safe while others could be triggered later. 
 
 These rooms can be major drains on your health and should be very carefully treated as they will drain your health fast if not treated with respect and care.  
 
 ## Caccoon Moth Trap Room
- 
+ ![image](https://github.com/user-attachments/assets/3a53a3d3-0a51-4708-9efe-233dbe593a72)
+
 Caccoon Moth’s guard this room and the Magatama within. The only way to obtain it is to take the damage of the room, or to use a fire cracker to scatter the moths, or to use a a star hour glass to freeze time and no damage and run out before it’s time runs out. 
-   
+   ![image](https://github.com/user-attachments/assets/f960211b-a122-44c7-ac1f-0f122f6f0102)
+
 
 
 
@@ -1088,7 +1109,8 @@ Upon the completion of the level of a corridor, you will receive a series of med
 
  
 ## Medals and Their Valuations
- 
+ ![image](https://github.com/user-attachments/assets/b17bc2fc-a6e3-4241-99f6-df7736cd2cb2)
+
 Medals will be rewarded for specific actions such as completing a level within a certain time limit or performing a specific action while in that level itself. All possible obtainable medals are listed below:
 
 **Note: If an item is part of the series, such as “Time Medal 3”, by obtaining Time Medal one, you also obtain Time Medals 1 and 2 as well, giving a total valuation of “9” points, as you get all three medals together.**
@@ -1186,7 +1208,8 @@ The above scenario is POSSIBLE… but is more of a challenge, then something lik
 
 To see your rating on each difficulty and at each level, on the corridor select menu, look where the letters are circled to see your best results. 
  
- 
+ ![image](https://github.com/user-attachments/assets/faa2a541-114e-4f1f-91e2-0883295cbb7e)
+
 ## Bonus Magatama 
 
 Based on your rating obtained in the level, you will then be granted a set bonus amount of Magatama to be spent for Karuta or anything else you desire. 
@@ -1207,7 +1230,8 @@ Archives are documents that can be collected throughout your explorations that c
  
 
 # Magamata Challenge
- 
+ ![image](https://github.com/user-attachments/assets/78a29dba-e3bc-49d0-b155-499d6f1a207e)
+
 The Magamata Challenge is unlocked after completing the entire story fully on any difficulty. The goal of the mode is to grab as many Magamata as fast as possible within the time limit. You start with 5 minutes and every time you obtain a Magamata you are given an additional minute for your run time. Focusing on speed as such, is essential. 
 
 Every 3 Magamata you obtain will grant you with a trophy in the following bracket: 
@@ -1225,7 +1249,8 @@ The enemy's performance is based on intermediate level and play at that level as
  
  
 # Marathon Mode
- 
+ ![image](https://github.com/user-attachments/assets/c8dfc60c-7cb2-4d7b-9412-e0151f9baded)
+
 To unlock Marathon Mode, you must fully complete the story of the game once and in doing so, will unlock this mode. 
 
 In Marathon Mode, you start on the first level at the difficulty of your choice and play from start to finish. If you quit mid marathon run on the pause menu, resuming will bring the player back to the start of the corridor they were running when they return. This also allows you to change karuta for each individual map for optimal play, as well as coffee effects. If a Game over is obtained, the Marathon is considered “over” and you must start all over again. 
@@ -1236,7 +1261,8 @@ Souls and items carry over from one corridor into the next, so exploring a corri
 
 At the end of your Marathon (if you make it that far-), your total time is totaled up and scored accordingly. 
 
- 
+ ![image](https://github.com/user-attachments/assets/09a0cda1-d214-4ec2-ab27-b5de8e9e4974)
+
 
 
  
