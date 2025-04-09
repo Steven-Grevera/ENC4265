@@ -859,7 +859,7 @@ Apparitions are not slowed by these unlike the player so if being chased by one,
 ## The Butterfly Shop
 ![image](https://github.com/user-attachments/assets/913f42cd-3c67-4a6e-93e1-fece1c3c545b)
 
-The Butterfly Shop is owned by The Shopkeeper: Hotariya and has two means to get to it, which are mirrors which are randomly generated throughout the level of the corridor that your within. 
+The Butterfly Shop is owned by The Shopkeeper: Hotaruya and has two means to get to it, which are mirrors which are randomly generated throughout the level of the corridor that your within. 
 
 A good way to indicate that your are approaching a mirror entrance to the shop, is hearing the sound of a toybox’s music playing. This music indicates that you are approaching a mirror whether behind a locked door or located somewhere within the level. 
 
@@ -1081,6 +1081,8 @@ Haikara due to their lack of heads, are considered “blind”, to an extent, in
 
 The Haikara are a type of stylish, Eurocentric Japanese clothing that were popular in the Meiji period ( 1868-1912) of Japanese culture. The Emperor Meiji in Japaense culture is seen as an Emperor that took their traditions and kept the nation as it’s nation and yet still modernized it and embraced some of it’s European traditions as well. In the context of this Apparition, it could mean two possibilities. It could simply be a note of their fancy looking Europeanized clothing, as well as the Apparitions location in “The Glass Building” in normal circumstances, which is a fancy large corridor in itself. Alternatively, it could be a critique on a time in which the Japanese changed drastically and became more Europeanized. Which is a Japanese criticism primarily pointed at Americans, specifically. 
 
+<a name="anchor14"></a>
+
 ### Mayubo (Cocoon, Baby Faces) 
  ![image](https://git.com/user-attachments/assets/963255c5-b6ac-4fcb-8695-f66304d693e2)
 
@@ -1185,7 +1187,7 @@ The Magatama will be on a small alter and behind in the opposite direction will 
 
 Unlike most other Magatama Rooms, Trap Rooms are usually open unless on Deluge difficulty in some instances. You can tell a room is a trap room, based on a red line that will be attached to the Magatama like an umbilical cord. Once the Magatama is taken from this cord in the room, a baby monster apparition will be spawned and chase you down until you lose it or you die, costing you a life or a “Game Over” if you are out of them. These rooms are easy to access but at a very high reward. 
 
-To see more about the entity spawned from this room, click here: (Link)  
+To see more about the entity spawned from this room, [click here](#anchor14)
 
 ## No Noise Shion Trap Rooms
  ![image](https://git.com/user-attachments/assets/10892c97-eaa5-4540-9d3a-3a7b156ab7f9)
