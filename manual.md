@@ -217,7 +217,7 @@ Controller Vibration: If your controller is in use, having this option set to on
 
 The Shaking of The Flashlight: With this option set to true, when you use your flashlight item, it will shake as you run as opposed to staying sturdy to light up areas. This option will provide a more immersive experience for those who want “realism” in their experiences. 
 
-Whispers of The Remains: When collecting “souls” **(more on this later, (link here))**, you will hear an audio sound effect when picking them off of skeleton bodies. Having this option off will display this effect, for those who want to focus more on the sound of possible Apparitions instead. 
+Whispers of The Remains: When collecting “souls” [more on this later](#anchor4) you will hear an audio sound effect when picking them off of skeleton bodies. Having this option off will display this effect, for those who want to focus more on the sound of possible Apparitions instead. 
 
 
 
@@ -345,6 +345,8 @@ To the right of your candles and right below your health bar is the total amount
  ![image](https://github.com/user-attachments/assets/eba649d5-749c-4973-a791-8638c1fa58e1)
  ![image](https://github.com/user-attachments/assets/157d4661-1edb-4be9-9725-f9ec0d86dadc)
  ![image](https://github.com/user-attachments/assets/f21f81d0-5be1-4ae3-b767-a991003535d4)
+
+<a name="anchor4"></a>
 
 ## Souls: 
 ![image](https://github.com/user-attachments/assets/4932c701-5a63-4331-9685-c082b086984f)
