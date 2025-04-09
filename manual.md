@@ -213,7 +213,7 @@ Return To Base Immediately After Results: If this option is set to on, then upon
 
 Vision Shake From Walking: This option will determine if your vision shakes from walking or not. For immersive experiences, this should be turned on. For those with motion sickness or who dislike this visual effect, keeping it off will ensure this does not occur. 
 
-Controller Vibration: If your controller is in use, having this option set to on will result in certain in game events causing your controller to shake, such as when a Wanderer (the enemy monsters in the game-) approach you. **(See more on monsters here (Link here later)**
+Controller Vibration: If your controller is in use, having this option set to on will result in certain in game events causing your controller to shake, such as when a Wanderer (the enemy monsters in the game-) approach you. [See more on monsters here](#anchor3)
 
 The Shaking of The Flashlight: With this option set to true, when you use your flashlight item, it will shake as you run as opposed to staying sturdy to light up areas. This option will provide a more immersive experience for those who want “realism” in their experiences. 
 
@@ -966,6 +966,7 @@ The Compass item is a unique item that spawns at a very rare chance from drawers
 | Two-Hole Candle | A red light source that takes one of your Candle Lights (Life Points) to light up the area. Once lit, if an Entity touches the lit Candle, they will be cremated and removed from the corridor. |
 
  
+<a name="anchor3"></a>
 
 # Apparitions (Enemies)
 ![image](https://github.com/user-attachments/assets/a44ed994-d096-4678-abd4-6ca2a8ade344)
