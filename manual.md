@@ -1,6 +1,6 @@
 [Home](index.md) | [Manual Assessment Memo](Charbroil_Grill_Manual_Memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md) | [Major Projects](Major_Projects.md) | [Contact Me](Contact_Me.md)
 
- ![image](https://github.com/user-attachments/assets/ea791799-5005-43d2-94c1-9cae99890717)
+ ![image](https://git.com/user-attachments/assets/ea791799-5005-43d2-94c1-9cae99890717)
 
 # Shadow Corridor 2: An English Guide To The Japanese Mythology Maze
 
@@ -209,7 +209,7 @@ Display Item Info: This option will display item info when you highlight an item
 
 Look When Using Compass: As you traverse your generated corridor, you may run across an item called a compass. [Read more on that here](#anchor1). If this option is disabled, then you cannot move and look at the compass at the same time. Having this enabled allows you to do so. This is for people who may find this as a distraction. 
 
-Return To Base Immediately After Results: If this option is set to on, then upon completing a level, you will be sent back to the “hub” of the game. See more on this here: **(Link to hub section later)**
+Return To Base Immediately After Results: If this option is set to on, then upon completing a level, you will be sent back to the “hub” of the game. [See more on this here](#anchor2)
 
 Vision Shake From Walking: This option will determine if your vision shakes from walking or not. For immersive experiences, this should be turned on. For those with motion sickness or who dislike this visual effect, keeping it off will ensure this does not occur. 
 
@@ -434,7 +434,7 @@ Throughout the corridors, you will find places that you can hide in if an Appari
 ![image](https://github.com/user-attachments/assets/1c77f831-bfe2-4b51-b674-01e9aebfe9ef)
 
 
-  
+<a name="anchor2"></a>  
 #The Hub
 ![image](https://github.com/user-attachments/assets/fd561390-44be-4f34-bf80-6ff4dcf57aec)
  
@@ -1037,12 +1037,12 @@ The Shion naming is due to the flowers which grow out of it’s head in some way
 
 ### Mizuchi (Snake Woman)
 
-![image](https://github.com/user-attachments/assets/dcfbd603-c3d1-4682-af17-f32c145aa047)
+![image](https://git.com/user-attachments/assets/dcfbd603-c3d1-4682-af17-f32c145aa047)
 
 
 The Mizuchi is a unique Apparition as it has no unique sound until it has found you, in which case it will scream at you in a woman’s shrieking voice. If you have light sources around you flickering and your heart beat is ringing out, this means that a Mizuchi is nearby. You must get to cover to hide as they can both see and hear you under the right circumstances. 
 
-![image](https://github.com/user-attachments/assets/562a347c-fc60-46fb-ae38-1d7214e6654b)
+![image](https://git.com/user-attachments/assets/562a347c-fc60-46fb-ae38-1d7214e6654b)
 
  
 If the Mizuchi  senses a loud enough noise, will borrow underground in which case, it’s presence cannot be heard or even seen at all. Not even your heart beats will go off. They will then emerge from the ground to scare you and chase after you after this occurs. This means that if you are in the clear sometimes, you are not always. 
@@ -1053,39 +1053,39 @@ In Japanese mythology, "mizuchi" (蛟, 虯) refers to a type of aquatic, dragon-
 
 
 ### Mechanical Doll 
- ![image](https://github.com/user-attachments/assets/03530e9f-08ce-45ba-995d-01aa0dfaadde)
+ ![image](https://git.com/user-attachments/assets/03530e9f-08ce-45ba-995d-01aa0dfaadde)
 
 The Mechanical Doll Apparition only appears in The Shrine corridor and they will only begin to wander around or chase after you if you walk into their search lights from their eyes or trigger the map gimmick depending on the difficulty you are playing on. 
 
-![image](https://github.com/user-attachments/assets/bcac902f-e484-4f08-9f16-41bd1b388a53)
+![image](https://git.com/user-attachments/assets/bcac902f-e484-4f08-9f16-41bd1b388a53)
 
 
 The Mechanical Doll can be shot and stunned by gunfire but will not make any indication aside from stopping it’s movement that it’s been hit. Additionally, they will not react to the sound of your running but will react to screaming Hanging Men, as well as firecrackers. Which you can use to your advantage to draw them away. If they see you however, they will pursue you at all cost. 
  
 ### Haikara (Stylish, Megaphone Heads)
- ![image](https://github.com/user-attachments/assets/4f376705-d54d-4291-9d81-cba8e50e4eb1)
+ ![image](https://git.com/user-attachments/assets/4f376705-d54d-4291-9d81-cba8e50e4eb1)
 
 The first thing you will hear is a type of crazed chattering through a filtered technological wind pipe of some kind. These are the sounds produced through the megaphone. While it is within hearing distance of the player, it will start to build up your “insanity” gauge. Causing major issues if you end up not being able to find cover. As if you scream by becoming “frenzied”, you will be discovered and likely lose a Cande Light (Life Point). 
 
- ![image](https://github.com/user-attachments/assets/18261bd3-f9ca-485d-8beb-e83d204882c7)
+ ![image](https://git.com/user-attachments/assets/18261bd3-f9ca-485d-8beb-e83d204882c7)
 
 Haikara due to their lack of heads, are considered “blind”, to an extent, in that they won’t usually react to light sources at all. However, they will “see/sense” you if you can be found within a straight line and their ability to sense you will increase if you have light sources up, other then the Butterfly Lantern. 
 
 The Haikara are a type of stylish, Eurocentric Japanese clothing that were popular in the Meiji period ( 1868-1912) of Japanese culture. The Emperor Meiji in Japaense culture is seen as an Emperor that took their traditions and kept the nation as it’s nation and yet still modernized it and embraced some of it’s European traditions as well. In the context of this Apparition, it could mean two possibilities. It could simply be a note of their fancy looking Europeanized clothing, as well as the Apparitions location in “The Glass Building” in normal circumstances, which is a fancy large corridor in itself. Alternatively, it could be a critique on a time in which the Japanese changed drastically and became more Europeanized. Which is a Japanese criticism primarily pointed at Americans, specifically. 
 
 ### Mayubo (Cocoon, Baby Faces) 
- ![image](https://github.com/user-attachments/assets/963255c5-b6ac-4fcb-8695-f66304d693e2)
+ ![image](https://git.com/user-attachments/assets/963255c5-b6ac-4fcb-8695-f66304d693e2)
 
 The Mayubo will start attached to a Magatama, like a parasitic organism. It will be inside a large blood red tumor looking growth on the ceiling that is attached to the Magatama. It will not activate and burst out this tumor, unless you pick up the Magatama. This tumor, is likely a “cocoon”, hence, it’s name of Mayubo, which is a name which means “Cocoon” due to the Kanji: 繭
- ![image](https://github.com/user-attachments/assets/fc754426-b8ec-4364-b92f-88e1f55ce77a)
+ ![image](https://git.com/user-attachments/assets/fc754426-b8ec-4364-b92f-88e1f55ce77a)
 
 Once it has emerged, it will cry loudly with the face of a baby and pursue you. It is a fast Apparition and can instantly break down doors. Your best bet is to have means to stun it such as a gun and then to flee as fast as you can. Once you have escaped it’s range and your heartbeat returns to normal, The Apparition will curl up on the ground, running out of lifeforce and die there. 
 
-![image](https://github.com/user-attachments/assets/72308185-49ef-47af-bffb-f2df14ca17a5)
+![image](https://git.com/user-attachments/assets/72308185-49ef-47af-bffb-f2df14ca17a5)
 
 
 ### Trauma
-![image](https://github.com/user-attachments/assets/2cc151ab-7baf-476b-91e8-24587f37e5c9)
+![image](https://git.com/user-attachments/assets/2cc151ab-7baf-476b-91e8-24587f37e5c9)
 
 The trauma will be heard by it’s crazed loud sounds approaching you, grating and noticeable from far away, it can distinctively be heard louder then any other Apparition in the game. They resemble in some ways, the main player yet appear when the text is displayed that says: “You fell a darkness within you….” While the character looks like themselves, the dress and slight detailed differences, imply that it might instead be that of the “mother” of the main character instead. 
 
@@ -1096,7 +1096,7 @@ If you go to the Butterfly Shop, The Trauma will not follow you. Instead, it wil
 Another thing you should never do is use a barrier without a teleport out, as the Trauma will way for you outside. If the barrier room you used only has one way inside, the only way out is through the Trauma, which means losing your Candle Light (Life Point) anyway. 
 
 ### Shadow of the True Story (Boss)
-![image](https://github.com/user-attachments/assets/88680fc6-0a9e-45a8-9982-5c1ee4967354)
+![image](https://git.com/user-attachments/assets/88680fc6-0a9e-45a8-9982-5c1ee4967354)
 
 The Shadow of The True Story, is a godlike entity which is story explained to be your “other half”. An abandoned half that has been left within the realm in which you preside. For this reason, it feels rage toward you due to how long it’s been isolated and left to the corrupting forces that live amongst the realm of the dead. 
 
@@ -1105,7 +1105,7 @@ The boss only appears on the Missing Windhole level and will pursue the player t
 If you try and put a barrier down on the map to block it’s path, it will destroy the barrier and then continue it’s pursuit. If you make it to the end of the level and use the mirror to transport back to an area similar to the start of the level, you will find The Boss will return by seeping out of the ground behind you. The same will occur if you are captured by it and lose a Candle Light (Life Point) in earlier parts of the chase itself. 
  
 ## Pests
-![image](https://github.com/user-attachments/assets/ea4abd87-2ffd-45af-9345-9ced643d3163)
+![image](https://git.com/user-attachments/assets/ea4abd87-2ffd-45af-9345-9ced643d3163)
 
 Pests are enemies that won’t outright kill you right away but can deal damage to your total health as well as effect various other aspects of your character and the game. While a pest won’t instantly kill you like an Apparition will, if your left in a bad situation, they could be largely responsible for giving you a game over or taking one of your lives. 
 
@@ -1116,17 +1116,17 @@ Some can seal your karuta, some can slow you down, a pest is “an annoyance” 
 ### Pest Types
 
 #### The Hanged Man
- ![image](https://github.com/user-attachments/assets/c41406ac-dbb8-4a14-8337-b6ed4156b353)
+ ![image](https://git.com/user-attachments/assets/c41406ac-dbb8-4a14-8337-b6ed4156b353)
 
 The Hanged Man can be sticking out of ceiling’s of enclosed buildings in corridors and will then proceed to jumpscare the player, causing great sounds and disturbances and doing damage to what it touches. It will also cause loud amounts of noise which can attract Apparitions 
 
 #### Spiders
- ![image](https://github.com/user-attachments/assets/de02b2a8-ea2c-4e66-bd2c-046a0640b435)
+ ![image](https://git.com/user-attachments/assets/de02b2a8-ea2c-4e66-bd2c-046a0640b435)
 
 The Spiders lay webs on the ground waiting for it’s prey to step inside, slowing them down. Apparitions are unaffected by the webs but players will be slowed down extremely and take damage for every second they are within the webs.
 
 #### Human Cocoon Moth
- ![image](https://github.com/user-attachments/assets/378de37c-c518-45f0-a728-36f31969211b)
+ ![image](https://git.com/user-attachments/assets/378de37c-c518-45f0-a728-36f31969211b)
 
 Human Cocoon Moth’s like the spiders, lay on top of human cocoon remains amidst the corridors and when triggered by getting to close to them, will chase the player, doing damage to them constantly until they are escaped or a certain amount of time passes. If a player stands still on their cocoon base location, they will take damage until they lose a life or receive a “Game Over”. 
 
@@ -1134,24 +1134,24 @@ The alternative version of these are the moths which fly in the room of the Coco
 
 
 #### A Glimpse of The Past (Snails)
- ![image](https://github.com/user-attachments/assets/2daa3ed9-cd85-4ece-a093-8f0c686f8f38)
+ ![image](https://git.com/user-attachments/assets/2daa3ed9-cd85-4ece-a093-8f0c686f8f38)
 
 When approached, walked over or scared, The Snails will spew out a purple mist that covers aw ide area of a corridor and will build up the players corruption meter until they escape it’s large purple radius, or they die. The radius bypasses walls and is determined in a circular radius from where the smoke is emitted from.
- ![image](https://github.com/user-attachments/assets/c9598301-631f-4b3a-bbe1-db780a2b74d5)
+ ![image](https://git.com/user-attachments/assets/c9598301-631f-4b3a-bbe1-db780a2b74d5)
 
 #### Corrupted Humans (Impure) 
- ![image](https://github.com/user-attachments/assets/80b1c5c8-7c70-4fc8-bfab-d3010c1dc7c8)
+ ![image](https://git.com/user-attachments/assets/80b1c5c8-7c70-4fc8-bfab-d3010c1dc7c8)
 
 
 Corrupted Humans (Impure) will grab the player if contact is made and you will have to hit the button for breaking out repeatedly to get free. They can also end up sealing a karuta at a very high chance if you aren’t lucky. If you shoot one or throw firecrackers at it and have them explode, they will disappear.
   
- ![image](https://github.com/user-attachments/assets/79eb43a9-3dca-486c-9a76-aff3e6957e16)
+ ![image](https://git.com/user-attachments/assets/79eb43a9-3dca-486c-9a76-aff3e6957e16)
 
 # Magatama Rooms
- ![image](https://github.com/user-attachments/assets/d622385d-e5e6-48ec-aa74-be649a9b5312)
+ ![image](https://git.com/user-attachments/assets/d622385d-e5e6-48ec-aa74-be649a9b5312)
 
 Magatama Rooms are rooms in which you can find Magatama. These rooms are usually behind locked doors, which will require a key to unlock. On higher difficulties, even if taking a Magatama from a room without any traps, the corridor’s effect maybe be triggered on each one’s pick up. Moreover, on deluge, picking up a Magatama will cause an amount of buildup of corruption, which may even kill you if you pick it up and you had enough corruption prior to picking it up. Causing a “Game Over” or loss of a life. 
- ![image](https://github.com/user-attachments/assets/9755883d-c544-4449-84d5-c95a45997449)
+ ![image](https://git.com/user-attachments/assets/9755883d-c544-4449-84d5-c95a45997449)
 
 ## Standard Room: 
 These are standard locked rooms that have a Magatama to be picked up within. Picking up the Magatama will grant you it. 
@@ -1160,27 +1160,27 @@ These are standard locked rooms that have a Magatama to be picked up within. Pic
 
 
 ## Hole Room
- ![image](https://github.com/user-attachments/assets/372666a2-7b81-454c-a1a8-2fd184e69699)
+ ![image](https://git.com/user-attachments/assets/372666a2-7b81-454c-a1a8-2fd184e69699)
  
 Hole Rooms are locked Magatama Rooms that require a key to unlock. A large hole is in the middle of them that you can fall into. By falling into the hole, you will take health damage similar to trapdoors but instead of being teleported to a location associated with the trapdoor, you will instead be teleported to an area below ground.
 
- ![image](https://github.com/user-attachments/assets/3e8f7d6b-a9b4-4a98-8674-1ccb647aed6b)
+ ![image](https://git.com/user-attachments/assets/3e8f7d6b-a9b4-4a98-8674-1ccb647aed6b)
 
 The Magatama will be on a small alter and behind in the opposite direction will be a mirror. This mirror will not work like The Butterfly Shop mirrors and will instead teleport you to a random location within the level itself. 
  
-![image](https://github.com/user-attachments/assets/36ffdf8c-1cac-43b0-b54f-ed2d492f262d)
+![image](https://git.com/user-attachments/assets/36ffdf8c-1cac-43b0-b54f-ed2d492f262d)
 
 **Note: If you drop into the hole without 50 health, you will die and lose a life or be given a “Game Over”.**  
 
 ## Trap Room
- ![image](https://github.com/user-attachments/assets/ae708fa3-1647-470e-a935-98b3428fce3c)
+ ![image](https://git.com/user-attachments/assets/ae708fa3-1647-470e-a935-98b3428fce3c)
 
 Unlike most other Magatama Rooms, Trap Rooms are usually open unless on Deluge difficulty in some instances. You can tell a room is a trap room, based on a red line that will be attached to the Magatama like an umbilical cord. Once the Magatama is taken from this cord in the room, a baby monster apparition will be spawned and chase you down until you lose it or you die, costing you a life or a “Game Over” if you are out of them. These rooms are easy to access but at a very high reward. 
 
 To see more about the entity spawned from this room, click here: (Link)  
 
 ## No Noise Shion Trap Rooms
- ![image](https://github.com/user-attachments/assets/10892c97-eaa5-4540-9d3a-3a7b156ab7f9)
+ ![image](https://git.com/user-attachments/assets/10892c97-eaa5-4540-9d3a-3a7b156ab7f9)
 
 In many instances, these rooms will be heard not found right away. The flicker of lights will begin as well as the distinct sound of crying. Usually, this indicates a Shion guarding these rooms and the Magatama which is within the room. These rooms can be locked but there are easy work arounds to this fact. 
 
@@ -1194,17 +1194,17 @@ Swamp Trap Magatama Rooms are rooms that are entirely covered on the floor in wa
 
 
 ## Hanging Man Trap Room
- ![image](https://github.com/user-attachments/assets/f4e13e99-6b90-468c-98ca-a3746eef3951)
+ ![image](https://git.com/user-attachments/assets/f4e13e99-6b90-468c-98ca-a3746eef3951)
 
 Hanging Man Magatama Trap Room’s contain many Hanging Men trap pests which when touched will start to flail around and cause issues for your character and deal damage as well as create loud noises that could attract apparitions. The key to these rooms is to carefully try and traverse them or run through them and trigger a few at a time. Once they are triggered, waiting for them to untrigger and then that area will remain safe while others could be triggered later. 
 
 These rooms can be major drains on your health and should be very carefully treated as they will drain your health fast if not treated with respect and care.  
 
 ## Caccoon Moth Trap Room
- ![image](https://github.com/user-attachments/assets/3a53a3d3-0a51-4708-9efe-233dbe593a72)
+ ![image](https://git.com/user-attachments/assets/3a53a3d3-0a51-4708-9efe-233dbe593a72)
 
 Caccoon Moth’s guard this room and the Magatama within. The only way to obtain it is to take the damage of the room, or to use a fire cracker to scatter the moths, or to use a a star hour glass to freeze time and no damage and run out before it’s time runs out. 
-   ![image](https://github.com/user-attachments/assets/f960211b-a122-44c7-ac1f-0f122f6f0102)
+   ![image](https://git.com/user-attachments/assets/f960211b-a122-44c7-ac1f-0f122f6f0102)
 
 
 
@@ -1217,7 +1217,7 @@ Upon the completion of the level of a corridor, you will receive a series of med
 
  
 ## Medals and Their Valuations
- ![image](https://github.com/user-attachments/assets/b17bc2fc-a6e3-4241-99f6-df7736cd2cb2)
+ ![image](https://git.com/user-attachments/assets/b17bc2fc-a6e3-4241-99f6-df7736cd2cb2)
 
 Medals will be rewarded for specific actions such as completing a level within a certain time limit or performing a specific action while in that level itself. All possible obtainable medals are listed below:
 
@@ -1316,7 +1316,7 @@ The above scenario is POSSIBLE… but is more of a challenge, then something lik
 
 To see your rating on each difficulty and at each level, on the corridor select menu, look where the letters are circled to see your best results. 
  
- ![image](https://github.com/user-attachments/assets/faa2a541-114e-4f1f-91e2-0883295cbb7e)
+ ![image](https://git.com/user-attachments/assets/faa2a541-114e-4f1f-91e2-0883295cbb7e)
 
 ## Bonus Magatama 
 
@@ -1338,7 +1338,7 @@ Archives are documents that can be collected throughout your explorations that c
  
 
 # Magamata Challenge
- ![image](https://github.com/user-attachments/assets/78a29dba-e3bc-49d0-b155-499d6f1a207e)
+ ![image](https://git.com/user-attachments/assets/78a29dba-e3bc-49d0-b155-499d6f1a207e)
 
 The Magamata Challenge is unlocked after completing the entire story fully on any difficulty. The goal of the mode is to grab as many Magamata as fast as possible within the time limit. You start with 5 minutes and every time you obtain a Magamata you are given an additional minute for your run time. Focusing on speed as such, is essential. 
 
@@ -1357,7 +1357,7 @@ The enemy's performance is based on intermediate level and play at that level as
  
  
 # Marathon Mode
- ![image](https://github.com/user-attachments/assets/c8dfc60c-7cb2-4d7b-9412-e0151f9baded)
+ ![image](https://git.com/user-attachments/assets/c8dfc60c-7cb2-4d7b-9412-e0151f9baded)
 
 To unlock Marathon Mode, you must fully complete the story of the game once and in doing so, will unlock this mode. 
 
@@ -1369,7 +1369,7 @@ Souls and items carry over from one corridor into the next, so exploring a corri
 
 At the end of your Marathon (if you make it that far-), your total time is totaled up and scored accordingly. 
 
- ![image](https://github.com/user-attachments/assets/09a0cda1-d214-4ec2-ab27-b5de8e9e4974)
+ ![image](https://git.com/user-attachments/assets/09a0cda1-d214-4ec2-ab27-b5de8e9e4974)
 
 
 
