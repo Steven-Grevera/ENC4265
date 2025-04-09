@@ -201,13 +201,13 @@ A series of options will be present in this tab and will each have different eff
 
 Language: Sets the language of the text from it’s choice selection. All dubbing is done exclusively in Japanese. 
 
-Display Timer: When you are in a level, this option being enabled will allow you to see your time always displayed while playing in the mission itself. (Add a picture here to show that fact.)
+Display Timer: When you are in a level, this option being enabled will allow you to see your time always displayed while playing in the mission itself.
 
 Item Inventory Display Time: The total number (in seconds) that the inventory will be displayed when expanded before it automatically closes itself. 
 
 Display Item Info: This option will display item info when you highlight an item, such as a the firecrackers for example, to provide a tooltip which will provide a general idea of what the item in question does. Toggling to off or on based your preference.
 
-Look When Using Compass: As you traverse your generated corridor, you may run across an item called a compass. (Read more on that here- **(Link here later))** If this option is disabled, then you cannot move and look at the compass at the same time. Having this enabled allows you to do so. This is for people who may find this as a distraction. 
+Look When Using Compass: As you traverse your generated corridor, you may run across an item called a compass. [Read more on that here](#compass). If this option is disabled, then you cannot move and look at the compass at the same time. Having this enabled allows you to do so. This is for people who may find this as a distraction. 
 
 Return To Base Immediately After Results: If this option is set to on, then upon completing a level, you will be sent back to the “hub” of the game. See more on this here: **(Link to hub section later)**
 
@@ -886,6 +886,11 @@ Corridor items are items that you pick up while exploring the level of a corrido
 
 Items are collected by opening up drawers scattered throughout the corridor levels in the form usually of desks and tables and are always indoors on levels that have an outside and inside. 
 
+When picking up items as well, there is a chance for you to be jumped by spiders as a “trap” that will do damage to you. This can also result sometimes in a karuta being sealed. The way to tell if it’s a trap or not, is the drawer should slightly open but not all the way and seem to get “stuck.” This will tell you the drawer is a trap. You can open it again to take damage and there will usually be an item inside. Giving you the choice: Some of your health and a karuta sealing chance for an item, or ignore it. 
+![image](https://github.com/user-attachments/assets/1d1e0bfd-1594-480e-a49d-f90ea7205e4c)
+
+# Compass
+
 The Compass item is a unique item that spawns at a very rare chance from drawers and when found, will display the exit’s location, guiding the player to the means of escape.
 ![image](https://github.com/user-attachments/assets/affdd6e3-ddad-4af6-b0f0-880a3b65e4e6)
 ![image](https://github.com/user-attachments/assets/ae69c316-d8bd-4ed2-80ea-f99a44261fac)
@@ -893,8 +898,7 @@ The Compass item is a unique item that spawns at a very rare chance from drawers
 
  
  
-When picking up items as well, there is a chance for you to be jumped by spiders as a “trap” that will do damage to you. This can also result sometimes in a karuta being sealed. The way to tell if it’s a trap or not, is the drawer should slightly open but not all the way and seem to get “stuck.” This will tell you the drawer is a trap. You can open it again to take damage and there will usually be an item inside. Giving you the choice: Some of your health and a karuta sealing chance for an item, or ignore it. 
-![image](https://github.com/user-attachments/assets/1d1e0bfd-1594-480e-a49d-f90ea7205e4c)
+
 
  
  
