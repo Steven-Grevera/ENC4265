@@ -351,7 +351,7 @@ To the right of your candles and right below your health bar is the total amount
 ## Souls: 
 ![image](https://github.com/user-attachments/assets/4932c701-5a63-4331-9685-c082b086984f)
 
-Souls are the currency of the corridors. You can use souls for various things, such as karuta effects such as the map which will drain them constantly. Items from the Butterfly Shop (Link), helpful corridor rooms (link) and for things such as the Butterfly Lantern Light Source (Link). 
+Souls are the currency of the corridors. You can use souls for various things, such as karuta effects such as the map which will drain them constantly. Items from [The Butterfly Shop](#anchor8) and [other helpful corridor rooms](#anchor9) and for things such as the [Butterfly Lantern Light Source](#anchor10)
 
 Souls are obtained through checking resource gathering spots, which are specific and designated in design based on the corridor typing. 
 ![image](https://github.com/user-attachments/assets/0ce8a616-36e8-4f1d-85c9-85e7c2fff465)
@@ -384,6 +384,7 @@ With the right karuta, a player may hold up to 2 passive items at any given time
 
 For more information about the existing passive items in Shadow Corridor 2, see the following section: (Link) 
 
+<a name="anchor10"></a>
 
 ## Light Source Items
 ![image](https://github.com/user-attachments/assets/fe28a4e6-b23b-448b-9912-6407fee34bfe)
@@ -794,7 +795,7 @@ Trapdoors will spawn in the ground in rare occasions which lead to linked locati
 ![image](https://github.com/user-attachments/assets/ae5e3f54-a037-47fe-a94f-d34a32a013cb)
 
    
-
+<a name="anchor9"></a>
 
 # Special Rooms
 
@@ -853,7 +854,7 @@ Apparitions are not slowed by these unlike the player so if being chased by one,
 ![image](https://github.com/user-attachments/assets/83ff8382-9316-4d19-aabc-28161321ca55)
 
    
-
+<a name="anchor8"></a>
 
 ## The Butterfly Shop
 ![image](https://github.com/user-attachments/assets/913f42cd-3c67-4a6e-93e1-fece1c3c545b)
