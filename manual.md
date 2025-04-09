@@ -327,7 +327,7 @@ With a series of two items that can be found while exploring the corridors, you 
 
 Next to the candles on the right side is a bar with a value of 100/100. The number on the left is your current health and the number on the right side is your maximum total health you can have. If your health on the left side reaches “0”, you will lose a candle and if you run out of candles, you will obtain a “Game Over” as a failure condition. 
 
-Several items can restore health as well as certain Karuta (Link) and even coffee effects (Link) to try and keep you alive. You can even increase your maximum health by finding a special well/pool room found in your journeys, increasing your max health to 130 at the cost of 1500 souls. (Link)
+Several items can restore health as well as certain [Karuta](#anchor5)  and even [Coffee Effects](#anchor6) to try and keep you alive. You can even increase your maximum health by finding a special well/pool room found in your journeys, increasing your max health to 130 at the cost of 1000 souls. [Click here for more information on that special room.](#anchor7)
 
 
 ## Stamina
@@ -449,7 +449,7 @@ After getting through the games intro, you will arrive at the hub. In the hub wi
 
 By interacting with this device while in the hub, you can cycle through a series of soundtracks in the game itself. Pick your favorite one! Feel free to change it at any time by coming to this location. 
 
-
+<a name="anchor5"></a>
  
 # Karuta Cards
 ![image](https://github.com/user-attachments/assets/48f05b1e-724c-4f30-a0f8-09be400f5302)
@@ -603,6 +603,8 @@ Any time the game is loaded or a corridor exploration ends and you load back int
 | Body Language | You can now punch by left-clicking, and if you touch an Apparition they will die instantly but will also take damage. This card cannot be sealed. The results of clearing a stage will no longer be reflected. (Cheat Card) | Get all archives. | 
 | Awakening of The Stigma | The light of life (life points) will not decrease. This card cannot be sealed. The results of clearing a stage will no longer be reflected. (Cheat Card.) | 	Complete Marathon mode on “Intermediate” | 
 | Shura's Shackles | Your maximum health will be reduced to 1, and your stamina recovery speed will be greatly reduced. This card cannot be sealed. | 	Clear all stages with S rank. | 
+
+<a name="anchor6"></a>
 
 # Coffee 
 ![image](https://github.com/user-attachments/assets/1bdc1c09-adb8-4bb8-96ab-30aee766a288)
@@ -829,7 +831,7 @@ For 800 souls instead, you can use one of your karuta card slots to spawn this s
 
  
   
-
+<a name="anchor7"></a>
 
 ## Extra Health Well Rooms
  ![image](https://github.com/user-attachments/assets/b0ecb10c-5456-46ae-a638-2f6625a038be)
