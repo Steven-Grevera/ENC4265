@@ -370,7 +370,7 @@ Items are placed within the section circled and this section will display your m
 
 Items have a set number that can be picked up. For example, glowing stones cap at under normal circumstances at 20 stones. You can not duplicate an item beyond that cap into a second slot. Each slot is for unique items only. However, with a karuta, you can increase the cap of held number of the item in question by a set amount that is varied by that item type. 
 
-For more information on all items in Shadow Corridor 2, click here (Link). 
+For more information on all items in Shadow Corridor 2, [click here](#anchor11)
 
 
 ## Passive Items
@@ -382,9 +382,9 @@ Passive items are used up without a button needing to be pressed, which will be 
 
 With the right karuta, a player may hold up to 2 passive items at any given time. Allowing for more effects to be active at once. 
 
-For more information about the existing passive items in Shadow Corridor 2, see the following section: (Link) 
+For more information about the existing passive items in Shadow Corridor 2, see the [following section](#anchor12)
 
-<a name="anchor10"></a>
+
 
 ## Light Source Items
 ![image](https://github.com/user-attachments/assets/fe28a4e6-b23b-448b-9912-6407fee34bfe)
@@ -397,7 +397,7 @@ Light Source items are various items that provide light source in an area but ma
 
 When a light source is on, not only will a room get brighter, it may have an effect. You can see this item is “on” based on the small sun icon beneath the light source item itself. Some light sources are stronger then others in terms of “brightness”, for example, the flashlight being stronger in directed light then the lighter. However, more light makes it easier for apparitions to find the player and is one of the easiest ways to get spotted. 
 
-For more specifics on Light Source items, see: (Link) 
+For more specifics on Light Source items, [see here]#anchor10). 
 
  ![image](https://github.com/user-attachments/assets/259a7180-42a1-4307-b09a-570b818b8b04)
 
@@ -476,7 +476,7 @@ To select you Karuta loadout at The Hub, come to this location listed below and 
 ![image](https://github.com/user-attachments/assets/cb178a48-5d7a-4290-91a9-8e1c65cfc77e)
 
 
-Corrupted  Human’s or Impure look like the above and if they grab you, they will hold onto you for a bit and they will then seal a karuta card at random. Some karuta can protect this sealing effect from occurring but so too can certain coffee effects. (See coffee below **(Link Later)**. **Note as well that while grabbed, you can still be harmed by hostile apparitions. You will also take health damage from the grab itself.** 
+Corrupted  Human’s or Impure look like the above and if they grab you, they will hold onto you for a bit and they will then seal a karuta card at random. Some karuta can protect this sealing effect from occurring but so too can [certain coffee effects](anchor6). **Note as well that while grabbed, you can still be harmed by hostile apparitions. You will also take health damage from the grab itself.** 
 
 ![image](https://github.com/user-attachments/assets/bbc2110c-8f4c-44fd-9b7e-75ece8dbab83)
 
@@ -799,7 +799,7 @@ Trapdoors will spawn in the ground in rare occasions which lead to linked locati
 
 # Special Rooms
 
-Across the levels you explore amongst the corridors, you will encounter special variances to the usual layouts. These special rooms have a purpose to them or will stand out with a purpose to you in some way. They generate randomly and some only appear in certain corridor types, for example, the swamp appearing more so in The Shrine then the first level. Though a variant of the swamp can appear as The Swamp Trap for the Magatama Room. (Link here.)
+Across the levels you explore amongst the corridors, you will encounter special variances to the usual layouts. These special rooms have a purpose to them or will stand out with a purpose to you in some way. They generate randomly and some only appear in certain corridor types, for example, the swamp appearing more so in The Shrine then the first level. Though a variant of the swamp can appear as [The Swamp Trap](#anchor13) for the Magatama Room. 
 
  
 
@@ -905,7 +905,7 @@ The Compass item is a unique item that spawns at a very rare chance from drawers
  
 
 
- 
+ <a name="anchor11"></a>
  
 ## Specific Corridor Items
 
@@ -925,6 +925,8 @@ The Compass item is a unique item that spawns at a very rare chance from drawers
 | Candle of Life | Place at the alter to receive a new Candle Light (Life Point) if you had one go out. |
 | Thunder Spear | Right click to aim and then left click to throw the spear. Whatever it touches will be turned to ash, making it stronger then the Revolver. It only has one use. It can also be used to break locked doors. |
 | Arch | Slashing an Apparition will disable them for a certain period of time but will cause you to accumulate Corruption. |
+
+<a name="anchor12"></a>
 
 ## Specific Passive Items
 
@@ -960,7 +962,7 @@ The Compass item is a unique item that spawns at a very rare chance from drawers
 ## Specific Light Source Items
 
 	
-	
+<a name="anchor10"></a>	
 	
 	
 
@@ -1191,7 +1193,9 @@ To see more about the entity spawned from this room, click here: (Link)  
 In many instances, these rooms will be heard not found right away. The flicker of lights will begin as well as the distinct sound of crying. Usually, this indicates a Shion guarding these rooms and the Magatama which is within the room. These rooms can be locked but there are easy work arounds to this fact. 
 
 By throwing firecrackers, you can draw the slug creature away from the Magatama safely without any major risks. It can also result in the apparition breaking down a locked door and allowing you to safely enter inside. If you try to approach the Magatama without drawing the slug creature away, you will most likely enter up triggering it’s proximity, in which it will never stop chasing you until it has taken a life from you, or caused you to get a “Game Over”. Due to the fact this entity is attracted by footsteps and sounds, it’s sensitivity, dependent on the difficulty you are playing on. 
- 
+
+<a name="anchor13"></a>
+ 
 ## Swamp Trap Room
 
 Swamp Trap Magatama Rooms are rooms that are entirely covered on the floor in water. Entering the room will cause corruption build up, meaning that you must obtain the Magatama fast and then proceed to leave it with the Magatama obtained. On Deluge, these rooms can be extremely deadly without coffee and karuta card negations for corruption as you’ll build up corruption on your way to the Magatama and then proceed to get hit with further buildup that could push it over the edge to cost a life. 
