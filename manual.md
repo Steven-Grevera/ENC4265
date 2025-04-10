@@ -650,23 +650,26 @@ Any time the game is loaded or a corridor exploration ends and you load back int
 
 # Coffee 
 ![image](https://github.com/user-attachments/assets/1bdc1c09-adb8-4bb8-96ab-30aee766a288)
+*Figure 50: Image showing the menu to access Coffee Effects. Image Taken By: Steven Grevera*
 ![image](https://github.com/user-attachments/assets/b154265c-9777-4acf-8792-e03369e0ceab)
+*Figure 51: Image showing the main character drinking her coffee. Image Taken By: Steven Grevera* 
 
  
 
 Coffee provides smaller but helpful benefits to the player at a selection of 1 of each. Unlocking other coffee requires Coffee Bean Bags which can be found while exploring corridors. 
 ![image](https://github.com/user-attachments/assets/0aa0e452-9bb7-49a1-9e6f-f747ce62d6b2)
-
+*Figure 52: Image showing a Coffee Bean collectible item bag out in a corridor. Image Taken By: Steven Grevera*
 
 Collecting a coffee bean bag while exploring corridors, regardless of if you complete it to it’s exit or get a “game over”, keeps the bean forever in your amount collected total. Each corridor can only have a set amount collected within it maximum, before they no longer count toward your grand total. This amount can be seen on the corridor level selection screen.
  ![image](https://github.com/user-attachments/assets/6b6f0c8a-6ab7-4490-b681-7593b0ba86c8)
+*Figure 53: Image showing the corridor selection and the coffee beans obtained and max in that corridor. Which is circled in red. Image Taken By: Steven Grevera*
 
-To access the coffee menu, select the clipboard menu on the table from the above image **(Label figure properly later for referencing-)**  and you will be greeted to a selection of options. 
+To access the coffee menu, select the clipboard menu on the table from Figure 50 and you will be greeted to a selection of options listed below in Figure 54.
 
 ![image](https://github.com/user-attachments/assets/a75475a4-0645-43db-b5d7-9c75bdf4ec45)
- 
+*Figure 54: Image showing the coffee menu options. Image Taken By: Steven Grevera* 
 
-Selecting an option will cause your character to drink some coffee as an animation and give you the coffee benefit that you selected. Please note that as well that using a coffee item despite it’s numerical “cost” does not actually use any beans and is more so an unlock requirement, not a “cost”.
+Selecting an option will cause your character to drink some coffee as an animation and give you the coffee benefit that you selected. **Please note that as well that using a coffee item despite it’s numerical “cost” does not actually use any beans and is more so an unlock requirement, not a “cost”.**
 
 
  
@@ -691,7 +694,7 @@ Selecting an option will cause your character to drink some coffee as an animati
 
 # The Shadow Corridors (Generated Maze Levels)
  ![image](https://github.com/user-attachments/assets/68ab7140-2651-4700-99c3-4bbe72eff7ac)
-
+*Figure 55: Image showing the snail pool which is used to enter corridors as well as leave them through the story. Image Taken By: Steven Grevera*
 
 To select a corridor to play through, open a door toward the back of the bar on your right and then walk up to a well with the stone carving of a snail’s face and eyes. 
 
