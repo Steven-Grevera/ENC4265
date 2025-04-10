@@ -335,6 +335,7 @@ With a series of two items that can be found while exploring the corridors, you 
 
 ## Health
  ![image](https://github.com/user-attachments/assets/f64a2dde-2dcb-4e68-9343-ff6c83994a01)
+*Figure 13.2: Image showing the in game UI along with the inventory open and expanded and with the health bar circled in red. Image Taken By: Steven Grevera* 
 
 Next to the candles on the right side is a bar with a value of 100/100. The number on the left is your current health and the number on the right side is your maximum total health you can have. If your health on the left side reaches “0”, you will lose a candle and if you run out of candles, you will obtain a “Game Over” as a failure condition. 
 
