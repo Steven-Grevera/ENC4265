@@ -996,15 +996,19 @@ The light source of this level are Japanese Lamps which hang on the ceiling and 
 *Figure 117: Image showing the light source of the Glass Building Corridor. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/24a898a4-1029-48b9-a129-09549f693fac)
+*Figure 118: Image showing the Soul Farming Object of the Glass Building Corridor. Image Taken By: Steven Grevera*
 
  
 The Gimmick of the map is that upon obtaining the required number of Magatama dependent on your difficulty level, red crystals will shoot out all around where you took the Magatama from and spread out in a wide radius. Walking normally or running on them will cause 1 point of damage for each step and give the impression and sound of walking on glass. However, to avoid taking damage, you can crouch walk carefully which can take up a large amount of time, or with the Feather of Darkness Passive Item or Karuta card. 
  
 ![image](https://github.com/user-attachments/assets/f288acfa-65b6-46ed-81dc-0f52c577d3aa)
+*Figure 119: Image showing The Gimmick of the Glass Building Corridor. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/22f88b0d-60f7-4dc4-b141-dee096fc263d)
+*Figure 120: Image showing The Gimmick's boundary ending of the Glass Building Corridor. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/e287f8a6-bc94-4ed6-a3dc-22e7db359036)
+*Figure 121: Image showing a hiding place in  the Glass Building Corridor. Image Taken By: Steven Grevera*
 
 ### Sea of Trees Complex
 ![image](https://github.com/user-attachments/assets/bf38f273-7add-45db-97b2-790a0d4d4934)
