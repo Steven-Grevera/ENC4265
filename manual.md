@@ -1,6 +1,7 @@
 [Home](index.md) | [Manual Assessment Memo](Charbroil_Grill_Manual_Memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md) | [Major Projects](Major_Projects.md) | [Contact Me](Contact_Me.md)
 
- ![image](https://git.com/user-attachments/assets/ea791799-5005-43d2-94c1-9cae99890717)
+![image](https://github.com/user-attachments/assets/ed253747-64e5-4fb9-add6-afc43e22bd9c)
+*Figure 1: The front page of the Steam Store image for Shadow Corridor 2.  Image from: https://store.steampowered.com/app/2310700/Shadow_Corridor_2/*
 
 # Shadow Corridor 2: An English Guide To The Japanese Mythology Maze
 
@@ -114,16 +115,17 @@
 Shadow Corridor 2 is a maze style horror game in which you are given a set predetermined theme, which your “level”, or rather, “corridor”, in this sense. Each “corridor”, is procedurally generated upon level selection based upon a seed which will ensure that each and every experience you have is unique. The layout learned from one session, will not be the same layout for the next even if they are the same corridor and vice versa. 
 
 ![image](https://github.com/user-attachments/assets/0429fc8e-732d-4bd6-8b5b-ad9d469c5188)
+*Figure 2: Image of a corridor generating in game. Image by: Steven Grevera.* 
 
 Amo No Yohira is the spiritual land in which you find yourself, a world of the dead and a world of corrupted infesting water. Beware the water while your journey takes place here, lest you come to regret it. 
 
 ![image](https://github.com/user-attachments/assets/3b49031f-3c78-42d4-a358-82a9c8a4730d)
-
+*Figure 3: Image of the name of the realm the player is in. Image Taken By: Steven Grevera* 
 
 Your purpose in each corridor is the find an item known as Magatamas, which are green jade like objects that serve as “keys” to escape the maze. Your difficulty will determine if how many you need to escape, scaling from 3-5. Upon obtaining the required Magatamas, you can then escape the level by finding the generated exit which is never in the same place. Using a type of guide doll or a compass to help you find this exit as well. Keeping track of your progress through the use of glowing stones and your own mental notes as you progress through the maze.
 
 ![image](https://github.com/user-attachments/assets/df86fd81-034c-4026-8a60-80606b4b05cc)
-
+*Figure 4: Image of an exit at the end of a corridor. Image Taken By: Steven Grevera*
  
 Shadow Corridor 2 has a large fanbase primarily situated in Japan, yet many English players have also began to play and enjoy the game. However, when looking up information about the game online, most of that information is in Japanese or translated very poorly into English. This guide aims to solve that issue by establishing that information firmly into proper English words and instructions. 
 
@@ -168,14 +170,15 @@ Alternatively, you can use the following link if you are reading this guide onli
  
 # Main Menu: 
 ![image](https://github.com/user-attachments/assets/0f7872a5-cae0-46d1-9a19-d82d603b67d0)
-  
+*Figure 5: Image of the main menu from the game. Image Taken By: Steven Grevera*
+
 When you boot up the game software, these 4 options will present themselves to you accordingly. Hitting quit game will close the game software and take you out of everything.
 
 
  
 # Start A New Game 
 ![image](https://github.com/user-attachments/assets/a22d0ba1-1bab-4e83-92f6-53f9c56aa102)
-
+*Figure 6: Image showing the players option when hitting start a new game with their save slots. Image Taken By: Steven Grevera* 
 
 Selecting Start A New Game will allow you to pick a save slot to use out of your three options, or will wipe out an existing file if you so desire to do so. 
 
@@ -195,7 +198,7 @@ If you are using Nintendo Switch, you will use the Switch based controllers or c
  
 ## Game Settings
 ![image](https://github.com/user-attachments/assets/cfb84465-00b3-403f-8569-2a3992bc3e35)
-
+*Figure 7: Image showing the options the player has in "Game Settings". Image Taken By: Steven Grevera* 
 
 A series of options will be present in this tab and will each have different effects to your experience with the game. 
 
@@ -225,7 +228,7 @@ Whispers of The Remains: When collecting “souls” [more on this later](#ancho
  
 ## Control Settings
 ![image](https://github.com/user-attachments/assets/4166a22c-6a99-42b6-b3d9-169b0cb78618)
-
+*Figure 8: Image showing the options the player has in "Control Settings". Image Taken By: Steven Grevera* 
 
 A series of options will be present in this tab and will each have different effects to how your controller/mouse/keyboard operates and feels. 
 
@@ -248,7 +251,9 @@ Aim Assist Interaction: This option will lock your interaction within a certain 
  
 ## Control Assignments 
 ![image](https://github.com/user-attachments/assets/db4234cb-4894-48fa-8f48-f19e67f331b9)
+*Figure 9: Image showing the options the player has in "Control Assignments". Part 1 Image Taken By: Steven Grevera*
 ![image](https://github.com/user-attachments/assets/e4370103-a7c8-4313-a4a4-48bd2bfe0502)
+*Figure 10: Image showing the options the player has in "Control Assignments". Part 2 Image Taken By: Steven Grevera* 
 
  
 In this section for keyboard and mouse will be a series of keybindings or mouse interactions that will activate the given action in the scenario’s they list. The top being Mouse and Keyboard Settings and below it being Gamepad settings, showing you what buttons on your controller or gamepad and what they do. 
@@ -257,7 +262,7 @@ In this section for keyboard and mouse will be a series of keybindings or mouse 
 
 ## Graphics Settings 
 ![image](https://github.com/user-attachments/assets/a1e4e1fc-9bf2-4d0a-b8d0-b9347d1f7b37)
-
+*Figure 11: Image showing the options the player has in "Graphics Settings". Image Taken By: Steven Grevera*
 
 This tab is all about graphical settings for the game itself and will do various graphical things for the game itself. Options in here will mostly effect your visuals in game and be effected by your Graphics Card in your PC or system device. 
 
@@ -284,7 +289,7 @@ FPS Cap: Setting an option value here will limit FPS of the game to a certain va
 ## Sound Settings
 
 ![image](https://github.com/user-attachments/assets/261ae3d9-fe4d-4fe6-8a8d-9c6c3e28836d)
-
+*Figure 12: Image showing the options the player has in "Sound Settings". Image Taken By: Steven Grevera*
 
 In this tab you will find various audio levels for different sets of sounds and the levels in which they will be heard from.
 
@@ -305,14 +310,20 @@ Environmental Sounds: This value determines the atmospheric sounds  that can exi
 # General Game Mechanics
  ![image](https://github.com/user-attachments/assets/20c50b62-9a3b-43ba-88d0-417534ce5877)
 
+*Figure 13: Image showing the in game UI along with the inventory open and expanded. Image Taken By: Steven Grevera* 
+
 In order to survive traversing the corridors of this game, you must manage a series of survival mechanisms built into the game in order to succeed. These all must be managed successfully or else you could end up with a game over. Resulting in you having to generating a new level of the corridor and having to rediscover a brand new layout from scratch. 
 
 
  
 ## Lives (Candle’s Lit)
  ![image](https://github.com/user-attachments/assets/f925d099-eea9-44b9-b8dd-39bbc10cf2ce)
+*Figure 13.1: Image showing the in game UI along with the inventory open and expanded and with the lives indicator circled in red. Image Taken By: Steven Grevera* 
 
 Once you find yourself in the level of a corridor, the candles will appear in the circled location of your screen at the top left. These candles indicate your lives. When you run out, you will obtain a “Game Over” and be given the option to “retry” which will allow you to generate a brand new level of that corridor or “Return to Base” which will take you back to your Hub. 
+
+![image](https://github.com/user-attachments/assets/16676541-19bd-4633-bde9-bcca32e71acf)
+*Figure 14: Image showing a "Game Over" in a corridor. Image Taken By: Steven Grevera*
 
 With a series of two items that can be found while exploring the corridors, you may find an extra life. Restoring one of your extinguished candles. 
 
