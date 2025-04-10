@@ -1467,7 +1467,10 @@ The Shion naming is due to the flowers which grow out of it’s head in some way
 
 ### Mizuchi (Snake Woman)
 
-![image](https://git.com/user-attachments/assets/dcfbd603-c3d1-4682-af17-f32c145aa047)
+![image](https://github.com/user-attachments/assets/65dd9aef-1b31-4ed7-b897-6141544f1774)
+
+
+#Fix images below here before captioning more. Something went wrong. 
 
 
 The Mizuchi is a unique Apparition as it has no unique sound until it has found you, in which case it will scream at you in a woman’s shrieking voice. If you have light sources around you flickering and your heart beat is ringing out, this means that a Mizuchi is nearby. You must get to cover to hide as they can both see and hear you under the right circumstances. 
