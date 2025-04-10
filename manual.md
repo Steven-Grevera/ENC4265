@@ -57,6 +57,17 @@
 - [Coffee](#coffee)
   * [All Coffee’s and Their Effects](#all-coffees-and-their-effects)
 - [The Shadow Corridors (Generated Maze Levels)](#the-shadow-corridors-generated-maze-levels)
+  *[Corridors](#corridors)
+    + [Underworld Academy](#underworld-academy)
+    + [Corridor of Endless Rain](#corridor-of-endless-rain)
+    + [Hydrangea Street](#hydrangea-street)
+    + [Mausoleum](#mausoleum)
+    + [Shrine](#shrine)
+    + [Missing Windhole](#missing-windhole)
+    	++[Deluge Eyes Only](#deluge-eyes-only)
+    + [Glass Building](#glass-building)
+    + [Sea of Trees Complex](#sea-of-trees-complex)
+    + [Sea of Reminiscence](#sea-of-reminiscence) 
   * [Difficulty](#difficulty)
     + [Beginner](#beginner)
     + [Intermediate](#intermediate)
@@ -706,8 +717,6 @@ To complete a corridor level, you must successfully collect 3 or 5 Magatama depe
 
 If you fail to exit the level and run out of lives, all of your progress in that generated level of the corridor will be lost and you will be returned to the hub, or you may retry. Depending on which you may rather do. 
 
-**(LATER WILL HAVE EACH LEVEL LISTED BELOW, NEED PICTURES)**  
-
 ## Corridors
  ![image](https://github.com/user-attachments/assets/18deddfe-d8f6-4ec4-ac10-04fb5e1cf76c)
 
@@ -914,7 +923,7 @@ The corridor continues until the boss is defeated, in which you are then treated
 ![image](https://github.com/user-attachments/assets/266a458d-1e47-4373-8564-529af98ea069)
 
 
-#### Deluge Only Eyes: 
+#### Deluge Eyes Only: 
 ![image](https://github.com/user-attachments/assets/789368c9-e435-4086-a97e-5abbb761e0b1)
 
 On deluge, the boss returns after being defeated in a new form and must be defeated yet again for a “Phase 2”. Which consists of everything being the same as “Phase 1”, only now your on a more crunched timer due to the corruption buildup constantly draining your health. 
