@@ -974,22 +974,26 @@ The corridor continues until the boss is defeated, in which you are then treated
 On deluge, the boss returns after being defeated in a new form and must be defeated yet again for a “Phase 2”. Which consists of everything being the same as “Phase 1”, only now your on a more crunched timer due to the corruption buildup constantly draining your health. 
 
 ![image](https://github.com/user-attachments/assets/5935090d-36a3-4f6e-81bf-47febd895b6a)
-
+*Figure 113: Image showing how dark it can get in The Missing Windhole Corridor on deluge Image Taken By: Steven Grevera*
  
 Your field of view will be obscured by corrupting mist making it not only hard to see where your going but put you on a bit of a time limit based on your health of corruption meter. Your only hope of maintaining more time is running to the skeletons to purge your corruption but since it’s deluge, the corruption will take a tad longer to clear and be more deadly. Truly putting you on a timer. As even if you clear it, it will begin again. It is recommended to bring a Purifying Hydrangea karuta in order to deal with the corrupting mist for the 2nd phase. 
 
 Once the boss is defeated, they will drop an object for you to pick up on this level and you will then simply exit the corridor.
  
 ![image](https://github.com/user-attachments/assets/9cf27635-720c-4783-85f0-ff85f2e0afe3)
+*Figure 114: Image showing the fragment that waits for you to pick up after completing the Missing Windhole Corridor on deluge Image Taken By: Steven Grevera*
 
 ### Glass Building 
  ![image](https://github.com/user-attachments/assets/f5319cd4-aedb-4de8-ad84-601b2f9e77d7)
+*Figure 115: Image showing the starting room on the Glass Building Corridor. Image Taken By: Steven Grevera*
 
 The light source of this level are Japanese Lamps which hang on the ceiling and are extremely fancy and also some on the ground like from Corridor of Endless Rain. The means to obtain souls is through a music box usually situated on top of dressers. 
  
  ![image](https://github.com/user-attachments/assets/6f768f9c-dbba-4925-b526-2882d3b9e84a)
+*Figure 116: Image showing an outside section of the Glass Building Corridor. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/7cb4066b-b7d3-4313-9c70-b01793a09cec)
+*Figure 117: Image showing the light source of the Glass Building Corridor. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/24a898a4-1029-48b9-a129-09549f693fac)
 
