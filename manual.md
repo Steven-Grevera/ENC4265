@@ -884,21 +884,25 @@ The Light Source item of this corridor is that of the small lanterns which are h
 For those that thought the Mausoleum was disturbing, The Shrine takes things to the next level. The level always starts outside of the shrine, which you must open using a lever outside to open it up. Greeting you to the doll’s at the front entrance. 
 
 ![image](https://github.com/user-attachments/assets/0e636c8b-18f1-4bd7-9c86-f4169b3853f8)
-(Figure 90: Image showing the walls within The Shrine. Image Taken By: Steven Grevera)
+*Figure 90: Image showing the walls within The Shrine. Image Taken By: Steven Grevera*
 ![image](https://github.com/user-attachments/assets/aa2fa19c-40b2-4cb9-9b0d-4e8b87ff6f1a)
+*Figure 91: Image showing a connection slope going down within The Shrine. Image Taken By: Steven Grevera*
 ![image](https://github.com/user-attachments/assets/5a6d321b-e708-4d41-b2a2-8f1060ec41c6)
-
+*Figure 92: Image showing a connection point within The Shrine. Image Taken By: Steven Grevera*
  
  
 Throughout the map, are mechanical dolls that appear stationary. However, if you see one that has it’s lights flashing, do not enter it’s light, or else you will trigger an alarm and the Mechanical Doll will then become an Apparition that will chase you. Other then the Shion it is one of the fastest entities in the game and the hardest to escape. However, they operate entirely on visuals alone, meaning you can be about as loud as you want. Albeit, they are still effected by firecracker karuta to scare them away. 
 
 ![image](https://github.com/user-attachments/assets/0b7912a5-c503-4e51-b417-630bf498db2e)
-
+*Figure 93: Image showing a Mechanical Doll's yellow glowing eyes waiting for someone to enter it's sight within The Shrine. Image Taken By: Steven Grevera* 
  
 The light source object of the map are small candles waiting for you to light and the soul farming object is a barrel that when interacted with will show a small green fire light, which grants souls. 
 
  ![image](https://github.com/user-attachments/assets/3b26ba4d-1790-4565-96e7-b86110ed6b4e)
+ *Figure 94: Image showing the Light Source within The Shrine. Image Taken By: Steven Grevera*
+ 
 ![image](https://github.com/user-attachments/assets/11e7f60b-b4c8-43ca-97ed-4e322aaebfc7)
+*Figure 95: Image showing the soul farming object within The Shrine. Image Taken By: Steven Grevera*
 
 The Gimmick of this map is that depending on your difficulty, when you obtain a certain amount of magatama you will hear loud activating and rolling sounds throughout the shrine. This will not effect the entire shrine but it will effect a large area around where the gimmick was triggered, causing all the mechanical dolls in a large radius to activate and begin to patrol the level as a hostile Apparition that isn’t detectable by heartbeat warnings, only the rolling/grating sound it makes as it travels along. 
 
@@ -906,55 +910,66 @@ The Gimmick of this map is that depending on your difficulty, when you obtain a 
 On Advanced and Deluge, this level becomes extremely hard as Doll’s will be activated in a large amount with every single Magatama picked up. It is best to go into this level as such with a load out focused on stunning and scaring away Apparitions, as avoiding them all by means of stealth is near impossible and extremely time consuming. 
 
 ![image](https://github.com/user-attachments/assets/24e39119-b602-45b4-8c07-0c97ec0def63)
+*Figure 96: Image showing a large pole situated in the middle of a room within paper talismans all over the ceiling within The Shrine. Image Taken By: Steven Grevera*
 
 ### Missing Windhole 
  ![image](https://github.com/user-attachments/assets/befc5e54-e032-47b6-85ec-15f5c575016a)
+*Figure 97: Image showing the large gate entrance to The Missing Windhole Corridor. Image Taken By: Steven Grevera*
 
 The Missing Windhole corridor is unique as it is entirely a boss corridor. Your sole objective in this corridor is to defeat the pursuing boss Apparition by draining it’s health bar using barrels scattered across the level, which is not procedurally generated and is in fact predetermined to be exactly the same, in fact, even ending at some point if the encounter drags on for too long and you don’t die a single time. Requiring you to use a mirror to return to the start. 
 
  ![image](https://github.com/user-attachments/assets/e0b6d9f6-32bb-4a32-b9d1-ac6764ceee46)
+ *Figure 98: Image showing another gate while being pursued by the boss in The Missing Windhole Corridor. Image Taken By: Steven Grevera*
+ 
 ![image](https://github.com/user-attachments/assets/8a5c5bc2-af81-4725-848a-24688477ff1e)
-
+*Figure 99: Image showing a pulley lever that must be used to open the gate while being pursued by the boss in The Missing Windhole Corridor. Image Taken By: Steven Grevera* 
  
 The corridor continues until the boss is defeated, in which you are then treated to a triggered cutscene and allows you to then exit the corridor. The corridor is not majorly generated but is to an extent, providing a large amount of fixed aspects but with some variance per playthrough of a variety of room types you can and will encounter.
 
  ![image](https://github.com/user-attachments/assets/c14a2594-e5fd-4eed-9ebc-4c256c08f378)
-
+*Figure 100: Image showing the boss once you spawn into The Missing Windhole Corridor. Image Taken By: Steven Grevera*
 
  
  ![image](https://github.com/user-attachments/assets/e4e0444f-2747-46be-a097-c84c38c4f687)
+*Figure 101: Image showing the cave like section of The Missing Windhole Corridor. Image Taken By: Steven Grevera*
 
  
  ![image](https://github.com/user-attachments/assets/09ca38f7-a732-4d4e-bf56-38d872565e74)
-
+*Figure 102: Image showing the cave like section of The Missing Windhole Corridor's dead end portion. Image Taken By: Steven Grevera* 
 
  
 ![image](https://github.com/user-attachments/assets/9011889e-c18c-41e1-b9fd-cc3fb4fa64ca)
-
+*Figure 103: Image showing barrels that must be shot with the boss in proximity to deal damage to it in The Missing Windhole Corridor's dead end portion. Image Taken By: Steven Grevera* 
  
  
  ![image](https://github.com/user-attachments/assets/d82129a1-e9e3-433d-8b51-42323b78409e)
+*Figure 104: Image showing a barrel that has exploded after being shot with the boss in proximity to deal damage to it in The Missing Windhole Corridor's dead end portion. Image Taken By: Steven Grevera*
 
  
  ![image](https://github.com/user-attachments/assets/b031e074-1e93-4f3d-8b7d-21d5d29301e1)
+*Figure 105: Image showing a dark cave section that can generate in The Missing Windhole Corridor's dead end portion. Image Taken By: Steven Grevera*
 
  ![image](https://github.com/user-attachments/assets/fca1c123-ce25-4409-a3e5-21c1c98fddd6)
-
+*Figure 106: Image showing an underground walkway/bridge section as the boss pursues the player. Image Taken By: Steven Grevera*
  
 ![image](https://github.com/user-attachments/assets/4b43bac8-7bc7-4041-b4de-2eb46e2cbd9e)
+*Figure 107: Image showing a barrel waiting to be destroyed to open a path forward in The Missing Windhole Corridor Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/e8cfe39a-cc7d-4c9b-8107-9fa90e80dc2b)
-
+*Figure 108: Image showing a swamp delay section that can slow you down in The Missing Windhole Corridor Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/c50d42f3-9fee-437a-8033-0c80a20e4c8e)
+*Figure 109: Image showing a door blocking your path that requires a key to advance in The Missing Windhole Corridor Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/88a9a2b8-622f-4e40-9300-910fcc479af8)
+*Figure 110: Image showing a lower section of a spiraling cave pathway. in The Missing Windhole Corridor Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/266a458d-1e47-4373-8564-529af98ea069)
-
+*Figure 111: Image showing the bosses defeat in The Missing Windhole Corridor Image Taken By: Steven Grevera*
 
 #### Deluge Eyes Only: 
 ![image](https://github.com/user-attachments/assets/789368c9-e435-4086-a97e-5abbb761e0b1)
+*Figure 112: Image showing the bosses return exclusively in The Missing Windhole Corridor on deluge Image Taken By: Steven Grevera*
 
 On deluge, the boss returns after being defeated in a new form and must be defeated yet again for a “Phase 2”. Which consists of everything being the same as “Phase 1”, only now your on a more crunched timer due to the corruption buildup constantly draining your health. 
 
