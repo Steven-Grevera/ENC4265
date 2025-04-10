@@ -369,23 +369,24 @@ To the right of your candles and right below your health bar is the total amount
 
 ## Souls: 
 ![image](https://github.com/user-attachments/assets/4932c701-5a63-4331-9685-c082b086984f)
-*Figure 24: Image showing the in game UI along with the inventory open and expanded and the Souls Counter circled in red Image. Taken By: Steven Grevera* 
+*Figure 24: Image showing the in game UI along with the inventory open and expanded and the Souls Counter circled in red Image. Image Taken By: Steven Grevera* 
 
 Souls are the currency of the corridors. You can use souls for various things, such as karuta effects such as the map which will drain them constantly. Items from [The Butterfly Shop](#anchor8) and [other helpful corridor rooms](#anchor9) and for things such as the [Butterfly Lantern Light Source](#anchor10)
 
 Souls are obtained through checking resource gathering spots, which are specific and designated in design based on the corridor typing. 
 ![image](https://github.com/user-attachments/assets/0ce8a616-36e8-4f1d-85c9-85e7c2fff465)
-*Figure 25: Image showing a Soul Farming Spot (Resource Gathering Spot). Taken By: Steven Grevera*
+*Figure 25: Image showing a Soul Farming Spot (Resource Gathering Spot). Image Taken By: Steven Grevera*
 
 Or by finding skeleton’s in hallways or rooms, which can appear within any corridor. 
 
 ![image](https://github.com/user-attachments/assets/43b76537-98a0-468b-b04d-40aa4e9a34bf)
-*Figure 26: Image showing a corpse which you can get souls from and cleanse corruption. Taken By: Steven Grevera*
+*Figure 26: Image showing a corpse which you can get souls from and cleanse corruption. Image Taken By: Steven Grevera*
 
 Interacting with either of these objects, will net the player a number of souls. The number obtained for the player can be upgraded with certain karuta for those who want to play with a heavy souls earning potential build. 
 
 ## Items
 ![image](https://github.com/user-attachments/assets/cf0449f0-db63-4215-9b17-fe97985e1659)
+*Figure 27: Image showing the in game UI along with the inventory open and expanded and the inventory slots circled in red. Image. Image Taken By: Steven Grevera*
 
 Items are placed within the section circled and this section will display your max inventory size. By pressing your destinated inventory button, you can open this menu to look as the image above does, though yours might appear smaller in slots. That is due to the fact that in the image above, a karuta is being used which increases the total amount of inventory slots you have for unique items. 
 
@@ -396,6 +397,7 @@ For more information on all items in Shadow Corridor 2, [click here](#anchor11)
 
 ## Passive Items
 ![image](https://github.com/user-attachments/assets/4c10183f-e9c4-4061-b969-705508d9b1a2)
+*Figure 28: Image showing the in game UI along with the inventory open and expanded and the passive inventory slot circled in red. Image Taken By: Steven Grevera*
 
 Passive items are held items that you hold on your left side of your inventory that have various effects. Such as Insect Repellent, which makes it so insect based Pests cannot deal damage to the player, or will even be alerted to their presence.
 
@@ -409,24 +411,25 @@ For more information about the existing passive items in Shadow Corridor 2, see 
 
 ## Light Source Items
 ![image](https://github.com/user-attachments/assets/fe28a4e6-b23b-448b-9912-6407fee34bfe)
-
+*Figure 29: Image showing the in game UI along with the inventory open and expanded and the Light Source inventory slots circled in red. Image Taken By: Steven Grevera* 
 
 Light Source items are various items that provide light source in an area but may also have other effects. In Shadow Corridor 2, you always start with an infinite basic light source in the “Lighter”, which is obtained at the start of the game and exists no matter what. It cannot be replaced. 
 
 ![image](https://github.com/user-attachments/assets/900dc911-0be9-40de-804a-2ab6851d37b8)
-
+*Figure 30: Image showing how a Flashlight's light looks in darkness. Image Taken By: Steven Grevera* 
 
 When a light source is on, not only will a room get brighter, it may have an effect. You can see this item is “on” based on the small sun icon beneath the light source item itself. Some light sources are stronger then others in terms of “brightness”, for example, the flashlight being stronger in directed light then the lighter. However, more light makes it easier for apparitions to find the player and is one of the easiest ways to get spotted. 
 
 For more specifics on Light Source items, [see here]#anchor10). 
 
  ![image](https://github.com/user-attachments/assets/259a7180-42a1-4307-b09a-570b818b8b04)
-
+*Figure 31: Image showing how a Butterfly Lanterns's light looks in darkness. Image Taken By: Steven Grevera*
 
 
 
 ## Corruption 
 ![image](https://github.com/user-attachments/assets/a29ffb7a-622d-407b-bf01-7a0b09104d41)
+*Figure 32: Image showing where the "corruption" bar will be located and how it fills up should you be afflicted with it. Image Taken By: Steven Grevera*
 
 Corruption builds up with exposure to water in Shadow Corridor 2, as The Shadow Corridor’s are part of a larger realm of the dead. Water applies to things such as “Swamps” which can spawn randomly in the world or as specific parts of specific corridor types. Another type of “water” that can fill this gauge is “rain”. This rain will build up corruption. 
 
@@ -436,9 +439,7 @@ If corruption reaches it’s max possible allocation, it will cause an instant l
 
 Using certain karuta can allow for corruption to be negated through the use of passive items that can be obtained at the start of your level’s session, or certain coffee effects can also be utilized to lower the rate in which corruption builds.  
 
-On most difficulties other then deluge, the best way to get rid of corruption entirely is to walk over to a skeleton’s remains. Flowers growing out of it will drain your corruption bar until it is entirely free. Making skeletons good to seek out in corridors with heavy amounts of swamp and rain. 
-
-**Will Get images of a swamp and rain descending on a player. Maybe even an image of the boss escape run level as well perhaps. As well as the actual bar.**
+On most difficulties other then deluge, the best way to get rid of corruption entirely is to walk over to a skeleton’s remains. Flowers growing out of it will drain your corruption bar until it is entirely free. Making skeletons good to seek out in corridors with heavy amounts of swamp and rain.
 
 
  
