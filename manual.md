@@ -445,6 +445,7 @@ On most difficulties other then deluge, the best way to get rid of corruption en
  
 ## Insanity 
  ![image](https://github.com/user-attachments/assets/393cc28b-9a7c-4ee1-a920-b4b6c31c10d7)
+*Figure 33: Image showing where the "insanity" bar will be located and how it fills up should you be afflicted with it. Image Taken By: Steven Grevera*
 
 Insanity is a yellow bar that will fill up far rarer then corruption. It is caused by being in proximity to certain apparitions or environmental factors that can be triggered in the corridors. 
 
@@ -453,22 +454,28 @@ When insanity is built up to max, you will be stunned in place and let out a lou
  
 ## Hiding Places
 ![image](https://github.com/user-attachments/assets/17c1dc97-f9ea-49de-9453-3a3fb7f9e076)
+*Figure 34: Image showing the inside of a hiding place from "Underworld Academy". Image Taken By: Steven Grevera*
 
 Throughout the corridors, you will find places that you can hide in if an Apparition is on your tail or nearby. These places of protection must be found in order to avoid being discovered and if you have your light source on without the right karuta on, you can still be discovered. So it’s best to keep that off. All corridors have different types of hiding places that can range from closets to tiny baskets, all depending on the corridor in which you find yourself exploring. 
  ![image](https://github.com/user-attachments/assets/9f08911f-e457-4b8d-812b-6a69906cb07d)
+ *Figure 35: Image showing the outside of a hiding place from "Underworld Academy". Image Taken By: Steven Grevera*
+ 
 ![image](https://github.com/user-attachments/assets/1c77f831-bfe2-4b51-b674-01e9aebfe9ef)
+*Figure 36: Image showing the inside of a hiding place in The Underworld Academy but with The Lights off. Image Taken By: Steven Grevera*
 
 
 <a name="anchor2"></a>  
-#The Hub
+
+# The Hub
 ![image](https://github.com/user-attachments/assets/fd561390-44be-4f34-bf80-6ff4dcf57aec)
- 
+*Figure 37: Image showing The Barkeep when you first enter the game. Image Taken By: Steven Grevera*
+
 
 After getting through the games intro, you will arrive at the hub. In the hub will be several options that will assist you on your corridor explorations. 
 
 ## Hub Music Control
 ![image](https://github.com/user-attachments/assets/3139efc3-360a-491b-aba0-f106bce5af6f)
-
+*Figure 38: Image showing a Gramophone which can be used to change the music playing in The Hub. Image Taken By: Steven Grevera* 
 
 By interacting with this device while in the hub, you can cycle through a series of soundtracks in the game itself. Pick your favorite one! Feel free to change it at any time by coming to this location. 
 
@@ -476,18 +483,20 @@ By interacting with this device while in the hub, you can cycle through a series
  
 # Karuta Cards
 ![image](https://github.com/user-attachments/assets/48f05b1e-724c-4f30-a0f8-09be400f5302)
-
+*Figure 39: Image showing a Karuta Card's artwork known as: Doll Calling from in game. Image Taken By: Steven Grevera* 
 
 Karuta Cards are benefits that you bring into your corridor explorations that all have different benefits and effects. One such example is above. Gamers with experience with other games, might call these “Perks”. 
 
 Karuta are one of Shadow Corridor 2’s most powerful benefits as they can completely change your experience while exploring corridors as their effects can be extremely powerful and dynamically change aspects of the game in some way. They can vary from things like using a special map that can help you navigate, to simple but powerful buffs like stat resistances to certain negative traits you can run into while exploring, such as Corruption. 
 
 ![image](https://github.com/user-attachments/assets/c52f1031-0a01-410f-8a12-72710e46bca6)
+*Figure 40: Image showing a Karuta Card's loadout and changing screen. Image Taken By: Steven Grevera*
 
 
 Karuta are limited to 5 total by the end game of Shadow Corridor 2, with an extra slot possible if found in a level itself for a price. 
 
 ![image](https://github.com/user-attachments/assets/5d6ddcef-e0a5-418f-a33b-f3bc23d61f20)
+*Figure 41: Image showing where you set up your karuta cards. Image Taken By: Steven Grevera*
 
 To select you Karuta loadout at The Hub, come to this location listed below and interact with the table.
  
@@ -495,12 +504,15 @@ To select you Karuta loadout at The Hub, come to this location listed below and 
 ## Sealed Karuta Cards
 
 ![image](https://github.com/user-attachments/assets/1829f5bc-b874-4c6e-ba58-15f3991f501b)
-![image](https://github.com/user-attachments/assets/cb178a48-5d7a-4290-91a9-8e1c65cfc77e)
+*Figure 42: Image showing a sealed Karuta Card. Image Taken By: Steven Grevera*
 
+![image](https://github.com/user-attachments/assets/cb178a48-5d7a-4290-91a9-8e1c65cfc77e)
+*Figure 43: Image showing a Corrupted Human Pest Image Taken From: https://i.namu.wiki/i/hnO7aN6GP1IC3yi0pUfOY4dRlQ5XANHI63TAqSck3br58B3PaiGRh_4etLQCOefjNbtlk_smJG0nXErRB-7qZBmwvYZ7Ja_WMFgvfyipP96Yc-F9V5bhdGlMkO_uZrru-rxqZkMQdzoqXl-TS3FFyPkW0obYybRejnTrqsPvtr0.webp* 
 
 Corrupted  Human’s or Impure look like the above and if they grab you, they will hold onto you for a bit and they will then seal a karuta card at random. Some karuta can protect this sealing effect from occurring but so too can [certain coffee effects](anchor6). **Note as well that while grabbed, you can still be harmed by hostile apparitions. You will also take health damage from the grab itself.** 
 
 ![image](https://github.com/user-attachments/assets/bbc2110c-8f4c-44fd-9b7e-75ece8dbab83)
+*Figure 44: Image showing a Corrupted Human Pest grabbing the player with the clairvoyance item on. Image Taken By: Steven Grevera*
 
 
 The only way to unseal karuta is to spend 1000 souls at the butterfly shop, which is randomly located in each corridor. Spending the 1000 souls will unseal all karuta at once for the exact same price, meaning in some situations it might be better to wait for more to be sealed before spending your souls while out exploring. 
@@ -509,14 +521,17 @@ The only way to unseal karuta is to spend 1000 souls at the butterfly shop, whic
 
 ## Bonus Karuta Slot
  ![image](https://github.com/user-attachments/assets/9239ad18-8c36-4472-800c-c4b4039445f4)
+*Figure 45: Image showing a bonus Karuta Table Room found while in a corridor. Image Taken By: Steven Grevera*
 
 While exploring in Corridors, you may find a Karuta card table. By spending 1500 at these randomly generated locations, you will unlock an additional Karuta slot for the rest of that corridors exploration and it will be lost on it’s completion or a game over while exploring. 
 
 The bonus karuta card gained is completely up to you to choose from and will bring up your menu of existing cards accordingly. While looking through your cards, the game is paused and so is the corridor timer. So take as long as you need!
 
  ![image](https://github.com/user-attachments/assets/c8c557e3-3300-461b-b428-5cf56d63c069)
+*Figure 46: Image showing the extra Karuta Slot that you can slot into your current set as well as your choices. Image Taken By: Steven Grevera*
 
  ![image](https://github.com/user-attachments/assets/9471c385-eebe-4303-a7c5-2c7e50d620a6)
+*Figure 47: Image showing the extra Karuta Card slotted in. Image Taken By: Steven Grevera*
 
  
  
@@ -526,14 +541,18 @@ The bonus karuta card gained is completely up to you to choose from and will bri
 ## Buying More Karuta
 
 ![image](https://github.com/user-attachments/assets/32da4faa-049f-4b9b-988f-1954fdd5e196)
-![image](https://github.com/user-attachments/assets/56443f93-995f-46b1-a02e-91b09a9d224d)
+*Figure 48: Image showing The Barkeep with the option to buy more Karuta Cards. Image Taken By: Steven Grevera*
+
+
 
 
 Karuta are bought with Magatama, which you obtain 1 of per your explorations outside of the hub in corridors itself. You do not have to complete an exploration in full of a corridor or even finish a session to obtain this currency to spend. The moment you pick one up in a corridor, it is added to your inventory. 
 
 To buy Karuta, talk to the barkeep and select the “Buy Karuta” option. 
 
- 
+![image](https://github.com/user-attachments/assets/56443f93-995f-46b1-a02e-91b09a9d224d)
+*Figure 49: Image showing what happens when you select to buy more Karuta Cards. Image Taken By: Steven Grevera* 
+
 
 5 total options will be displayed at a single time and to refresh your options, you must spend a Magatama. When a Karuta card is bought, a new one is not added. 
 
