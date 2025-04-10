@@ -708,6 +708,91 @@ If you fail to exit the level and run out of lives, all of your progress in that
 
 **(LATER WILL HAVE EACH LEVEL LISTED BELOW, NEED PICTURES)**  
 
+## Corridors
+ ![image](https://github.com/user-attachments/assets/18deddfe-d8f6-4ec4-ac10-04fb5e1cf76c)
+
+Select one of the levels at this screen to be taken to the corridor you wish to play a level of. Below, are a series of options and what is unique to each of them. 
+
+Each map has a gimmick that will trigger depending on the situation. For Beginner and Intermediate for example, it will occur on the 3rd Magamata obtained, the on intermediate, it will occur on the 5th as well. On advanced however, it will occur with every Magamata picked up except for Sea of Reminiscence which will only have the gimmick occur on the 3rd and 5th pick ups. 
+
+When exploring, you might find areas rarely that have rain coming through the ceiling. The amount of these that can spawn increases based on the difficulty you choose to play the corridor on. 
+
+![image](https://github.com/user-attachments/assets/9e021020-d1c9-4696-9a6c-627cda3e1151)
+
+
+### Underworld Academy
+![image](https://github.com/user-attachments/assets/c5551254-b227-4e7a-9b6c-f13a027a05f5)
+
+The Underworld Academy is the first Corridor you will explore when you start and play the game’s story mode. To obtain souls, you will search single school dressers which contain souls within. To turn on the lights, you will turn on the classroom style lights that are above your head everywhere that you go.
+
+ ![image](https://github.com/user-attachments/assets/5cffa348-e7ce-49be-9d0c-f3c5a7f93687)
+
+
+The gimmick of this map involves a school bell loudly ringing any time the gimmick is triggered, which will slowly build up your insanity in a large radius and attract Apparitions to you as a result if you do not clear the area, or find a place to hide out. Eventually, the bell will stop ringing, so be sure your ready to escape to safety before picking up the Magatama. 
+ 
+
+ ![image](https://github.com/user-attachments/assets/938e7f77-573c-473d-b58e-66cb55cbd436)
+
+ ![image](https://github.com/user-attachments/assets/27a81cef-a233-44df-80b4-2e138df49e4e)
+
+ ![image](https://github.com/user-attachments/assets/0b907a38-ba4b-4158-9e07-693fea6c8b24)
+
+![image](https://github.com/user-attachments/assets/36d45498-8bcf-4cf3-83e1-e16a56f50303)
+
+![image](https://github.com/user-attachments/assets/27453ce2-ee6d-4863-a252-168ea835f13f)
+
+
+### Corridor of Endless Rain
+![image](https://github.com/user-attachments/assets/201376d7-9221-4a4b-b28d-b312f051457b)
+
+
+The Corridor of Endless Rain is within a house or inn of some kind that seems to stretch on endlessly. Certain large opening sections covered with doors, will reveal openings to the outside world, yet constantly pour endless rains on that outside. Causing issues for the player in terms of corruption build up. 
+![image](https://github.com/user-attachments/assets/4019f2ab-4e42-4a97-8934-d3cc54e4756a)
+
+ ![image](https://github.com/user-attachments/assets/63b59bab-ed91-4d26-9565-8172772f453a)
+
+ ![image](https://github.com/user-attachments/assets/630e1477-60da-42d9-bb65-1af40b611eb4)
+
+
+![image](https://github.com/user-attachments/assets/24d64a72-4fa4-4647-90af-9a15e91a5c59)
+
+
+
+
+The light source of the map are tiny square lamps that are set up across the level and the farming object’s are large vases on the ground that when interacted with will emit a green light to acquire souls.
+
+ ![image](https://github.com/user-attachments/assets/dbad1606-d881-4ed5-9cbf-5973a46de198)
+
+ ![image](https://github.com/user-attachments/assets/2af4660e-97b7-4648-9428-6f5231ce14d6)
+
+The corridors  gimmick can be devastating if you aren’t yet used to dealing with the corruption status buildup, which when activated by obtaining the right amount of magatama, will cause the rain to drip through the ceiling and onto the player. Causing endless buildup of corruption unless skeletons or other means are found. The range is not infinite but it is large. On advanced and beyond, in practice, this means the entire corridor will eventually end up with rain dripping from the ceiling and leaving very little areas to be safe. 
+
+![image](https://github.com/user-attachments/assets/7c1fa058-8e29-43be-995a-ea4cfd77ad04)
+
+
+### Hydrangea Street
+
+A large open street that endlessly stretches amidst a mix of a town and alleyways. The area is very dark and occurs at night with many locations having raining dripping down. The only escape by which, is entering the limited building entrances scattered throughout the level.
+
+  
+Due to the building entrances being limited, items can be scarce in this level and it is advised to possibly bring key ones in ahead of time to make best use of your situation while exploring levels of this corridor. 
+
+Unlike most other corridors, there are two key gimmicks of this map. The first occurs every two minutes, in which an alarm will sound and Corrupted Humans will spawn all over and slowly seek you out. The time it takes for these lanterns to glow and trigger the spawns, occurs based on your difficulty as such: 
+
+- Beginner: about 10 minutes,
+- Intermediate - 4.5 to 6.5 minutes
+- Advanced or Deluge - 3 to 5 minutes
+
+In addition to the set times above, the gimmick will also occur on the final magatama pick up on intermediate and beyond but from that moment on, the lamps will never turn off, meaning the large spawn of Corrupted Humans will never disappear without your direct intervention through the use of Firecrackers or The Revolver Pistol Item. (Needs to be put on github still.) 
+
+ 
+
+
+ 
+The second gimmick is that ice popsicle trucks will be around the map and finding one will reward the player with three ice popsicle items, which they can use to increase health and stamina upon consumption. Just be careful not to use three in a row unless you want the medal, as you’ll take a temporary stun from “brain freeze”. 
+ 
+The Light Source of the map are large street lamps which interacting with at the points with the red hand prints, will turn on. Inside, are the electrical lamps that were also seen in Underworld Academy. 
+
 
 
 ## Difficulty 
