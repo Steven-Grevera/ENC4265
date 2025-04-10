@@ -318,12 +318,12 @@ In order to survive traversing the corridors of this game, you must manage a ser
  
 ## Lives (Candle’s Lit)
  ![image](https://github.com/user-attachments/assets/f925d099-eea9-44b9-b8dd-39bbc10cf2ce)
-*Figure 13.1: Image showing the in game UI along with the inventory open and expanded and with the lives indicator circled in red. Image Taken By: Steven Grevera* 
+*Figure 14: Image showing the in game UI along with the inventory open and expanded and with the lives indicator circled in red. Image Taken By: Steven Grevera* 
 
 Once you find yourself in the level of a corridor, the candles will appear in the circled location of your screen at the top left. These candles indicate your lives. When you run out, you will obtain a “Game Over” and be given the option to “retry” which will allow you to generate a brand new level of that corridor or “Return to Base” which will take you back to your Hub. 
 
 ![image](https://github.com/user-attachments/assets/16676541-19bd-4633-bde9-bcca32e71acf)
-*Figure 14: Image showing a "Game Over" in a corridor. Image Taken By: Steven Grevera*
+*Figure 15: Image showing a "Game Over" in a corridor. Image Taken By: Steven Grevera*
 
 With a series of two items that can be found while exploring the corridors, you may find an extra life. Restoring one of your extinguished candles. 
 
@@ -335,7 +335,7 @@ With a series of two items that can be found while exploring the corridors, you 
 
 ## Health
  ![image](https://github.com/user-attachments/assets/f64a2dde-2dcb-4e68-9343-ff6c83994a01)
-*Figure 13.2: Image showing the in game UI along with the inventory open and expanded and with the health bar circled in red. Image Taken By: Steven Grevera* 
+*Figure 16: Image showing the in game UI along with the inventory open and expanded and with the health bar circled in red. Image Taken By: Steven Grevera* 
 
 Next to the candles on the right side is a bar with a value of 100/100. The number on the left is your current health and the number on the right side is your maximum total health you can have. If your health on the left side reaches “0”, you will lose a candle and if you run out of candles, you will obtain a “Game Over” as a failure condition. 
 
@@ -344,34 +344,43 @@ Several items can restore health as well as certain [Karuta](#anchor5)  and even
 
 ## Stamina
  ![image](https://github.com/user-attachments/assets/2f022da8-1d9e-4e15-aa0a-38405e47f9aa)
+*Figure 17: Image showing the in game UI and stamina circle indicator circled in red. Image Taken By: Steven Grevera* 
 
 Stamina is used to sprint in the game and allows for running if being chased or just traversing things faster. Stamina can be increased in it’s regeneration rate, never in it’s maximum amount. Using coffee, karuta and some passive items. 
 
 ## Magatama Total
  ![image](https://github.com/user-attachments/assets/67ae82b6-d914-4b88-bbd1-d8c3b8bb2413)
+*Figure 18: Image showing the in game UI along with the inventory open and expanded and Magatama count indicator circled in red. Image Taken By: Steven Grevera*
 
 To the right of your candles and right below your health bar is the total amount of Magatama you have in your current level’s session. As you pick one up, you will obtain a green glowing orb in the orbs listed in that section. If you play at higher levels, this count of three can raise to 5. You must have all orbs glowing green in order to properly use the levels exit. 
 
  ![image](https://github.com/user-attachments/assets/f907c05c-0626-4f04-866a-f848216cb66b)
+ *Figure 19: Image showing the in game UI along with the inventory open and expanded and Magatama count indicator circled in red with one obtained. Image Taken By: Steven Grevera)
  ![image](https://github.com/user-attachments/assets/1841d1da-8bae-4057-abd0-72460065c553)
+ *Figure 20: Image showing the in game UI along with the inventory open and expanded and Magatama count indicator circled in red with all three obtained. Image Taken By: Steven Grevera*
  ![image](https://github.com/user-attachments/assets/eba649d5-749c-4973-a791-8638c1fa58e1)
+ *Figure 21: Image showing a Magatama from further away. Image Taken By: Steven Grevera*
  ![image](https://github.com/user-attachments/assets/157d4661-1edb-4be9-9725-f9ec0d86dadc)
+ *Figure 22: Figure 21 but with the light on. Image Taken By: Steven Grevera*
  ![image](https://github.com/user-attachments/assets/f21f81d0-5be1-4ae3-b767-a991003535d4)
+*Figure 23: Image showing Magatama on the exit pool device. Image Taken By: Steven Grevera*
 
 <a name="anchor4"></a>
 
 ## Souls: 
 ![image](https://github.com/user-attachments/assets/4932c701-5a63-4331-9685-c082b086984f)
+*Figure 24: Image showing the in game UI along with the inventory open and expanded and the Souls Counter circled in red Image. Taken By: Steven Grevera* 
 
 Souls are the currency of the corridors. You can use souls for various things, such as karuta effects such as the map which will drain them constantly. Items from [The Butterfly Shop](#anchor8) and [other helpful corridor rooms](#anchor9) and for things such as the [Butterfly Lantern Light Source](#anchor10)
 
 Souls are obtained through checking resource gathering spots, which are specific and designated in design based on the corridor typing. 
 ![image](https://github.com/user-attachments/assets/0ce8a616-36e8-4f1d-85c9-85e7c2fff465)
+*Figure 25: Image showing a Soul Farming Spot (Resource Gathering Spot). Taken By: Steven Grevera*
 
 Or by finding skeleton’s in hallways or rooms, which can appear within any corridor. 
 
 ![image](https://github.com/user-attachments/assets/43b76537-98a0-468b-b04d-40aa4e9a34bf)
-
+*Figure 26: Image showing a corpse which you can get souls from and cleanse corruption. Taken By: Steven Grevera*
 
 Interacting with either of these objects, will net the player a number of souls. The number obtained for the player can be upgraded with certain karuta for those who want to play with a heavy souls earning potential build. 
 
