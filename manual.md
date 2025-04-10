@@ -771,10 +771,12 @@ The corridors  gimmick can be devastating if you aren’t yet used to dealing wi
 
 
 ### Hydrangea Street
+![image](https://github.com/user-attachments/assets/e57e3f38-5575-497f-a22c-c8dd33245299)
 
 A large open street that endlessly stretches amidst a mix of a town and alleyways. The area is very dark and occurs at night with many locations having raining dripping down. The only escape by which, is entering the limited building entrances scattered throughout the level.
 
-  
+![image](https://github.com/user-attachments/assets/f512808d-1d01-4e53-9f05-08958d6e6daa)
+
 Due to the building entrances being limited, items can be scarce in this level and it is advised to possibly bring key ones in ahead of time to make best use of your situation while exploring levels of this corridor. 
 
 Unlike most other corridors, there are two key gimmicks of this map. The first occurs every two minutes, in which an alarm will sound and Corrupted Humans will spawn all over and slowly seek you out. The time it takes for these lanterns to glow and trigger the spawns, occurs based on your difficulty as such: 
@@ -786,12 +788,241 @@ Unlike most other corridors, there are two key gimmicks of this map. The first o
 In addition to the set times above, the gimmick will also occur on the final magatama pick up on intermediate and beyond but from that moment on, the lamps will never turn off, meaning the large spawn of Corrupted Humans will never disappear without your direct intervention through the use of [Firecrackers or The Revolver Pistol Item](#anchor11). 
 
  
+![image](https://github.com/user-attachments/assets/1d1bf536-7316-4b5a-a774-bacb212e8d8f)
 
+![image](https://github.com/user-attachments/assets/14eb723c-802b-4971-8a8f-98eb1b9999a5)
 
  
 The second gimmick is that ice popsicle trucks will be around the map and finding one will reward the player with three ice popsicle items, which they can use to increase health and stamina upon consumption. Just be careful not to use three in a row unless you want the medal, as you’ll take a temporary stun from “brain freeze”. 
+
+![image](https://github.com/user-attachments/assets/106e2f93-16ff-482d-83aa-d4fe7e69b26a)
+
  
 The Light Source of the map are large street lamps which interacting with at the points with the red hand prints, will turn on. Inside, are the electrical lamps that were also seen in Underworld Academy. 
+
+![image](https://github.com/user-attachments/assets/82316087-eab2-4a3f-8d97-d5e59e9547ef)
+
+
+![image](https://github.com/user-attachments/assets/34235da4-0913-447b-97ff-71221faa3685)
+
+![image](https://github.com/user-attachments/assets/c3069575-cdfe-4b2d-8dc3-bb2a8f18648e)
+
+The “farming soul object” of this level is a cabinet that when interacted with will display a green fire effect and give souls to the player. 
+
+![image](https://github.com/user-attachments/assets/fa581341-c2f4-478b-8e6f-f28e6fa6b913)
+
+### Mausoleum 
+ ![image](https://github.com/user-attachments/assets/29172cd0-f907-4ab7-937c-f27acb98facf)
+
+This enclosed cave like location houses many spirits of the dead and will set even the most hardened of people on edge. 
+![image](https://github.com/user-attachments/assets/ee9525df-ca59-407a-8579-f71df4000f95)
+![image](https://github.com/user-attachments/assets/e57f23a8-045c-4e30-b32e-553c807afb6d)
+
+ 
+
+ 
+The corridor has three gimmicks this time. On this corridor, if at any point you turn off your light source, the spirits of the damned will begin to clutter your screen and terrorize your senses of hearing and sight. This will slowly build up your insanity, making hiding from Apparitions hard without finding hiding places to remain hidden. If you find a hiding spot, you can turn your light off. A strong counter to this gimmick is the Butterfly Lantern, as Apparitions cannot see this light but it will nonetheless scare away the spirits of the corridor. 
+
+![image](https://github.com/user-attachments/assets/02fe5574-dd28-41c4-a1ad-5d9b93341b0e)
+
+ 
+The second gimmick occurs at the standard rate of obtaining Magamata and depending on your difficulty level. This gimmick is that when you pick up a Magamata, a woman’s head will spawn and shriek at you, causing a massive build up of insanity at a fast rate, as well as making noise for Apparitions to hear if any are nearby. Making it critical to factor all this in before picking one up. 
+
+![image](https://github.com/user-attachments/assets/b6348f24-23c1-4fd3-939f-cfe8db87290e)
+
+ 
+The final gimmick will appear like a generation bug in appearance, a sudden endless void drops at random points of the map will generate and if you fall down these, it is an instant death, resulting in a life lost or a game over if you are out of lives. 
+
+The Light Source item of this corridor is that of the small lanterns which are hanging from the ceilings. The soul farming object is a continuation of the vase item from Corridor of Endless Rain. 
+ 
+![image](https://github.com/user-attachments/assets/1b896016-d2af-4269-bbd6-68dc99c0432e)
+
+![image](https://github.com/user-attachments/assets/f7fadab8-7c78-424c-913c-60ad276bffe1)
+
+
+### Shrine
+ ![image](https://github.com/user-attachments/assets/7308654a-5bfd-4c2b-89eb-9b18186afaa9)
+
+For those that thought the Mausoleum was disturbing, The Shrine takes things to the next level. The level always starts outside of the shrine, which you must open using a lever outside to open it up. Greeting you to the doll’s at the front entrance. 
+
+![image](https://github.com/user-attachments/assets/0e636c8b-18f1-4bd7-9c86-f4169b3853f8)
+![image](https://github.com/user-attachments/assets/aa2fa19c-40b2-4cb9-9b0d-4e8b87ff6f1a)
+![image](https://github.com/user-attachments/assets/5a6d321b-e708-4d41-b2a2-8f1060ec41c6)
+
+ 
+ 
+Throughout the map, are mechanical dolls that appear stationary. However, if you see one that has it’s lights flashing, do not enter it’s light, or else you will trigger an alarm and the Mechanical Doll will then become an Apparition that will chase you. Other then the Shion it is one of the fastest entities in the game and the hardest to escape. However, they operate entirely on visuals alone, meaning you can be about as loud as you want. Albeit, they are still effected by firecracker karuta to scare them away. 
+
+![image](https://github.com/user-attachments/assets/0b7912a5-c503-4e51-b417-630bf498db2e)
+
+ 
+The light source object of the map are small candles waiting for you to light and the soul farming object is a barrel that when interacted with will show a small green fire light, which grants souls. 
+
+ ![image](https://github.com/user-attachments/assets/3b26ba4d-1790-4565-96e7-b86110ed6b4e)
+![image](https://github.com/user-attachments/assets/11e7f60b-b4c8-43ca-97ed-4e322aaebfc7)
+
+The Gimmick of this map is that depending on your difficulty, when you obtain a certain amount of magatama you will hear loud activating and rolling sounds throughout the shrine. This will not effect the entire shrine but it will effect a large area around where the gimmick was triggered, causing all the mechanical dolls in a large radius to activate and begin to patrol the level as a hostile Apparition that isn’t detectable by heartbeat warnings, only the rolling/grating sound it makes as it travels along. 
+
+
+On Advanced and Deluge, this level becomes extremely hard as Doll’s will be activated in a large amount with every single Magatama picked up. It is best to go into this level as such with a load out focused on stunning and scaring away Apparitions, as avoiding them all by means of stealth is near impossible and extremely time consuming. 
+
+![image](https://github.com/user-attachments/assets/24e39119-b602-45b4-8c07-0c97ec0def63)
+
+### Missing Windhole 
+ ![image](https://github.com/user-attachments/assets/befc5e54-e032-47b6-85ec-15f5c575016a)
+
+The Missing Windhole corridor is unique as it is entirely a boss corridor. Your sole objective in this corridor is to defeat the pursuing boss Apparition by draining it’s health bar using barrels scattered across the level, which is not procedurally generated and is in fact predetermined to be exactly the same, in fact, even ending at some point if the encounter drags on for too long and you don’t die a single time. Requiring you to use a mirror to return to the start. 
+
+ ![image](https://github.com/user-attachments/assets/e0b6d9f6-32bb-4a32-b9d1-ac6764ceee46)
+![image](https://github.com/user-attachments/assets/8a5c5bc2-af81-4725-848a-24688477ff1e)
+
+ 
+The corridor continues until the boss is defeated, in which you are then treated to a triggered cutscene and allows you to then exit the corridor. The corridor is not majorly generated but is to an extent, providing a large amount of fixed aspects but with some variance per playthrough of a variety of room types you can and will encounter.
+
+ ![image](https://github.com/user-attachments/assets/c14a2594-e5fd-4eed-9ebc-4c256c08f378)
+
+
+ 
+ ![image](https://github.com/user-attachments/assets/e4e0444f-2747-46be-a097-c84c38c4f687)
+
+ 
+ ![image](https://github.com/user-attachments/assets/09ca38f7-a732-4d4e-bf56-38d872565e74)
+
+
+ 
+![image](https://github.com/user-attachments/assets/9011889e-c18c-41e1-b9fd-cc3fb4fa64ca)
+
+ 
+ 
+ ![image](https://github.com/user-attachments/assets/d82129a1-e9e3-433d-8b51-42323b78409e)
+
+ 
+ ![image](https://github.com/user-attachments/assets/b031e074-1e93-4f3d-8b7d-21d5d29301e1)
+
+ ![image](https://github.com/user-attachments/assets/fca1c123-ce25-4409-a3e5-21c1c98fddd6)
+
+ 
+![image](https://github.com/user-attachments/assets/4b43bac8-7bc7-4041-b4de-2eb46e2cbd9e)
+
+![image](https://github.com/user-attachments/assets/e8cfe39a-cc7d-4c9b-8107-9fa90e80dc2b)
+
+
+![image](https://github.com/user-attachments/assets/c50d42f3-9fee-437a-8033-0c80a20e4c8e)
+
+![image](https://github.com/user-attachments/assets/88a9a2b8-622f-4e40-9300-910fcc479af8)
+
+![image](https://github.com/user-attachments/assets/266a458d-1e47-4373-8564-529af98ea069)
+
+
+#### Deluge Only Eyes: 
+![image](https://github.com/user-attachments/assets/789368c9-e435-4086-a97e-5abbb761e0b1)
+
+On deluge, the boss returns after being defeated in a new form and must be defeated yet again for a “Phase 2”. Which consists of everything being the same as “Phase 1”, only now your on a more crunched timer due to the corruption buildup constantly draining your health. 
+
+![image](https://github.com/user-attachments/assets/5935090d-36a3-4f6e-81bf-47febd895b6a)
+
+ 
+Your field of view will be obscured by corrupting mist making it not only hard to see where your going but put you on a bit of a time limit based on your health of corruption meter. Your only hope of maintaining more time is running to the skeletons to purge your corruption but since it’s deluge, the corruption will take a tad longer to clear and be more deadly. Truly putting you on a timer. As even if you clear it, it will begin again. It is recommended to bring a Purifying Hydrangea karuta in order to deal with the corrupting mist for the 2nd phase. 
+
+Once the boss is defeated, they will drop an object for you to pick up on this level and you will then simply exit the corridor.
+ 
+![image](https://github.com/user-attachments/assets/9cf27635-720c-4783-85f0-ff85f2e0afe3)
+
+### Glass Building 
+ ![image](https://github.com/user-attachments/assets/f5319cd4-aedb-4de8-ad84-601b2f9e77d7)
+
+The light source of this level are Japanese Lamps which hang on the ceiling and are extremely fancy and also some on the ground like from Corridor of Endless Rain. The means to obtain souls is through a music box usually situated on top of dressers. 
+ 
+ ![image](https://github.com/user-attachments/assets/6f768f9c-dbba-4925-b526-2882d3b9e84a)
+
+![image](https://github.com/user-attachments/assets/7cb4066b-b7d3-4313-9c70-b01793a09cec)
+
+![image](https://github.com/user-attachments/assets/24a898a4-1029-48b9-a129-09549f693fac)
+
+ 
+The Gimmick of the map is that upon obtaining the required number of Magatama dependent on your difficulty level, red crystals will shoot out all around where you took the Magatama from and spread out in a wide radius. Walking normally or running on them will cause 1 point of damage for each step and give the impression and sound of walking on glass. However, to avoid taking damage, you can crouch walk carefully which can take up a large amount of time, or with the Feather of Darkness Passive Item or Karuta card. 
+ 
+![image](https://github.com/user-attachments/assets/f288acfa-65b6-46ed-81dc-0f52c577d3aa)
+
+![image](https://github.com/user-attachments/assets/22f88b0d-60f7-4dc4-b141-dee096fc263d)
+
+![image](https://github.com/user-attachments/assets/e287f8a6-bc94-4ed6-a3dc-22e7db359036)
+
+### Sea of Trees Complex
+![image](https://github.com/user-attachments/assets/bf38f273-7add-45db-97b2-790a0d4d4934)
+
+The Sea of Tree’s Complex is a mostly outdoor corridor with sections also inside of abandoned and dilapidated buildings which are usually blocked off with pot traps, that upon touching, will explode with corruption smoke as well as do damage to the player. 
+ 
+ ![image](https://github.com/user-attachments/assets/49107570-4147-46c4-8e50-a64f419f0b47)
+
+ ![image](https://github.com/user-attachments/assets/9b0b8623-72b9-4ca7-be89-26d536364ecc)
+
+ 
+The gimmick of the map is fairly simple but extremely hard to deal with, in that with the corresponding Magatama obtained, the mushrooms all over the walls across the corridor will glow in a wide radius and emit particle spores. These spores will stop stamina regeneration entirely at the higher levels and decrease it at the lower levels. It will also make compasses spin unendingly and without any control. Making them useless. Dolls however, will still function if bought by the player. 
+
+![image](https://github.com/user-attachments/assets/2dee5104-2453-42dc-8387-5a60157109fe)
+
+
+Any stamina regeneration passive item, coffee effect or consumable item, will bypass this inability to regenerate stamina. Making them mandatory items. Of course, be mindful that the stamina regen will be extremely slow if you only use one of the many options at your disposal. Meaning this level can drag on at the higher difficulties.
+
+ ![image](https://github.com/user-attachments/assets/8c190269-6ea6-42db-b470-248bc2fede54)
+
+
+As the level is largely outdoors, rain is all outside, causing large amounts of corruption building. Worse, large bodies of swamps separate sections of the corridor at some location and pests are in large amounts and call this place home. 
+ 
+![image](https://github.com/user-attachments/assets/685044f8-97dd-491c-b6f7-65d4be8ed6f3)
+
+ ![image](https://github.com/user-attachments/assets/13f0e98a-b067-4e15-9151-bef230aff4ce)
+
+
+As much of the level is outdoors, item spawn rates are not common as they require desks, which also serve as the means of gathering souls as well, other then the usual skeletons that you should utilize heavily in this corridor. 
+
+The light source of this map is a large mushroom style lamp that starts turned off that you yourself must turn on. The Farming Soul Item is the Underworld Academy’s desk that returns for this level. 
+ 
+![image](https://github.com/user-attachments/assets/62134d5a-313b-4679-94b7-46eeca554c24)
+
+### Sea of Reminiscence 
+![image](https://github.com/user-attachments/assets/4d8a4699-c7db-4226-87af-a8e7c91e8939)
+
+The Sea of Reminiscence is a corruption stronghold, the entire level is underwater and as a result every second counts. The level is very reminiscent of the beginning of the story, the main characters apartment, yet it spirals and sprawls endlessly with no way down and hands reaching up for the sky in vein under the imposing darkness of this endless sea.
+
+![image](https://github.com/user-attachments/assets/36bab993-8e36-4a04-b839-2ebb908750e5)
+
+ ![image](https://github.com/user-attachments/assets/b1ba0a02-d935-4e60-9ccb-b3b7218aeabe)
+
+ 
+Dark tendrils are scattered throughout the map that have no effect on the player itself but will give you a freight for sure. The light source is a blue lamp that can be turned on. The farming item are mirrors that when interacted with will break and grant souls.  
+
+ ![image](https://github.com/user-attachments/assets/c4369df1-5854-4626-a4fb-761e11b6edde)
+
+![image](https://github.com/user-attachments/assets/f242326b-63bf-4543-bdaa-82c80a6fd5cd)
+
+ ![image](https://github.com/user-attachments/assets/fb47e91c-9b94-495f-96ee-523450835e0e)
+
+![image](https://github.com/user-attachments/assets/3300415e-f63a-4c39-bd22-19e505c42a45)
+
+ 
+![image](https://github.com/user-attachments/assets/90408b9d-e564-4c02-897f-2df576b73917)
+
+ 
+ 
+The gimmick of the corridor involves the spawning of a special Apparition, that entity being “The Trauma”, which is without a doubt the hardest Apparition in the game to deal with. It will announce itself loudly with a unique shrieking wail sound, yet it doesn’t matter as the panic will quickly set in as you realize, you cannot hide from this Apparition. Wherever you go, however far you try and escape, it will know where you are and will pursue you with unlimited stamina, compared to your limited amounts. The only way to deal with the trauma is to stun it via the ‘26 Revolver Pistol or sacrifice a candle of life (life point) to cremate it, which will permanently remove it from the level for that single one. 
+
+![image](https://github.com/user-attachments/assets/4fa060ea-2216-4424-b28f-2b0b9b6ed069)
+
+ ![image](https://github.com/user-attachments/assets/89e469b3-2a1e-48d2-ace1-2cfbc9dee3ec)
+
+ 
+It is highly advised not to trap a Trauma in a barrier, as doing so will result in it multiplying on Deluge difficulty and it’s best to get in a habit of not having to barrier it to deal with it now, as to not make the mistake later down the line.
+  
+![image](https://github.com/user-attachments/assets/0601f7b2-1759-4af5-94ad-0f8cd36e50ba)
+
+![image](https://github.com/user-attachments/assets/d30e3de5-0afe-4c76-957d-3624ff9cfc91)
+ 
+![image](https://github.com/user-attachments/assets/bbe4a168-575b-4ee5-be8d-dde92e32a6bd)
+  
+
+![image](https://github.com/user-attachments/assets/cbd425ec-caab-4dc9-b436-eb2e2fa56479)
 
 
 
