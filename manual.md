@@ -783,7 +783,7 @@ Unlike most other corridors, there are two key gimmicks of this map. The first o
 - Intermediate - 4.5 to 6.5 minutes
 - Advanced or Deluge - 3 to 5 minutes
 
-In addition to the set times above, the gimmick will also occur on the final magatama pick up on intermediate and beyond but from that moment on, the lamps will never turn off, meaning the large spawn of Corrupted Humans will never disappear without your direct intervention through the use of Firecrackers or The Revolver Pistol Item. (Needs to be put on github still.) 
+In addition to the set times above, the gimmick will also occur on the final magatama pick up on intermediate and beyond but from that moment on, the lamps will never turn off, meaning the large spawn of Corrupted Humans will never disappear without your direct intervention through the use of [Firecrackers or The Revolver Pistol Item](#anchor11). 
 
  
 
