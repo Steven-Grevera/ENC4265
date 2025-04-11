@@ -95,7 +95,7 @@
     + [Haikara (Stylish, Megaphone Heads)](#haikara-stylish-megaphone-heads)
     + [Mayubo (Cocoon Baby Faces)](#mayubo-cocoon-baby-faces)
     + [Trauma](#trauma)
-    + [Shadow of the True Story (Boss)](#shadow-of-the-true-story-boss)
+    + [Shadow of Shinshi (Boss)](#shadow-of-shinshi-boss)
   * [Pests](#pests)
     + [Pest Types](#pest-types)
       - [The Hanged Man](#the-hanged-man)
@@ -110,7 +110,7 @@
   * [No Noise Shion Trap Rooms](#no-noise-shion-trap-rooms)
   * [Swamp Trap Room](#swamp-trap-room)
   * [Hanging Man Trap Room](#hanging-man-trap-room)
-  * [Caccoon Moth Trap Room](#caccoon-moth-trap-room)
+  * [Cocoon Moth Trap Room](#cocoon-moth-trap-room)
 - [Level Rating and Medals](#level-rating-and-medals)
   * [Medals and Their Valuations](#medals-and-their-valuations)
   * [Ratings](#ratings)
@@ -1706,6 +1706,7 @@ The Magatama will be on a small alter and behind in the opposite direction will 
 
 ## Trap Room
 ![image](https://github.com/user-attachments/assets/43e7fbc7-7d02-476b-80fa-ffb018ee4b55)
+*Figure 204: Image of a Mayubo in it's cocoon attached to the Magatama. Image Taken By: Steven Grevera*
 
 
 Unlike most other Magatama Rooms, Trap Rooms are usually open unless on Deluge difficulty in some instances. You can tell a room is a trap room, based on a red line that will be attached to the Magatama like an umbilical cord. Once the Magatama is taken from this cord in the room, a baby monster apparition will be spawned and chase you down until you lose it or you die, costing you a life or a “Game Over” if you are out of them. These rooms are easy to access but at a very high reward. 
@@ -1714,7 +1715,7 @@ To see more about the entity spawned from this room, [click here](#anchor14)
 
 ## No Noise Shion Trap Rooms
 ![image](https://github.com/user-attachments/assets/c95d5611-5120-4798-9669-1778a39578ca)
-
+*Figure 205: Image of a Shion crying behind a door, guarding a Magatama. Image Taken By: Steven Grevera*
 
 In many instances, these rooms will be heard not found right away. The flicker of lights will begin as well as the distinct sound of crying. Usually, this indicates a Shion guarding these rooms and the Magatama which is within the room. These rooms can be locked but there are easy work arounds to this fact. 
 
@@ -1724,26 +1725,30 @@ By throwing firecrackers, you can draw the slug creature away from the Magatama 
  
 ## Swamp Trap Room
 ![image](https://github.com/user-attachments/assets/af7a80e1-5c21-4023-a5c0-ea89bb703e1e)
+*Figure 206: Image of the entrance to a swamp Magatama room. Image Taken By: Steven Grevera*
 
 
 Swamp Trap Magatama Rooms are rooms that are entirely covered on the floor in water. Entering the room will cause corruption build up, meaning that you must obtain the Magatama fast and then proceed to leave it with the Magatama obtained. On Deluge, these rooms can be extremely deadly without coffee and karuta card negations for corruption as you’ll build up corruption on your way to the Magatama and then proceed to get hit with further buildup that could push it over the edge to cost a life. 
 
 ![image](https://github.com/user-attachments/assets/cc2c6c4b-5d31-4dea-8d21-5e3c3b997984)
+*Figure 207: Image of an altar that once held a Magatama with a barrier around the room and a swamp at the players feet. Image Taken By: Steven Grevera*
 
 
 ## Hanging Man Trap Room
 ![image](https://github.com/user-attachments/assets/462405fb-6e60-4437-b50d-bf620a175c63)
+*Figure 208: Image of Hanging Men pests in their respective trap room. Image Taken By: Steven Grevera*
 
 
 Hanging Man Magatama Trap Room’s contain many Hanging Men trap pests which when touched will start to flail around and cause issues for your character and deal damage as well as create loud noises that could attract apparitions. The key to these rooms is to carefully try and traverse them or run through them and trigger a few at a time. Once they are triggered, waiting for them to untrigger and then that area will remain safe while others could be triggered later. 
 
 These rooms can be major drains on your health and should be very carefully treated as they will drain your health fast if not treated with respect and care.  
 
-## Caccoon Moth Trap Room
+## Cocoon Moth Trap Room
 ![image](https://github.com/user-attachments/assets/ed2bc3c5-9d31-46c2-986d-02cb2fdfa5dc)
+*Figure 209: Image of humans that have been cocooned up in the Cocoon Moth trap room. Image Taken By: Steven Grevera*
 
 
-Caccoon Moth’s guard this room and the Magatama within. The only way to obtain it is to take the damage of the room, or to use a fire cracker to scatter the moths, or to use a a star hour glass to freeze time and no damage and run out before it’s time runs out. 
+Cocoon Moth’s guard this room and the Magatama within. The only way to obtain it is to take the damage of the room, or to use a fire cracker to scatter the moths, or to use a a star hour glass to freeze time and no damage and run out before it’s time runs out. 
 
 ![image](https://github.com/user-attachments/assets/b029d616-fdef-47bd-b2be-0a528b016b68)
 
