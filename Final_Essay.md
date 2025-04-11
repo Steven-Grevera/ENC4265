@@ -1,3 +1,7 @@
+[Home](index.md) | [Manual Assessment Memo](Charbroil_Grill_Manual_Memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md) | [Major Projects](Major_Projects.md) | [Contact Me](Contact_Me.md)
+
+# Final Essay
+
 At the start of this year I took a technical writing class that completely changed my skillsets entirely. I thought I could never code, never work with these things or even learn them. Through hard work and Ms Johnson’s class I was able to not only do the basics but excel beyond. 
 
 Through the course I learned many elaborate methods and ways to use the markdown coding language. As a writer myself, the language is very intuitive and also powerful. It was written by writers, for writers it feels like and thanks to it, I can bring my documents to web pages at a much more presentable format then just offering people word documents and the like. I now have tangible means to present documents to people without the need of documents at all, aside for myself for the means of storage… for now.
@@ -19,9 +23,9 @@ With that, I can use it forever as an example of “what I’m capable of”. Sh
 
 Rather than a traditional essay format, frame this as an "about me" or "self-evaluation" page on your digital portfolio website, focusing, of course, on your most recent graduate course and what you learned in it. Be sure to thoroughly and honestly address the three bulleted questions above. Actually posting this to your digital portfolio site is optional.
 
-•	What have you learned this semester?
-•	What was this class experience like for you? 
-•	How has your work in this course helped to move you closer to your goals?
+- What have you learned this semester?
+- What was this class experience like for you?
+- How has your work in this course helped to move you closer to your goals?
 
 
 
