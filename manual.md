@@ -1939,7 +1939,7 @@ At the end of your Marathon (if you make it that far-), your total time is total
 
 1: The game itself and my interactions with it. 
 
-2: Corrupted Humans: https://i.namu.wiki/i/i3LhLBDWzsXlbswN9vSXm_a_cqkb26JFK2KaJrUjKFm3EJcxIg9PbF93jR13jvq2WeWwUS3dCEVI7_RVdVIsl9qq0Sgw_UM0pvxlmSagyQW5jIWzXIHzBhX1iIlWXZDJ6EMBzfqypJwuf3xhKdHnDODn3nXCugxqHXAtoBqytpY.webp
+2: Corrupted Humans: https://i.namu.wiki/i/hnO7aN6GP1IC3yi0pUfOY4dRlQ5XANHI63TAqSck3br58B3PaiGRh_4etLQCOefjNbtlk_smJG0nXErRB-7qZBmwvYZ7Ja_WMFgvfyipP96Yc-F9V5bhdGlMkO_uZrru-rxqZkMQdzoqXl-TS3FFyPkW0obYybRejnTrqsPvtr0.webp
 
 3: https://en.namu.wiki/w/Shadow%20Corridor%202%20%E9%9B%A8%E3%83%8E%E5%9B%9B%E8%91%A9 
 
@@ -1949,41 +1949,27 @@ At the end of your Marathon (if you make it that far-), your total time is total
 
 6: https://img.wiki3.jp/shadowcorridor2amanoyohira/3.jpg
 
-7: https://img.wiki3.jp/shadowcorridor2amanoyohira/%E9%9C%96%E9%9B%A8%E3%81%AE%E5%9B%9E%E5%BB%8A.jpg
+7: https://en.wikipedia.org/wiki/Teru_teru_b%C5%8Dzu
 
+8: https://en.wikipedia.org/wiki/Kagura_suzu
 
-8: https://img.wiki3.jp/shadowcorridor2amanoyohira/%E3%82%A2%E3%82%B8%E3%82%B5%E3%82%A4%E6%A8%AA%E4%B8%81a.jpg
+9: https://mylofamily.com/parenting/babynames/meaning-of-shion-69669
 
-9: https://img.wiki3.jp/shadowcorridor2amanoyohira/%E9%9C%8A%E5%BB%9F_.jpg
+10: https://en.wikipedia.org/wiki/Aster_tataricus
 
-10: https://img.wiki3.jp/shadowcorridor2amanoyohira/%E8%A1%8C%E6%96%B9%E7%9F%A5%E3%82%89%E3%81%9A%E3%81%AE%E9%A2%A8%E7%A9%B4.jpg
+11: https://en.wikipedia.org/wiki/Mizuchi
 
-11: https://img.wiki3.jp/shadowcorridor2amanoyohira/%E7%A1%9D%E5%AD%90%E3%81%AE%E6%A5%BC%E9%96%A3%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%B3%E5%9C%B0%E7%82%B9.jpg
+12: https://en.wikipedia.org/wiki/Japanese_clothing_during_the_Meiji_period#haikara
 
-12: https://img.wiki3.jp/shadowcorridor2amanoyohira/%E6%A8%B9%E6%B5%B7%E5%9B%A3%E5%9C%B0%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%B3%E5%9C%B0%E7%82%B9.jpg
+13: https://en.wikipedia.org/wiki/Emperor_Meiji
 
-13: https://en.wikipedia.org/wiki/Teru_teru_b%C5%8Dzu
+14: https://img.wiki3.jp/shadowcorridor2amanoyohira/teruteru.jpg
 
-14: https://en.wikipedia.org/wiki/Kagura_suzu
+15: https://img.wiki3.jp/shadowcorridor2amanoyohira/kikainingyou.jpg
 
-15: https://mylofamily.com/parenting/babynames/meaning-of-shion-69669
+16: https://img.wiki3.jp/shadowcorridor2amanoyohira/torauma.jpg
 
-16: https://en.wikipedia.org/wiki/Aster_tataricus
-
-17: https://en.wikipedia.org/wiki/Mizuchi
-
-18: https://en.wikipedia.org/wiki/Japanese_clothing_during_the_Meiji_period#haikara
-
-19: https://en.wikipedia.org/wiki/Emperor_Meiji
-
-20: https://img.wiki3.jp/shadowcorridor2amanoyohira/teruteru.jpg
-
-21: https://img.wiki3.jp/shadowcorridor2amanoyohira/kikainingyou.jpg
-
-22: https://img.wiki3.jp/shadowcorridor2amanoyohira/torauma.jpg
-
-23: https://img.wiki3.jp/shadowcorridor2amanoyohira/shinsinokage.jpg
-
+17: https://img.wiki3.jp/shadowcorridor2amanoyohira/shinsinokage.jpg
 
 
  
