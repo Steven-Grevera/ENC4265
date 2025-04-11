@@ -1561,6 +1561,7 @@ The Mechanical Doll can be shot and stunned by gunfire but will not make any ind
 The first thing you will hear is a type of crazed chattering through a filtered technological wind pipe of some kind. These are the sounds produced through the megaphone. While it is within hearing distance of the player, it will start to build up your “insanity” gauge. Causing major issues if you end up not being able to find cover. As if you scream by becoming “frenzied”, you will be discovered and likely lose a Cande Light (Life Point). 
 
 ![image](https://github.com/user-attachments/assets/bc916f8f-0f71-49cc-b4aa-b3c008b7dbb1)
+*Figure 184: Image of a Haikara walking away from the player as it's not spotted them yet. Image Taken By: Steven Grevera*
 
 
 Haikara due to their lack of heads, are considered “blind”, to an extent, in that they won’t usually react to light sources at all. However, they will “see/sense” you if you can be found within a straight line and their ability to sense you will increase if you have light sources up, other then the Butterfly Lantern. 
@@ -1571,22 +1572,25 @@ The Haikara are a type of stylish, Eurocentric Japanese clothing that were popul
 
 ### Mayubo (Cocoon, Baby Faces) 
 ![image](https://github.com/user-attachments/assets/bef1d9d5-fb4f-4844-957e-2b752eee4d07)
+*Figure 185: Image of a Mayubo facing the player, crying out with it's baby face. Image Taken By: Steven Grevera*
 
 
 The Mayubo will start attached to a Magatama, like a parasitic organism. It will be inside a large blood red tumor looking growth on the ceiling that is attached to the Magatama. It will not activate and burst out this tumor, unless you pick up the Magatama. This tumor, is likely a “cocoon”, hence, it’s name of Mayubo, which is a name which means “Cocoon” due to the Kanji: 繭
 
 ![image](https://github.com/user-attachments/assets/1fbbadc2-502d-4322-92e4-543a327babea)
+*Figure 186: Image of a the cocoon a Mayubo was previously in before it burst open. Image Taken By: Steven Grevera*
 
 
 Once it has emerged, it will cry loudly with the face of a baby and pursue you. It is a fast Apparition and can instantly break down doors. Your best bet is to have means to stun it such as a gun and then to flee as fast as you can. Once you have escaped it’s range and your heartbeat returns to normal, The Apparition will curl up on the ground, running out of lifeforce and die there. 
 
 ![image](https://github.com/user-attachments/assets/c2042b3f-f1de-4f07-9a31-c09175a9c9fd)
+*Figure 187: Image of a dead Mayubo due to the player escaping it. Image Taken By: Steven Grevera*
 
 
 
 ### Trauma
 ![image](https://github.com/user-attachments/assets/7684316d-da21-4db3-adad-d3dd5abd68de)
-
+*Figure 188: Image of Trauma chasing after the player. Image Taken From: https://img.wiki3.jp/shadowcorridor2amanoyohira/torauma.jpg*
 
 The trauma will be heard by it’s crazed loud sounds approaching you, grating and noticeable from far away, it can distinctively be heard louder then any other Apparition in the game. They resemble in some ways, the main player yet appear when the text is displayed that says: “You fell a darkness within you….” While the character looks like themselves, the dress and slight detailed differences, imply that it might instead be that of the “mother” of the main character instead. 
 
@@ -1598,6 +1602,7 @@ Another thing you should never do is use a barrier without a teleport out, as th
 
 ### Shadow of Shinshi (Boss)
 ![image](https://github.com/user-attachments/assets/2f05c2a2-64c0-44ed-a993-77edb28e89f7)
+*Figure 189: Image of The Shadow of Shinshi boss chasing after the player. Image Taken From: https://img.wiki3.jp/shadowcorridor2amanoyohira/shinsinokage.jpg*
 
 
 The Shadow of The True Story, is a godlike entity which is story explained to be your “other half”. An abandoned half that has been left within the realm in which you preside. For this reason, it feels rage toward you due to how long it’s been isolated and left to the corrupting forces that live amongst the realm of the dead. 
@@ -1608,7 +1613,7 @@ If you try and put a barrier down on the map to block it’s path, it will destr
  
 ## Pests
 ![image](https://github.com/user-attachments/assets/a041b974-9c63-4636-8296-1993093a0214)
-
+*Figure 190: Image of Cocoon Moth Pests swarming the player. Image Taken By: Steven Grevera*
 
 Pests are enemies that won’t outright kill you right away but can deal damage to your total health as well as effect various other aspects of your character and the game. While a pest won’t instantly kill you like an Apparition will, if your left in a bad situation, they could be largely responsible for giving you a game over or taking one of your lives. 
 
@@ -1620,18 +1625,20 @@ Some can seal your karuta, some can slow you down, a pest is “an annoyance” 
 
 #### The Hanged Man
 ![image](https://github.com/user-attachments/assets/d4e8fba0-02db-44c7-a942-e69bfc55b2f2)
+*Figure 191: Image of a Hanged Man that has just burst out of the ceiling. Image Taken By: Steven Grevera*
 
 
 The Hanged Man can be sticking out of ceiling’s of enclosed buildings in corridors and will then proceed to jumpscare the player, causing great sounds and disturbances and doing damage to what it touches. It will also cause loud amounts of noise which can attract Apparitions 
 
 #### Spiders
 ![image](https://github.com/user-attachments/assets/19489772-650e-44e2-86bb-7f742e14738f)
-
+*Figure 192: Image of Spiders on the ground blocking the players access to a door. Image Taken By: Steven Grevera*
 
 The Spiders lay webs on the ground waiting for it’s prey to step inside, slowing them down. Apparitions are unaffected by the webs but players will be slowed down extremely and take damage for every second they are within the webs.
 
 #### Human Cocoon Moth
 ![image](https://github.com/user-attachments/assets/9506b545-a44c-45d1-ae30-478a5dbfad44)
+*Figure 193: Image of Cocoon Moth Pests swarming the player. Image Taken By: Steven Grevera*
 
 
 Human Cocoon Moth’s like the spiders, lay on top of human cocoon remains amidst the corridors and when triggered by getting to close to them, will chase the player, doing damage to them constantly until they are escaped or a certain amount of time passes. If a player stands still on their cocoon base location, they will take damage until they lose a life or receive a “Game Over”. 
@@ -1641,27 +1648,32 @@ The alternative version of these are the moths which fly in the room of the Coco
 
 #### A Glimpse of The Past (Snails)
 ![image](https://github.com/user-attachments/assets/2a7b1395-e361-41af-b1e2-56a6ecbfbefa)
-
+*Figure 194: Image of Snails glowing in the darkness in a faint dark blue color. Image Taken By: Steven Grevera*
 
 When approached, walked over or scared, The Snails will spew out a purple mist that covers aw ide area of a corridor and will build up the players corruption meter until they escape it’s large purple radius, or they die. The radius bypasses walls and is determined in a circular radius from where the smoke is emitted from.
 ![image](https://github.com/user-attachments/assets/6f32d9dc-da07-4828-a7d1-544ddd70ad8d)
+*Figure 195: Image of Snails spewing corrupting gas out of their bodies. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/379a9591-85c6-41c6-9b7f-f16cb382187d)
+*Figure 196: Image of the corrupting gases boundary and how it would appear to the player when you escape it. Image Taken By: Steven Grevera*
 
 
 
 #### Corrupted Humans (Impure) 
 ![image](https://github.com/user-attachments/assets/110681c5-4af9-43fd-89ae-ce7549e7d4ae)
+*Figure 197: Image of a Corrupted Human from it's back where it's glowing darkness is fainter. Image Taken By: Steven Grevera*
 
 
 
 Corrupted Humans (Impure) will grab the player if contact is made and you will have to hit the button for breaking out repeatedly to get free. They can also end up sealing a karuta at a very high chance if you aren’t lucky. If you shoot one or throw firecrackers at it and have them explode, they will disappear.
   
 ![image](https://github.com/user-attachments/assets/d39fa3b9-0db3-4760-985b-4ad16724a116)
+*Figure 198: Image of a Corrupted Human grabbing a player. Image Taken By: Steven Grevera*
 
 
 # Magatama Rooms
 ![image](https://github.com/user-attachments/assets/f347460b-b539-43fb-880f-d5a4a3acbc17)
+*Figure 199: Image of a Magatama behind a door and windows. Image Taken By: Steven Grevera*
 
 
 Magatama Rooms are rooms in which you can find Magatama. These rooms are usually behind locked doors, which will require a key to unlock. On higher difficulties, even if taking a Magatama from a room without any traps, the corridor’s effect maybe be triggered on each one’s pick up. Moreover, on deluge, picking up a Magatama will cause an amount of buildup of corruption, which may even kill you if you pick it up and you had enough corruption prior to picking it up. Causing a “Game Over” or loss of a life. 
@@ -1669,6 +1681,7 @@ Magatama Rooms are rooms in which you can find Magatama. These rooms are usually
 
 ## Standard Room: 
 ![image](https://git.com/user-attachments/assets/9755883d-c544-4449-84d5-c95a45997449)
+*Figure 200: Image of a Magatama behind a locked door. Image Taken By: Steven Grevera*
 
 These are standard locked rooms that have a Magatama to be picked up within. Picking up the Magatama will grant you it. 
    
@@ -1677,17 +1690,17 @@ These are standard locked rooms that have a Magatama to be picked up within. Pic
 
 ## Hole Room
 ![image](https://github.com/user-attachments/assets/cc36084c-7700-4a59-9220-c72134993f6c)
-
+*Figure 201: Image of a hole in a room lit up by Butterfly Lantern Green Lighting. Image Taken By: Steven Grevera*
  
 Hole Rooms are locked Magatama Rooms that require a key to unlock. A large hole is in the middle of them that you can fall into. By falling into the hole, you will take health damage similar to trapdoors but instead of being teleported to a location associated with the trapdoor, you will instead be teleported to an area below ground.
 
 ![image](https://github.com/user-attachments/assets/bad6bf2c-27d5-408c-b573-5914ac53d8af)
-
+*Figure 202: Image of a mirror teleport that will lead outside of the hole now entered. Image Taken By: Steven Grevera*
 
 The Magatama will be on a small alter and behind in the opposite direction will be a mirror. This mirror will not work like The Butterfly Shop mirrors and will instead teleport you to a random location within the level itself. 
  
 ![image](https://github.com/user-attachments/assets/296af7e0-a1c0-49ae-8eee-89e211d4e73c)
-
+*Figure 203: Image of a Magatama waiting on an altar in the hole room. Image Taken By: Steven Grevera* 
 
 **Note: If you drop into the hole without 50 health, you will die and lose a life or be given a “Game Over”.**  
 
