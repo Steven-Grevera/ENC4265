@@ -2,4 +2,4 @@
 
 # **Deliverable Assignments**
 
-[Final Essay](final_essay.md)
+[Final Essay](Final_Essay.md)
