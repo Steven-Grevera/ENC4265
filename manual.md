@@ -1106,6 +1106,7 @@ It is highly advised not to trap a Trauma in a barrier, as doing so will result 
 
 ## Difficulty 
 ![image](https://github.com/user-attachments/assets/99c1fae0-da0e-47cb-9438-977709c063bc)
+*Figure 144: Image of the different diffculty levels you can chose after you've selected a corridor. Image Taken By: Steven Grevera*
 
 Shadow Corridor 2’s difficulty levels are fairly straightforward and pretty well kept to their names. However, much of what is changed isn’t clear until you play the game at higher levels and by then, you may have forgotten how you started. If you are new to the Shadow Corridor franchise, or maze style games in general, you should certainly pick Beginner. 
  
@@ -1222,15 +1223,22 @@ Shadow Corridor 2’s difficulty levels are fairly straightforward and pretty we
 
 ## Light Markers
 ![image](https://github.com/user-attachments/assets/4424af56-4490-4af2-b8fd-793ba5d2aec6)
+*Figure 145: Image of an example of a light source in Shadow Corridor 2. Image Taken By: Steven Grevera*
 
 Across your designated corridor’s level, you might find various forms of interactable light sources. Turning these one will mark the area as explored by you and provide you with higher visibility in the area. However, what provides you with better visibility, may also provide the apparitions with higher visibility as well depending on the corridor 2. So keep this in my when deciding which lights to turn on.
 
 ## Trapdoors 
 ![image](https://github.com/user-attachments/assets/a748c8e3-c6ce-4b18-93ec-fca64d4b2758)
+*Figure 146: Image of a trap door that hasn't been stepped on yet. Image Taken By: Steven Grevera*
 
 Trapdoors will spawn in the ground in rare occasions which lead to linked locations. If you walk over one twice, you will fall through. However, if you walk over it once while being pursued by an Apparition, the Apparition that walks over it will fall through the trapdoor, saving you from the chase. If you fall through yourself, you will be teleported to the corresponding location connected with the trapdoor around the corridor which is randomly generated. However, an Apparition that falls through will simply despawn. 
 
-![image](https://github.com/user-attachments/assets/ae5e3f54-a037-47fe-a94f-d34a32a013cb)
+![image](https://github.com/user-attachments/assets/28b9b655-317a-4a50-be55-d918cf8d4d12)
+*Figure 147: Image of where I trap door would lead if you fell through the one on the floor. Image Taken By: Steven Grevera*
+
+![image](https://github.com/user-attachments/assets/25784aff-09eb-496d-8de8-2bd090d6f3a0)
+*Figure 148: Image of a trap door that has been damaged once due to being stepped on once. A second step on it will cause it to break. Image Taken By: Steven Grevera*
+
 
    
 <a name="anchor9"></a>
@@ -1246,12 +1254,14 @@ Across the levels you explore amongst the corridors, you will encounter special 
 
 ## Extra Life (Candle) Rooms 
  ![image](https://github.com/user-attachments/assets/d5025287-bf18-41bd-a384-09f786c455db)
+*Figure 149: Image of the section where you would buy the candle for an extra life. Image Taken By: Steven Grevera*
 
 These exist as two different parts, a section which contains a buyable candle for 1500 souls. (3000 in Marathon.) 
 
 Then the second part is the actual shrine in which you place the candle. In placing the candle, you will obtain a new life if you had a candle extinguished.
 
 ![image](https://github.com/user-attachments/assets/62eac86d-db78-4035-9c53-2c3f30cdf0c5)
+*Figure 150: Image of where you would drop off the candle to obtain another Candle Light (Life Point). Image Taken By: Steven Grevera*
 
 
  
@@ -1259,6 +1269,7 @@ Then the second part is the actual shrine in which you place the candle. In plac
 
 ## Doll Rooms
  ![image](https://github.com/user-attachments/assets/d8041a79-249f-4e49-b35d-2944a3b18c0b)
+*Figure 151: Image of a Doll on a table in a dark room, waiting to be bought for 1500 souls. Image Taken By: Steven Grevera*
 
 For the price of 1500 souls, you can buy this Doll, which will spawn onto the ground nearby. The doll will then upon being interacted with, wind up and will start to head in the direction of the levels exist. Serving as a guide to the exit for you. 
 
@@ -1266,7 +1277,10 @@ While you are within a certain range of the doll, due to the flower in which it 
 
 For 800 souls instead, you can use one of your karuta card slots to spawn this same doll anywhere by inputting a button combination. This can also help with corruption if you are near full corruption build up. You must select this card at the start of the game or as an extra slotted card if you can find the table. 
 ![image](https://github.com/user-attachments/assets/2c32ba30-2ec3-42e1-abd6-71b78686ffce)
+*Figure 152: Image of a Doll that has been spawned and is leading the way toward the exit with the light on. Image Taken By: Steven Grevera*
+
 ![image](https://github.com/user-attachments/assets/b638e22e-4026-4579-ad75-539edba8e0c9)
+*Figure 153: Image of a Doll that has been spawned and is leading the way toward the exit with the light off in the darkness. Image Taken By: Steven Grevera*
 
  
   
@@ -1274,9 +1288,11 @@ For 800 souls instead, you can use one of your karuta card slots to spawn this s
 
 ## Extra Health Well Rooms
  ![image](https://github.com/user-attachments/assets/b0ecb10c-5456-46ae-a638-2f6625a038be)
+*Figure 154: Image of a Well that you can spend 1000 souls in to obtain 30 extra health in a Corridor. With the clairvoyance item in use for the visual effect.  Image Taken By: Steven Grevera*
 
 For the price of 1000 souls, upon finding this well in a room, you can add 30 additional maximum health to your character for the duration of that level’s journey permanently. This effect persists even through death but does not persist beyond an exit/completion of a level, or a “Game Over”. 
 ![image](https://github.com/user-attachments/assets/87662bfb-61b9-45a8-8433-3665f3251b0e)
+*Figure 155: Image of the players maximum health increased and restoring to full after spending 1000 souls at the well in clairvoyance vision still. Image Taken By: Steven Grevera*
 
  
  
@@ -1284,46 +1300,53 @@ For the price of 1000 souls, upon finding this well in a room, you can add 30 ad
 
 ## Swamps
  ![image](https://github.com/user-attachments/assets/96682f1d-1be4-4a6d-98df-ccfa9afbe49f)
+ *Figure 156: Image of a Swamp that has spawned in The Shrine in Butterfly Lantern Light. Image Taken By: Steven Grevera*
  
 Swamps don’t spawn on every corridor unless it is at the higher difficulties for the “Swamp Trap” Magatama rooms. The swamps when walked in will slow down the player’s movement drastically and also build up corruption at a fast rate. Traversing these could be extremely dangerous as a result. 
 
 Apparitions are not slowed by these unlike the player so if being chased by one, factor this into your decision making when choosing to traverse one. 
 
 ![image](https://github.com/user-attachments/assets/83ff8382-9316-4d19-aabc-28161321ca55)
+*Figure 157: Image of a Swamp that has spawned in The Sea of Tree's Complex Corridor. Image Taken By: Steven Grevera*
 
    
 <a name="anchor8"></a>
 
 ## The Butterfly Shop
 ![image](https://github.com/user-attachments/assets/913f42cd-3c67-4a6e-93e1-fece1c3c545b)
+*Figure 158: Image of The Shopkeeper in a Corridor. Image Taken By: Steven Grevera*
 
 The Butterfly Shop is owned by The Shopkeeper: Hotaruya and has two means to get to it, which are mirrors which are randomly generated throughout the level of the corridor that your within. 
 
 A good way to indicate that your are approaching a mirror entrance to the shop, is hearing the sound of a toybox’s music playing. This music indicates that you are approaching a mirror whether behind a locked door or located somewhere within the level. 
 
  ![image](https://github.com/user-attachments/assets/ddd8ba2a-ae16-4b20-bc5f-ba1180b29905)
-
+*Figure 159: Image of The Cleansing flowers and other nit knacks that exist on a table presented to the player by the shopkeeper. Image Taken By: Steven Grevera*
 
 Upon interacting with the mirror, the player can then teleport into a Butterfly Shop Hub, which consists of the mirror you used to reach it’s location and another to another location somewhere else in the level. If you look into the mirror before teleporting back from the shop, you can usually see the state it’s in. If you see flashing lights, this is a good indication that apparitions are nearby and you may want to consider waiting to teleport to that area. 
 
  ![image](https://github.com/user-attachments/assets/b5a7d369-14df-42e6-b63d-175b17c136a9)
+*Figure 160: Image of a mirror which leads to the connecting points of The Butterfly Shop. Image Taken By: Steven Grevera*
 
 
 The Shopkeeper sells items for souls that range from items, passives, a single buyable coffee bean bag for the collection or archives. The Shopkeepers stock of an item is not unlimited and in the case of the coffee bean and the archive collectible, these can only be bought once in your save file per corridor. Whereas other items refresh on returns to the corridor after you escape or obtain a “Game Over” and generate a new one. 
 
 
 ![image](https://github.com/user-attachments/assets/0bad8db0-e948-43fd-85d3-306f3c6a016e)
+*Figure 161: Image of the butterfly shop menu with it's item names, how much you own and the price of items at the shop. Image Taken By: Steven Grevera*
 
  
 
 By spending a certain amount of souls, the shop keeper will reward you with special karuta items over time and these do not have to be spent all at once and serve as a tracking across your save file. 
 
 ![image](https://github.com/user-attachments/assets/fd54e4c1-8d0b-4ec0-8985-fd3523c1b785)
+*Figure 162: Image of a mirror back out of The Butterfly Shop that shows a corpse on the other side that has been claimed for it's souls. Image Taken By: Steven Grevera*
 
  
 
 # Corridor Items
  ![image](https://github.com/user-attachments/assets/34ccb8ab-d725-4f3d-a5cf-4fc7b5c02e27)
+*Figure 163: Image of items that have spawned in a drawer in The Underworld Academy. Image Taken By: Steven Grevera*
 
 Corridor items are items that you pick up while exploring the level of a corridor. Certain karuta cards allow you to start with specific items to achieve purposes. Items can be used for a variety of purposes such as restoring health and stamina, scaring away apparitions, pests or drawing their attention somewhere else. Some are used to mark areas of the map or light up the map as a light source. Whereas others can be used to combat apparitions directly through the use of stunning or outright forced removal with the right item in hand. 
 
@@ -1336,8 +1359,15 @@ When picking up items as well, there is a chance for you to be jumped by spiders
 
 The Compass item is a unique item that spawns at a very rare chance from drawers and when found, will display the exit’s location, guiding the player to the means of escape.
 ![image](https://github.com/user-attachments/assets/affdd6e3-ddad-4af6-b0f0-880a3b65e4e6)
-![image](https://github.com/user-attachments/assets/ae69c316-d8bd-4ed2-80ea-f99a44261fac)
+*Figure 164: Image of a compass that spawned in a drawer when it was opened on The Shrine corridor. Image Taken By: Steven Grevera*
 
+![image](https://github.com/user-attachments/assets/ae69c316-d8bd-4ed2-80ea-f99a44261fac)
+*Figure 165: Image of a compass being used to navigate a player toward the exit. Image Taken By: Steven Grevera*
+
+When picking up items as well, there is a chance for you to be jumped by spiders as a “trap” that will do damage to you. This can also result sometimes in a karuta being sealed. The way to tell if it’s a trap or not, is the drawer should slightly open but not all the way and seem to get “stuck.” This will tell you the drawer is a trap. You can open it again to take damage and there will usually be an item inside. Giving you the choice: Some of your health and a karuta sealing chance for an item, or ignore it. 
+
+![image](https://github.com/user-attachments/assets/5b6f1763-24bb-4bae-9a10-519dbc72c6f1)
+*Figure 166: Image of spiders attacking the player after a drawer was opened. Image Taken By: Steven Grevera*
 
  
  
