@@ -1751,8 +1751,6 @@ Cocoon Moth’s guard this room and the Magatama within. The only way to obtain 
 
 Upon the completion of the level of a corridor, you will receive a series of medals with a set valuation of points and from those points, be granted a rating. The ratings consist with the medals unlocked and what are obtained as a result. If enough rating is obtained, you will receive Bonus Magatama for purchasing further karuta cards. 
 
-**Will Get image of an aftermath screen with my rating in it. To post at the top of this.**
-
  
 ## Medals and Their Valuations
 ![image](https://github.com/user-attachments/assets/fd5dba83-75d8-4322-8817-70c3ee1ad451)
