@@ -1751,6 +1751,7 @@ These rooms can be major drains on your health and should be very carefully trea
 Cocoon Moth’s guard this room and the Magatama within. The only way to obtain it is to take the damage of the room, or to use a fire cracker to scatter the moths, or to use a a star hour glass to freeze time and no damage and run out before it’s time runs out. 
 
 ![image](https://github.com/user-attachments/assets/b029d616-fdef-47bd-b2be-0a528b016b68)
+*Figure 210: Image of cocoon Moths in their trap room fluttering about. Image Taken By: Steven Grevera*
 
 
 
@@ -1758,6 +1759,7 @@ Cocoon Moth’s guard this room and the Magatama within. The only way to obtain 
 
 # Level Rating and Medals
 ![image](https://github.com/user-attachments/assets/ad7404e9-c487-4ce6-acdd-3dd700f570f5)
+*Figure 211: Image of an aftermath screen after a corridor has been completed. Image Taken By: Steven Grevera*
 
 Upon the completion of the level of a corridor, you will receive a series of medals with a set valuation of points and from those points, be granted a rating. The ratings consist with the medals unlocked and what are obtained as a result. If enough rating is obtained, you will receive Bonus Magatama for purchasing further karuta cards. 
 
@@ -1766,7 +1768,7 @@ Upon the completion of the level of a corridor, you will receive a series of med
  
 ## Medals and Their Valuations
 ![image](https://github.com/user-attachments/assets/fd5dba83-75d8-4322-8817-70c3ee1ad451)
-
+*Figure 212: Image of the players earned medals on a wall from their experiences playing the game. Image Taken By: Steven Grevera*
 
 Medals will be rewarded for specific actions such as completing a level within a certain time limit or performing a specific action while in that level itself. All possible obtainable medals are listed below:
 
@@ -1866,6 +1868,7 @@ The above scenario is POSSIBLE… but is more of a challenge, then something lik
 To see your rating on each difficulty and at each level, on the corridor select menu, look where the letters are circled to see your best results. 
  
 ![image](https://github.com/user-attachments/assets/54d9b4fb-6c08-4818-83aa-b93496d69dea)
+*Figure 213: Image of the players past best results in a corridor circled in red. Image Taken By: Steven Grevera*
 
 
 ## Bonus Magatama 
@@ -1889,6 +1892,7 @@ Archives are documents that can be collected throughout your explorations that c
 
 # Magamata Challenge
 ![image](https://github.com/user-attachments/assets/67e142a1-1b84-4640-b105-3fe83b2dab9c)
+*Figure 214: Image of the players Magatama trophies location. Image Taken By: Steven Grevera*
 
 
 The Magamata Challenge is unlocked after completing the entire story fully on any difficulty. The goal of the mode is to grab as many Magamata as fast as possible within the time limit. You start with 5 minutes and every time you obtain a Magamata you are given an additional minute for your run time. Focusing on speed as such, is essential. 
@@ -1907,10 +1911,12 @@ The conditions for activating the map gimmick when obtaining the magatama are th
 The enemy's performance is based on intermediate level and play at that level as a result. However, the trauma will spawn on any map regardless of it’s gimmick, after a 9th magamata is obtained and it will multiply if put in a barrier just like in Advanced mode. 
 
  ![image](https://github.com/user-attachments/assets/bcaf55e7-a916-4d74-bc56-f958686955ca)
+*Figure 215: Image of where to access the Magatama Challenge game mode. Image Taken By: Steven Grevera*
 
  
 # Marathon Mode
 ![image](https://github.com/user-attachments/assets/414a647d-4fa9-4102-8d70-1da552da2aa3)
+*Figure 216: Image of where to access the Marathon gamemode. Image Taken By: Steven Grevera*
 
 
 To unlock Marathon Mode, you must fully complete the story of the game once and in doing so, will unlock this mode. 
@@ -1924,7 +1930,7 @@ Souls and items carry over from one corridor into the next, so exploring a corri
 At the end of your Marathon (if you make it that far-), your total time is totaled up and scored accordingly. 
 
 ![image](https://github.com/user-attachments/assets/5c4900f9-8b91-4e88-b87c-de515d15337a)
-
+*Figure 217: Image of a Marathon victory screen and how it is all totaled up and your reward for completing it. Image Taken By: Steven Grevera*
 
 
  
@@ -1987,4 +1993,4 @@ At the end of your Marathon (if you make it that far-), your total time is total
 Grammarly was used to assist in the spelling and grammar of this assignment.
 
 ![image](https://github.com/user-attachments/assets/7f5ea821-57ec-463b-b376-9b4be58ae7d1)
-
+*Figure 218: Image of the player suffering from brain freeze. Image Taken By: Steven Grevera* 
