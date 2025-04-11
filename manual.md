@@ -1012,36 +1012,41 @@ The Gimmick of the map is that upon obtaining the required number of Magatama de
 
 ### Sea of Trees Complex
 ![image](https://github.com/user-attachments/assets/bf38f273-7add-45db-97b2-790a0d4d4934)
+*Figure 122: Image showing the spawn location in The Sea of Trees Complex. Image Taken By: Steven Grevera*
 
 The Sea of Tree’s Complex is a mostly outdoor corridor with sections also inside of abandoned and dilapidated buildings which are usually blocked off with pot traps, that upon touching, will explode with corruption smoke as well as do damage to the player. 
  
  ![image](https://github.com/user-attachments/assets/49107570-4147-46c4-8e50-a64f419f0b47)
+*Figure 123: Image showing a trap in The Sea of Trees Complex. Image Taken By: Steven Grevera*
 
  ![image](https://github.com/user-attachments/assets/9b0b8623-72b9-4ca7-be89-26d536364ecc)
-
+*Figure 124: Image showing a large open section between a series of buildings in The Sea of Trees Complex. Image Taken By: Steven Grevera* 
  
 The gimmick of the map is fairly simple but extremely hard to deal with, in that with the corresponding Magatama obtained, the mushrooms all over the walls across the corridor will glow in a wide radius and emit particle spores. These spores will stop stamina regeneration entirely at the higher levels and decrease it at the lower levels. It will also make compasses spin unendingly and without any control. Making them useless. Dolls however, will still function if bought by the player. 
 
 ![image](https://github.com/user-attachments/assets/2dee5104-2453-42dc-8387-5a60157109fe)
-
+*Figure 125: Image showing the map gimmick of the walls starting to glow in the darkness part 1 in The Sea of Trees Complex. Image Taken By: Steven Grevera* 
 
 Any stamina regeneration passive item, coffee effect or consumable item, will bypass this inability to regenerate stamina. Making them mandatory items. Of course, be mindful that the stamina regen will be extremely slow if you only use one of the many options at your disposal. Meaning this level can drag on at the higher difficulties.
 
  ![image](https://github.com/user-attachments/assets/8c190269-6ea6-42db-b470-248bc2fede54)
+*Figure 126: Image showing the map gimmick of the walls starting to glow in the darkness part 2 in The Sea of Trees Complex. Image Taken By: Steven Grevera*
 
 
 As the level is largely outdoors, rain is all outside, causing large amounts of corruption building. Worse, large bodies of swamps separate sections of the corridor at some location and pests are in large amounts and call this place home. 
  
 ![image](https://github.com/user-attachments/assets/685044f8-97dd-491c-b6f7-65d4be8ed6f3)
+*Figure 127: Image an opening inside of one of the apartment style looking buildings in The Sea of Trees Complex. Image Taken By: Steven Grevera*
 
  ![image](https://github.com/user-attachments/assets/13f0e98a-b067-4e15-9151-bef230aff4ce)
-
+*Figure 128: Image of a swamp outside in The Sea of Trees Complex. Image Taken By: Steven Grevera* 
 
 As much of the level is outdoors, item spawn rates are not common as they require desks, which also serve as the means of gathering souls as well, other then the usual skeletons that you should utilize heavily in this corridor. 
 
 The light source of this map is a large mushroom style lamp that starts turned off that you yourself must turn on. The Farming Soul Item is the Underworld Academy’s desk that returns for this level. 
  
 ![image](https://github.com/user-attachments/assets/62134d5a-313b-4679-94b7-46eeca554c24)
+*Figure 129: Image of a mushroom light source in The Sea of Trees Complex. Image Taken By: Steven Grevera*
 
 ### Sea of Reminiscence 
 ![image](https://github.com/user-attachments/assets/4d8a4699-c7db-4226-87af-a8e7c91e8939)
