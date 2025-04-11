@@ -1352,9 +1352,6 @@ Corridor items are items that you pick up while exploring the level of a corrido
 
 Items are collected by opening up drawers scattered throughout the corridor levels in the form usually of desks and tables and are always indoors on levels that have an outside and inside. 
 
-When picking up items as well, there is a chance for you to be jumped by spiders as a “trap” that will do damage to you. This can also result sometimes in a karuta being sealed. The way to tell if it’s a trap or not, is the drawer should slightly open but not all the way and seem to get “stuck.” This will tell you the drawer is a trap. You can open it again to take damage and there will usually be an item inside. Giving you the choice: Some of your health and a karuta sealing chance for an item, or ignore it. 
-![image](https://github.com/user-attachments/assets/1d1e0bfd-1594-480e-a49d-f90ea7205e4c)
-
 <a name="anchor1"></a>
 
 The Compass item is a unique item that spawns at a very rare chance from drawers and when found, will display the exit’s location, guiding the player to the means of escape.
@@ -1445,6 +1442,7 @@ When picking up items as well, there is a chance for you to be jumped by spiders
 
 # Apparitions (Enemies)
 ![image](https://github.com/user-attachments/assets/a44ed994-d096-4678-abd4-6ca2a8ade344)
+*Figure 167: Image of a Shion crying in the darkness. Image Taken By: Steven Grevera*
 
 Apparitions are wandering enemies that will usually proceed to extinguish a life should the player be caught by them regardless of health value.. All Apparitions behave differently and have unique characteristics. Some are even unique to specific corridors themselves or specific difficulties of those corridors. 
 
@@ -1466,14 +1464,16 @@ If you are being chased by an Apparition and you close a door behind yourself, d
 
 ### Teru teru bōzu (Screaming Dolls)
 ![image](https://github.com/user-attachments/assets/b94cf4a7-e06c-4c9e-bc40-160bc3d1d8a6)
+*Figure 168: Image of a Teru teru bōzu Doll coming right for the player. Image Taken From: https://img.wiki3.jp/shadowcorridor2amanoyohira/teruteru.jpg*
 
 Apparitions which are covered in branded white cloth covering their faces. Their lower body of “feet” are hands and can be identified from far distances due to their loud screaming and constantly shaking speed of their limbs. They cannot hear sounds due to how loud they are and so are not prone to sounds other then firecrackers. They also only ever look in front of themselves and will not look behind unless they turn their entire bodies around. 
  ![image](https://github.com/user-attachments/assets/9d667a70-cdcf-4e0f-bba7-360130e45fa6)
+*Figure 169: Image of a Teru teru bōzu running past a barriered door. Image Taken By: Steven Grevera*
 
 Teru teru bōzu destroy doors extremely fast and on the higher levels, destroy doors instantly. They will destroy doors even if they haven’t spotted you sometimes. This is not cause for panic if you are not being chased, simply duck into cover and wait for their business to conclude. 
 
  ![image](https://github.com/user-attachments/assets/7d0c06fc-cd2e-40f6-9c6b-a51c2b3b71c5)
-
+*Figure 170: Image of a Teru teru bōzu's outline as seen from the clairvoyance item. Image Taken By: Steven Grevera*
 
 If being chased by a Teru teru bōzu, try to find a trap door fast as they are extremely fast and without items to stun them, you will be in great trouble without the ability to block them with doors. 
 
