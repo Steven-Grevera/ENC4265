@@ -1050,47 +1050,58 @@ The light source of this map is a large mushroom style lamp that starts turned o
 
 ### Sea of Reminiscence 
 ![image](https://github.com/user-attachments/assets/4d8a4699-c7db-4226-87af-a8e7c91e8939)
+*Figure 130: Image of sprawling large towering hands bound in chains in the dark ocean that is this Corridor. The Sea of Reminiscence. Image Taken By: Steven Grevera*
 
 The Sea of Reminiscence is a corruption stronghold, the entire level is underwater and as a result every second counts. The level is very reminiscent of the beginning of the story, the main characters apartment, yet it spirals and sprawls endlessly with no way down and hands reaching up for the sky in vein under the imposing darkness of this endless sea.
 
 ![image](https://github.com/user-attachments/assets/36bab993-8e36-4a04-b839-2ebb908750e5)
+*Figure 131: Image of a stairway of an apartment that leads up or down in The Sea of Reminiscence. Image Taken By: Steven Grevera*
 
  ![image](https://github.com/user-attachments/assets/b1ba0a02-d935-4e60-9ccb-b3b7218aeabe)
-
+*Figure 132: Image of a chain blocking off the player continued movement in that direction on a stairway in The Sea of Reminiscence. Image Taken By: Steven Grevera*
  
 Dark tendrils are scattered throughout the map that have no effect on the player itself but will give you a freight for sure. The light source is a blue lamp that can be turned on. The farming item are mirrors that when interacted with will break and grant souls.  
 
  ![image](https://github.com/user-attachments/assets/c4369df1-5854-4626-a4fb-761e11b6edde)
+*Figure 133: Image of ink textured like chains that have smoke and shadows coming off them and going up into the very water that we currently breathe. in The Sea of Reminiscence. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/f242326b-63bf-4543-bdaa-82c80a6fd5cd)
+*Figure 134: Image of the light source in The Sea of Reminiscence. Image Taken By: Steven Grevera*
 
  ![image](https://github.com/user-attachments/assets/fb47e91c-9b94-495f-96ee-523450835e0e)
+*Figure 135: Image of the Soul Farming Object in The Sea of Reminiscence. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/3300415e-f63a-4c39-bd22-19e505c42a45)
+*Figure 136: Image of a dark open walkway section in The Sea of Reminiscence. Image Taken By: Steven Grevera*
 
  
 ![image](https://github.com/user-attachments/assets/90408b9d-e564-4c02-897f-2df576b73917)
+*Figure 137: Image of a dark closed and indoors walkway section with glass windows at the sides that can't be opened due to chains in The Sea of Reminiscence. Image Taken By: Steven Grevera*
 
  
  
 The gimmick of the corridor involves the spawning of a special Apparition, that entity being “The Trauma”, which is without a doubt the hardest Apparition in the game to deal with. It will announce itself loudly with a unique shrieking wail sound, yet it doesn’t matter as the panic will quickly set in as you realize, you cannot hide from this Apparition. Wherever you go, however far you try and escape, it will know where you are and will pursue you with unlimited stamina, compared to your limited amounts. The only way to deal with the trauma is to stun it via the ‘26 Revolver Pistol or sacrifice a candle of life (life point) to cremate it, which will permanently remove it from the level for that single one. 
 
 ![image](https://github.com/user-attachments/assets/4fa060ea-2216-4424-b28f-2b0b9b6ed069)
+*Figure 138: Image of The Trauma's spawn warning in The Sea of Reminiscence. Image Taken By: Steven Grevera*
 
  ![image](https://github.com/user-attachments/assets/89e469b3-2a1e-48d2-ace1-2cfbc9dee3ec)
+*Figure 139: Image of The Trauma's chasing after the player in The Sea of Reminiscence. Image Taken By: Steven Grevera*
 
  
 It is highly advised not to trap a Trauma in a barrier, as doing so will result in it multiplying on Deluge difficulty and it’s best to get in a habit of not having to barrier it to deal with it now, as to not make the mistake later down the line.
   
 ![image](https://github.com/user-attachments/assets/0601f7b2-1759-4af5-94ad-0f8cd36e50ba)
+*Figure 140: Image of The Trauma's chasing after the player in black and white and up close in The Sea of Reminiscence. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/d30e3de5-0afe-4c76-957d-3624ff9cfc91)
+ *Figure 141: Image of the greater sea and it's darkness when you use a Star Hourglass item in The Sea of Reminiscence. Image Taken By: Steven Grevera*
  
 ![image](https://github.com/user-attachments/assets/bbe4a168-575b-4ee5-be8d-dde92e32a6bd)
-  
+*Figure 142: Image of how large sections outside the map disappear when you use a Star Hourglass item in The Sea of Reminiscence Turning it into darkness. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/cbd425ec-caab-4dc9-b436-eb2e2fa56479)
-
+*Figure 143: Image of the light above, which is only visible in The Sea of Reminiscence's exit of the corridor. Image Taken By: Steven Grevera* 
 
 
 ## Difficulty 
