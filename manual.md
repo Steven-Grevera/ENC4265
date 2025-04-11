@@ -1525,12 +1525,11 @@ The Shion naming is due to the flowers which grow out of it’s head in some way
 ![image](https://github.com/user-attachments/assets/65dd9aef-1b31-4ed7-b897-6141544f1774)
 *Figure 179: Image of a Mizuchi apparition in black and white from the front view. Image Taken By: Steven Grevera*
 
-# Fix images below here before captioning more. Something went wrong. 
-
 
 The Mizuchi is a unique Apparition as it has no unique sound until it has found you, in which case it will scream at you in a woman’s shrieking voice. If you have light sources around you flickering and your heart beat is ringing out, this means that a Mizuchi is nearby. You must get to cover to hide as they can both see and hear you under the right circumstances. 
 
 ![image](https://github.com/user-attachments/assets/be051b73-2fd5-49f6-8371-c769cb7aac66)
+*Figure 180: Image of a Mizuchi apparition’s outline with the clairvoyance item activated Image Taken By: Steven Grevera*
 
 
  
@@ -1543,18 +1542,20 @@ In Japanese mythology, "mizuchi" (蛟, 虯) refers to a type of aquatic, dragon-
 
 ### Mechanical Doll 
 ![image](https://github.com/user-attachments/assets/847f0953-7308-425d-b96c-e61c7a256e9f)
+*Figure 181: Image of a Mechancial Doll appariton chasing the player. Image Taken From: https://img.wiki3.jp/shadowcorridor2amanoyohira/kikainingyou.jpg*
 
 
 The Mechanical Doll Apparition only appears in The Shrine corridor and they will only begin to wander around or chase after you if you walk into their search lights from their eyes or trigger the map gimmick depending on the difficulty you are playing on. 
 
 ![image](https://github.com/user-attachments/assets/66044c1a-11d9-40c8-a4f1-9b12be37afc6)
-
+*Figure 182: Image of a dormant Mechanical Doll shining out it's search light from it's eyes, waiting for a player to walk into it's light. Image Taken By: Steven Grevera*
 
 
 The Mechanical Doll can be shot and stunned by gunfire but will not make any indication aside from stopping it’s movement that it’s been hit. Additionally, they will not react to the sound of your running but will react to screaming Hanging Men, as well as firecrackers. Which you can use to your advantage to draw them away. If they see you however, they will pursue you at all cost. 
  
 ### Haikara (Stylish, Megaphone Heads)
 ![image](https://github.com/user-attachments/assets/f1bd9d32-0742-46bb-94b1-5916381f19b7)
+*Figure 183: Image of a Haikara frozen in time and appearing to seem like it's pointing in black and white. Image Taken By: Steven Grevera*
 
 
 The first thing you will hear is a type of crazed chattering through a filtered technological wind pipe of some kind. These are the sounds produced through the megaphone. While it is within hearing distance of the player, it will start to build up your “insanity” gauge. Causing major issues if you end up not being able to find cover. As if you scream by becoming “frenzied”, you will be discovered and likely lose a Cande Light (Life Point). 
