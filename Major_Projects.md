@@ -2,3 +2,4 @@
 
 # **Deliverable Assignments**
 
+[Final Essay](final_essay.md)
