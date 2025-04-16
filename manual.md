@@ -412,12 +412,12 @@ For more information about the existing passive items in Shadow Corridor 2, see 
 ![image](https://github.com/user-attachments/assets/fe28a4e6-b23b-448b-9912-6407fee34bfe)
 *Figure 29: Image showing the in-game UI along with the inventory open and expanded and the Light Source inventory slots circled in red. Image Taken By: Steven Grevera*
 
-Light Source items are various items that provide light source in an area but may also have other effects. In Shadow Corridor 2, you always start with an infinite basic light source in the “Lighter”, which is obtained at the start of the game and exists no matter what. It cannot be replaced. 
+Light Source items are various items that provide light source in an area but may also have other effects. In Shadow Corridor 2, you always start with an infinite basic light source in the “Lighter,” which is obtained at the start of the game and exists no matter what. It cannot be replaced. 
 
 ![image](https://github.com/user-attachments/assets/900dc911-0be9-40de-804a-2ab6851d37b8)
 *Figure 30: Image showing how a Flashlight's light looks in darkness. Image Taken By: Steven Grevera* 
 
-When a light source is on, not only will a room get brighter, it may have an effect. You can see this item is “on” based on the small sun icon beneath the light source item itself. Some light sources are stronger then others in terms of “brightness”, for example, the flashlight being stronger in directed light then the lighter. However, more light makes it easier for apparitions to find the player and is one of the easiest ways to get spotted. 
+When a light source is on, not only will a room get brighter, it may have an effect. You can see this item is “on” based on the small sun icon beneath the light source item itself. Some light sources are stronger than others in terms of “brightness”; for example, the flashlight is stronger in directed light than the lighter. However, more light makes it easier for apparitions to find the player, and it is one of the easiest ways to get spotted. 
 
 For more specifics on Light Source items, [see here]#anchor10). 
 
@@ -430,15 +430,15 @@ For more specifics on Light Source items, [see here]#anchor10).
 ![image](https://github.com/user-attachments/assets/a29ffb7a-622d-407b-bf01-7a0b09104d41)
 *Figure 32: Image showing where the "corruption" bar will be located and how it fills up should you be afflicted with it. Image Taken By: Steven Grevera*
 
-Corruption builds up with exposure to water in Shadow Corridor 2, as The Shadow Corridor’s are part of a larger realm of the dead. Water applies to things such as “Swamps” which can spawn randomly in the world or as specific parts of specific corridor types. Another type of “water” that can fill this gauge is “rain”. This rain will build up corruption. 
+Corruption builds up with exposure to water in Shadow Corridor 2, as The Shadow Corridors are part of a larger realm of the dead. Water applies to things such as “Swamps,” which can spawn randomly in the world or as specific parts of specific corridor types. Another type of “water” that can fill this gauge is “rain.” This rain will build up corruption. 
 
-On deluge difficulty, this water will bombard you and be even more deadly in all of it’s forms as well. 
+On deluge difficulty, this water will bombard you and become even more deadly in all of it’s forms as well. 
 
-If corruption reaches it’s max possible allocation, it will cause an instant life to be lost or if it’s your last life, a game over. 
+If corruption reaches its maximum possible allocation, it will cause an instant life to be lost, or if it’s your last life, a game over. 
 
-Using certain karuta can allow for corruption to be negated through the use of passive items that can be obtained at the start of your level’s session, or certain coffee effects can also be utilized to lower the rate in which corruption builds.  
+Using certain karuta can allow for corruption to be negated through the use of passive items that can be obtained at the start of your level’s session, or certain coffee effects can also be utilized to lower the rate at which corruption builds.  
 
-On most difficulties other then deluge, the best way to get rid of corruption entirely is to walk over to a skeleton’s remains. Flowers growing out of it will drain your corruption bar until it is entirely free. Making skeletons good to seek out in corridors with heavy amounts of swamp and rain.
+On most difficulties other than deluge, the best way to get rid of corruption entirely is to walk over to a skeleton’s remains. Flowers growing out of it will drain your corruption bar until it is entirely free. Making skeletons good to seek out in corridors with heavy amounts of swamp and rain.
 
 
  
@@ -446,18 +446,19 @@ On most difficulties other then deluge, the best way to get rid of corruption en
  ![image](https://github.com/user-attachments/assets/393cc28b-9a7c-4ee1-a920-b4b6c31c10d7)
 *Figure 33: Image showing where the "insanity" bar will be located and how it fills up should you be afflicted with it. Image Taken By: Steven Grevera*
 
-Insanity is a yellow bar that will fill up far rarer then corruption. It is caused by being in proximity to certain apparitions or environmental factors that can be triggered in the corridors. 
+Insanity is a yellow bar that will fill up far rarer than corruption. It is caused by being in proximity to certain apparitions or environmental factors that can be triggered in the corridors. 
 
-When insanity is built up to max, you will be stunned in place and let out a loud scream. Alerting apparitions to your location or if you were in a chase, causing you usually to get caught if you don’t break out of it fast enough. By clicking on the indicated button fast, you can break the stun faster. You will also take health damage while in this state. 
+When insanity is built up to the max, you will be stunned in place and let out a loud scream. Alerting apparitions to your location or if you were in a chase, causing you usually to get caught if you don’t break out of it fast enough. By clicking on the indicated button fast, you can break the stun faster. You will also take health damage while in this state.
 
  
 ## Hiding Places
 ![image](https://github.com/user-attachments/assets/17c1dc97-f9ea-49de-9453-3a3fb7f9e076)
-*Figure 34: Image showing the inside of a hiding place from "Underworld Academy". Image Taken By: Steven Grevera*
+*Figure 34: Image showing the inside of a hiding place from "Underworld Academy." Image Taken By: Steven Grevera*
 
-Throughout the corridors, you will find places that you can hide in if an Apparition is on your tail or nearby. These places of protection must be found in order to avoid being discovered and if you have your light source on without the right karuta on, you can still be discovered. So it’s best to keep that off. All corridors have different types of hiding places that can range from closets to tiny baskets, all depending on the corridor in which you find yourself exploring. 
+Throughout the corridors, you will find places that you can hide in if an Apparition is on your tail or nearby. These places of protection must be found in order to avoid being discovered and if you have your light source on without the right karuta on, you can still be discovered. So it’s best to keep that off. All corridors have different types of hiding places that can range from closets to tiny baskets, depending on the corridor in which you find yourself exploring. 
+
  ![image](https://github.com/user-attachments/assets/9f08911f-e457-4b8d-812b-6a69906cb07d)
- *Figure 35: Image showing the outside of a hiding place from "Underworld Academy". Image Taken By: Steven Grevera*
+*Figure 35: Image showing the outside of a hiding place from "Underworld Academy." Image Taken By: Steven Grevera*
  
 ![image](https://github.com/user-attachments/assets/1c77f831-bfe2-4b51-b674-01e9aebfe9ef)
 *Figure 36: Image showing the inside of a hiding place in The Underworld Academy but with The Lights off. Image Taken By: Steven Grevera*
@@ -470,11 +471,11 @@ Throughout the corridors, you will find places that you can hide in if an Appari
 *Figure 37: Image showing The Barkeep when you first enter the game. Image Taken By: Steven Grevera*
 
 
-After getting through the games intro, you will arrive at the hub. In the hub will be several options that will assist you on your corridor explorations. 
+After getting through the game's intro, you will arrive at the hub. In the hub, there will be several options that will assist you in your corridor explorations.
 
 ## Hub Music Control
 ![image](https://github.com/user-attachments/assets/3139efc3-360a-491b-aba0-f106bce5af6f)
-*Figure 38: Image showing a Gramophone which can be used to change the music playing in The Hub. Image Taken By: Steven Grevera* 
+*Figure 38: Image showing a Gramophone that can be used to change the music playing in The Hub. Image Taken By: Steven Grevera*
 
 By interacting with this device while in the hub, you can cycle through a series of soundtracks in the game itself. Pick your favorite one! Feel free to change it at any time by coming to this location. 
 
