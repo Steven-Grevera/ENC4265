@@ -729,22 +729,22 @@ Below are a series of options and what is unique to each of them.
 *Figure 58: Image showing a room in the Underworld Academy. Image Taken From: https://img.wiki3.jp/shadowcorridor2amanoyohira/%E5%AD%A6%E3%81%B3%E8%88%8E%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%B3.jpg*
 
 
-The Underworld Academy is the first Corridor you will explore when you start and play the game’s story mode. To obtain souls, you will search single school dressers which contain souls within. To turn on the lights, you will turn on the classroom style lights that are above your head everywhere that you go.
+The Underworld Academy is the first Corridor you will explore when you start and play the game’s story mode. To obtain souls, you will search single school dressers that contain souls within. To turn on the lights, you will turn on the classroom-style lights that are above your head everywhere you go.
 
  ![image](https://github.com/user-attachments/assets/5cffa348-e7ce-49be-9d0c-f3c5a7f93687)
 *Figure 59: Image showing a dark hallway in the academy. Image Taken By: Steven Grevera*
 
-The gimmick of this map involves a school bell loudly ringing any time the gimmick is triggered, which will slowly build up your insanity in a large radius and attract Apparitions to you as a result if you do not clear the area, or find a place to hide out. Eventually, the bell will stop ringing, so be sure your ready to escape to safety before picking up the Magatama. 
+The gimmick of this map involves a school bell loudly ringing any time the gimmick is triggered, which will slowly build up your insanity in a large radius and attract Apparitions to you as a result if you do not clear the area or find a place to hide out. Eventually, the bell will stop ringing, so be sure you're ready to escape to safety before picking up the Magatama. 
  
 
  ![image](https://github.com/user-attachments/assets/938e7f77-573c-473d-b58e-66cb55cbd436)
-*Figure 60: Image showing a dark staircase leading up in the Academy.Image Taken From: https://img.wiki3.jp/shadowcorridor2amanoyohira/3.jpg*
+*Figure 60: Image showing a dark staircase leading up to the Academy.Image Taken From: https://img.wiki3.jp/shadowcorridor2amanoyohira/3.jpg*
 
  ![image](https://github.com/user-attachments/assets/27a81cef-a233-44df-80b4-2e138df49e4e)
 *Figure 61: Image showing the light source of the Academy. Image Taken By: Steven Grevera*
 
  ![image](https://github.com/user-attachments/assets/0b907a38-ba4b-4158-9e07-693fea6c8b24)
-*Figure 62: Image showing the soul farming item in the Underworld Academy. Image Taken By: Steven Grevera*
+*Figure 62: Image showing the soul-farming item in the Underworld Academy. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/36d45498-8bcf-4cf3-83e1-e16a56f50303)
 *Figure 63: Image showing another angle of a darker staircase in the Underworld Academy. Image Taken By: Steven Grevera*
@@ -757,7 +757,8 @@ The gimmick of this map involves a school bell loudly ringing any time the gimmi
 ![image](https://github.com/user-attachments/assets/201376d7-9221-4a4b-b28d-b312f051457b)
 *Figure 65: Image showing the starting room in the Corridor of Endless Rain. Image Taken By: Steven Grevera*
 
-The Corridor of Endless Rain is within a house or inn of some kind that seems to stretch on endlessly. Certain large opening sections covered with doors, will reveal openings to the outside world, yet constantly pour endless rains on that outside. Causing issues for the player in terms of corruption build up. 
+The Corridor of Endless Rain is within a house or inn of some kind that seems to stretch on endlessly. Certain large opening sections covered with doors, will reveal openings to the outside world, yet constantly pour endless rains on that outside. This causes issues for the player in terms of corruption buildup. 
+
 ![image](https://github.com/user-attachments/assets/4019f2ab-4e42-4a97-8934-d3cc54e4756a)
 *Figure 66: Image showing a darkly lit hallway in the Corridor of Endless Rain. Image Taken By: Steven Grevera*
 
@@ -772,15 +773,15 @@ The Corridor of Endless Rain is within a house or inn of some kind that seems to
 
 
 
-The light source of the map are tiny square lamps that are set up across the level and the farming object’s are large vases on the ground that when interacted with will emit a green light to acquire souls.
+The light source of the map are tiny square lamps that are set up across the level and the farming objects are large vases on the ground that, when interacted with, will emit a green light to acquire souls.
 
  ![image](https://github.com/user-attachments/assets/dbad1606-d881-4ed5-9cbf-5973a46de198)
 *Figure 70: Image showing the light source in the Corridor of Endless Rain. Image Taken By: Steven Grevera*
 
  ![image](https://github.com/user-attachments/assets/2af4660e-97b7-4648-9428-6f5231ce14d6)
-*Figure 71: Image showing the soul farming object in the Corridor of Endless Rain. Image Taken By: Steven Grevera*
+*Figure 71: Image showing the soul-farming object in the Corridor of Endless Rain. Image Taken By: Steven Grevera*
 
-The corridors  gimmick can be devastating if you aren’t yet used to dealing with the corruption status buildup, which when activated by obtaining the right amount of magatama, will cause the rain to drip through the ceiling and onto the player. Causing endless buildup of corruption unless skeletons or other means are found. The range is not infinite but it is large. On advanced and beyond, in practice, this means the entire corridor will eventually end up with rain dripping from the ceiling and leaving very little areas to be safe. 
+The corridor's gimmick can be devastating if you aren’t yet used to dealing with the corruption status buildup, which, when activated by obtaining the right amount of Magatama, will cause the rain to drip through the ceiling and onto the player. This causes an endless buildup of corruption unless skeletons or other means are found. The range is not infinite but it is large. On advanced and beyond, in practice, this means the entire corridor will eventually end up with rain dripping from the ceiling and leaving very few areas to be safe. 
 
 ![image](https://github.com/user-attachments/assets/7c1fa058-8e29-43be-995a-ea4cfd77ad04)
 *Figure 72: Image showing rain seeping through the ceiling in the Corridor of Endless Rain. Image Taken By: Steven Grevera*
@@ -790,14 +791,14 @@ The corridors  gimmick can be devastating if you aren’t yet used to dealing wi
 ![image](https://github.com/user-attachments/assets/e57e3f38-5575-497f-a22c-c8dd33245299)
 *Figure 73: Image showing rain pouring down in an open section on Hydrangea Street. Image Taken By: Steven Grevera*
 
-A large open street that endlessly stretches amidst a mix of a town and alleyways. The area is very dark and occurs at night with many locations having raining dripping down. The only escape by which, is entering the limited building entrances scattered throughout the level.
+A large open street that endlessly stretches amidst a mix of a town and alleyways. The area is very dark and occurs at night, with many locations having rain dripping down. The only escape is entering the limited building entrances scattered throughout the level.
 
 ![image](https://github.com/user-attachments/assets/f512808d-1d01-4e53-9f05-08958d6e6daa)
 *Figure 74: Image showing two alleys in Hydrangea Street. Image Taken By: Steven Grevera*
 
-Due to the building entrances being limited, items can be scarce in this level and it is advised to possibly bring key ones in ahead of time to make best use of your situation while exploring levels of this corridor. 
+Due to the building entrances being limited, items can be scarce on this level, and it is advised to bring key ones in ahead of time to make the best use of your situation while exploring levels of this corridor. 
 
-Unlike most other corridors, there are two key gimmicks of this map. The first occurs every two minutes, in which an alarm will sound and Corrupted Humans will spawn all over and slowly seek you out. The time it takes for these lanterns to glow and trigger the spawns, occurs based on your difficulty as such: 
+Unlike most other corridors, there are two key gimmicks of this map. The first occurs every two minutes, in which an alarm will sound and Corrupted Humans will spawn all over and slowly seek you out. The time it takes for these lanterns to glow and trigger the spawns occurs based on your difficulty as such: 
 
 - Beginner: about 10 minutes,
 - Intermediate - 4.5 to 6.5 minutes
@@ -820,25 +821,25 @@ The second gimmick is that ice popsicle trucks will be around the map and findin
 The Light Source of the map are large street lamps which interacting with at the points with the red hand prints, will turn on. Inside, are the electrical lamps that were also seen in Underworld Academy. 
 
 ![image](https://github.com/user-attachments/assets/82316087-eab2-4a3f-8d97-d5e59e9547ef)
-*Figure 78: Image showing a glowing electrical pole which is the light source in Hydrangea Street. Image Taken By: Steven Grevera*
-
+*Figure 78: Image showing a glowing electrical pole, which is the light source on Hydrangea Street. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/34235da4-0913-447b-97ff-71221faa3685)
-*Figure 79: Image showing an electrical pole which is the light source that if off in Hydrangea Street. Image Taken By: Steven Grevera*
+*Figure 79: Image showing an electrical pole, which is the light source that is off in Hydrangea Street. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/c3069575-cdfe-4b2d-8dc3-bb2a8f18648e)
 *Figure 80: Image showing the inside light source of Hydrangea Street. Image Taken By: Steven Grevera*
 
-The “farming soul object” of this level is a cabinet that when interacted with will display a green fire effect and give souls to the player. 
+The “farming soul object” of this level is a cabinet that, when interacted with, will display a green fire effect and give souls to the player. 
 
 ![image](https://github.com/user-attachments/assets/fa581341-c2f4-478b-8e6f-f28e6fa6b913)
-*Figure 81: Image showing a cabinet which is the Soul Farming Object of Hydrangea Street. Image Taken By: Steven Grevera*
+*Figure 81: Image showing a cabinet, which is the Soul Farming Object of Hydrangea Street. Image Taken By: Steven Grevera*
 
 ### Mausoleum 
  ![image](https://github.com/user-attachments/assets/29172cd0-f907-4ab7-937c-f27acb98facf)
 *Figure 82: Image showing the starting room of The Mausoleum Corridor. Image Taken By: Steven Grevera*
 
-This enclosed cave like location houses many spirits of the dead and will set even the most hardened of people on edge. 
+This enclosed cave-like location houses many spirits of the dead and will set even the hardest of people on edge. 
+
 ![image](https://github.com/user-attachments/assets/ee9525df-ca59-407a-8579-f71df4000f95)
 *Figure 83: Image showing the underground railings and paper kite ceiling of The Mausoleum Corridor. Image Taken By: Steven Grevera*
 
@@ -854,10 +855,10 @@ The corridor has three gimmicks this time. On this corridor, if at any point you
 *Figure 85: Image showing how the first map gimmick appears on the screen when the light is off in The Mausoleum Corridor. Image Taken By: Steven Grevera*
 
  
-The second gimmick occurs at the standard rate of obtaining Magamata and depending on your difficulty level. This gimmick is that when you pick up a Magamata, a woman’s head will spawn and shriek at you, causing a massive build up of insanity at a fast rate, as well as making noise for Apparitions to hear if any are nearby. Making it critical to factor all this in before picking one up. 
+The second gimmick occurs at the standard rate of obtaining Magamata and, depending on your difficulty level. This gimmick is that when you pick up a Magamata, a woman’s head will spawn and shriek at you, causing a massive build-up of insanity at a fast rate, as well as making noise for Apparitions to hear if any are nearby. Making it critical to factor all this in before picking one up. 
 
 ![image](https://github.com/user-attachments/assets/b6348f24-23c1-4fd3-939f-cfe8db87290e)
-(Figure 86: Image showing how a woman's face and lower body appears to scream in The Mausoleum Corridor. Image Taken By: Steven Grevera)
+*Figure 86: Image showing how a woman's face and lower body appear to scream in The Mausoleum Corridor. Image Taken By: Steven Grevera*
 
  
 The final gimmick will appear like a generation bug in appearance, a sudden endless void drops at random points of the map will generate and if you fall down these, it is an instant death, resulting in a life lost or a game over if you are out of lives. 
