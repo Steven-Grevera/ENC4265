@@ -516,7 +516,7 @@ Corrupted  Human’s or Impure look like the above and if they grab you, they wi
 *Figure 44: Image showing a Corrupted Human Pest grabbing the player with the clairvoyance item on. Image Taken By: Steven Grevera*
 
 
-The only way to unseal karuta is to spend 1000 souls at the butterfly shop, which is randomly located in each corridor. Spending the 1000 souls will unseal all karuta at once for the exact same price, meaning in some situations it might be better to wait for more to be sealed before spending your souls while out exploring. 
+The only way to unseal karuta is to spend 1000 souls at the butterfly shop, which is randomly located in each corridor. Spending 1000 souls will unseal all karuta at once for the exact same price, meaning that in some situations, it might be better to wait for more to be sealed before spending your souls while out exploring. 
  
 
 
@@ -524,7 +524,7 @@ The only way to unseal karuta is to spend 1000 souls at the butterfly shop, whic
  ![image](https://github.com/user-attachments/assets/9239ad18-8c36-4472-800c-c4b4039445f4)
 *Figure 45: Image showing a bonus Karuta Table Room found while in a corridor. Image Taken By: Steven Grevera*
 
-While exploring in Corridors, you may find a Karuta card table. By spending 1500 at these randomly generated locations, you will unlock an additional Karuta slot for the rest of that corridors exploration and it will be lost on it’s completion or a game over while exploring. 
+While exploring in Corridors, you may find a Karuta card table. By spending 1500 at these randomly generated locations, you will unlock an additional Karuta slot for the rest of that corridor's exploration and it will be lost on its completion or a game over while exploring. 
 
 The bonus karuta card gained is completely up to you to choose from and will bring up your menu of existing cards accordingly. While looking through your cards, the game is paused and so is the corridor timer. So take as long as you need!
 
@@ -547,7 +547,7 @@ The bonus karuta card gained is completely up to you to choose from and will bri
 
 
 
-Karuta are bought with Magatama, which you obtain 1 of per your explorations outside of the hub in corridors itself. You do not have to complete an exploration in full of a corridor or even finish a session to obtain this currency to spend. The moment you pick one up in a corridor, it is added to your inventory. 
+Karuta are bought with Magatama, which you obtain 1 of per your explorations outside of the hub in corridors itself. You do not have to complete exploration in full of a corridor or even finish a session to obtain this currency to spend. The moment you pick one up in a corridor, it is added to your inventory.
 
 To buy Karuta, talk to the barkeep and select the “Buy Karuta” option. 
 
@@ -555,9 +555,9 @@ To buy Karuta, talk to the barkeep and select the “Buy Karuta” option.
 *Figure 49: Image showing what happens when you select to buy more Karuta Cards. Image Taken By: Steven Grevera* 
 
 
-5 total options will be displayed at a single time and to refresh your options, you must spend a Magatama. When a Karuta card is bought, a new one is not added. 
+Five total options will be displayed at a single time and to refresh your options, you must spend a Magatama. When a Karuta card is bought, a new one is not added. 
 
-Any time the game is loaded or a corridor exploration ends and you load back into the hub world, your options offered will refresh free of charge. 
+Any time the game is loaded, or a corridor exploration ends and you load back into the hub world, your options offered will refresh free of charge.
 
  
 ## All Karuta Cards List, Effects and Price 
@@ -588,7 +588,7 @@ Any time the game is loaded or a corridor exploration ends and you load back int
 | Thunder Spear |	Begin a level with the Thunder Spear item. | Complete all stages on Deluge difficulty. | 
 | Arch | 	Begin a level with the Arch item. | 	Complete the special collaboration stage on Nintendo Switch. | 
 | Big Bag |	Increases max unique item inventory by 3.	| Obtained at the start of the game. | 
-| Two-wheel Vase | Increases passive items possible to be held at once by 1, allowing for 2 maximum. However, minuses number of unique item totals by 1. | 	Purchased for 5 magatama. | 
+| Two-wheel Vase | Increases passive items possible to be held at once by one, allowing for two maximum. However, decreases the number of unique item totals by 1. | 	Purchased for 5 magatama. | 
 | Good Storage | 	Increases the maximum number of the same item you can own by +1	| Purchased for 5 magatama. | 
 | Uchide's Mallet | 	When using a consumable item, there is a 10% chance that the item will not be consumed.	| 	Purchasedd for 4 magatama. | 
 | High Quality | The rate of passive item usage is halved. | 		Purchased for 4 magatama. | 
@@ -642,7 +642,7 @@ Any time the game is loaded or a corridor exploration ends and you load back int
 | Mental Care | The rate at which the insanity gauge fills is slowed down. | Purchased for 5 magatama | 
 | Trump Card | When this karuta is sealed, it stops time around you and grants you clairvoyance. | Purchased for 7 magatama. | 
 | Soul Ties | When the amount of corruption reaches its maximum, all corruption is purified and half of your health is restored. It only has an effect once per level. | Complete the story on “Intermediate”. Difficulty.  | 
-| Amaterasu | 	When your health reaches 0 or you touch an Apparition, your health will be fully restored and the Apparition will be cremated. It consumes 15 magatama, and if you don't have enough, it will have no effect. It only has an effect once level.	| Complete the story on “Advanced Difficulty”. | 
+| Amaterasu | When your health reaches zero, or you touch an Apparition, your health will be fully restored and the Apparition will be cremated. It consumes 15 Magatama , and if you don't have enough, it will have no effect. It only has an effect once per level. | Complete the story on “Advanced Difficulty”. | 
 | Body Language | You can now punch by left-clicking, and if you touch an Apparition they will die instantly but will also take damage. This card cannot be sealed. The results of clearing a stage will no longer be reflected. (Cheat Card) | Get all archives. | 
 | Awakening of The Stigma | The light of life (life points) will not decrease. This card cannot be sealed. The results of clearing a stage will no longer be reflected. (Cheat Card.) | 	Complete Marathon mode on “Intermediate” | 
 | Shura's Shackles | Your maximum health will be reduced to 1, and your stamina recovery speed will be greatly reduced. This card cannot be sealed. | 	Clear all stages with S rank. | 
@@ -657,11 +657,12 @@ Any time the game is loaded or a corridor exploration ends and you load back int
 
  
 
-Coffee provides smaller but helpful benefits to the player at a selection of 1 of each. Unlocking other coffee requires Coffee Bean Bags which can be found while exploring corridors. 
+Coffee provides smaller but helpful benefits to the player at a selection of 1 of each. Unlocking other coffee requires Coffee Bean Bags, which can be found while exploring corridors. 
 ![image](https://github.com/user-attachments/assets/0aa0e452-9bb7-49a1-9e6f-f747ce62d6b2)
 *Figure 52: Image showing a Coffee Bean collectible item bag out in a corridor. Image Taken By: Steven Grevera*
 
-Collecting a coffee bean bag while exploring corridors, regardless of if you complete it to it’s exit or get a “game over”, keeps the bean forever in your amount collected total. Each corridor can only have a set amount collected within it maximum, before they no longer count toward your grand total. This amount can be seen on the corridor level selection screen.
+Collecting a coffee bean bag while exploring corridors, regardless of whether you complete it to its exit or get a “game over,” keeps the bean forever in your total collected amount. Each corridor can only have a set amount collected within its maximum before it no longer counts toward your grand total. This amount can be seen on the corridor-level selection screen.
+
  ![image](https://github.com/user-attachments/assets/6b6f0c8a-6ab7-4490-b681-7593b0ba86c8)
 *Figure 53: Image showing the corridor selection and the coffee beans obtained and max in that corridor. Which is circled in red. Image Taken By: Steven Grevera*
 
@@ -670,7 +671,7 @@ To access the coffee menu, select the clipboard menu on the table from Figure 50
 ![image](https://github.com/user-attachments/assets/a75475a4-0645-43db-b5d7-9c75bdf4ec45)
 *Figure 54: Image showing the coffee menu options. Image Taken By: Steven Grevera* 
 
-Selecting an option will cause your character to drink some coffee as an animation and give you the coffee benefit that you selected. **Please note that as well that using a coffee item despite it’s numerical “cost” does not actually use any beans and is more so an unlock requirement, not a “cost”.**
+Selecting an option will cause your character to drink some coffee as an animation and give you the coffee benefit that you selected. **Please note that using a coffee item despite its numerical “cost” does not actually use any beans and is more of an unlock requirement, not a “cost.”**
 
 
  
@@ -695,17 +696,18 @@ Selecting an option will cause your character to drink some coffee as an animati
 
 # The Shadow Corridors (Generated Maze Levels)
  ![image](https://github.com/user-attachments/assets/68ab7140-2651-4700-99c3-4bbe72eff7ac)
-*Figure 55: Image showing the snail pool which is used to enter corridors as well as leave them through the story. Image Taken By: Steven Grevera*
+*Figure 55: Image showing the snail pool, which is used to enter corridors and leave them throughout the story. Image Taken By: Steven Grevera*
 
 To select a corridor to play through, open a door toward the back of the bar on your right and then walk up to a well with the stone carving of a snail’s face and eyes. 
 
-Look into the water section of this well and hit the interact button to access the list of corridors to choose from. 
+Look into the water section of this well and hit the interact button to access the list of corridors from which to choose from. 
 
-The moment your corridor is generated and loaded and you confirm you are ready with the destinated key, you will enter the corridor’s spawn point, which is usually fixed in it’s typing. It’s location within the larger level of the corridor however, is not fixed and could be near the exit, or far. A timer has also begun which keeps track of your time spent in the level. 
+The moment your corridor is generated and loaded and you confirm you are ready with the destinated key, you will enter the corridor’s spawn point, which is usually fixed in its typing. Its location within the larger level of the corridor, however, is not fixed and could be near the exit or far. A timer has also begun, which keeps track of the time you spend on the level. 
 
-To complete a corridor level, you must successfully collect 3 or 5 Magatama depending on your difficulty choice. Then, you must find the exit of the level to successfully complete the corridor. 
+To complete a corridor level, you must successfully collect three or five Magatama, depending on your difficulty choice. Then, you must find the exit of the level to successfully complete the corridor. 
 
 If you fail to exit the level and run out of lives, all of your progress in that generated level of the corridor will be lost and you will be returned to the hub, or you may retry. Depending on which you may rather do. 
+
 
 ## Corridors
  ![image](https://github.com/user-attachments/assets/18deddfe-d8f6-4ec4-ac10-04fb5e1cf76c)
