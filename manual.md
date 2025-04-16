@@ -1310,28 +1310,28 @@ Apparitions are not slowed by these, unlike the player, so if being chased by on
 ![image](https://github.com/user-attachments/assets/913f42cd-3c67-4a6e-93e1-fece1c3c545b)
 *Figure 158: Image of The Shopkeeper in a Corridor. Image Taken By: Steven Grevera*
 
-The Butterfly Shop is owned by The Shopkeeper: Hotaruya and has two means to get to it, which are mirrors which are randomly generated throughout the level of the corridor that your within. 
+The Butterfly Shop is owned by The Shopkeeper: Hotaruya and has two means to get to it, which are mirrors that are randomly generated throughout the level of the corridor that you’re within. 
 
-A good way to indicate that your are approaching a mirror entrance to the shop, is hearing the sound of a toybox’s music playing. This music indicates that you are approaching a mirror whether behind a locked door or located somewhere within the level. 
+A good way to indicate that you are approaching a mirror entrance to the shop is to hear the sound of a toy box’s music playing. This music indicates that you are approaching a mirror, whether behind a locked door or somewhere within the level.
 
  ![image](https://github.com/user-attachments/assets/ddd8ba2a-ae16-4b20-bc5f-ba1180b29905)
 *Figure 159: Image of The Cleansing flowers and other nit knacks that exist on a table presented to the player by the shopkeeper. Image Taken By: Steven Grevera*
 
-Upon interacting with the mirror, the player can then teleport into a Butterfly Shop Hub, which consists of the mirror you used to reach it’s location and another to another location somewhere else in the level. If you look into the mirror before teleporting back from the shop, you can usually see the state it’s in. If you see flashing lights, this is a good indication that apparitions are nearby and you may want to consider waiting to teleport to that area. 
+Upon interacting with the mirror, the player can then teleport into a Butterfly Shop Hub, which consists of the mirror you used to reach its location and another to another location somewhere else in the level. If you look into the mirror before teleporting back from the shop, you can usually see the state it’s in. If you see flashing lights, this is a good indication that apparitions are nearby and you may want to consider waiting to teleport to that area. 
 
  ![image](https://github.com/user-attachments/assets/b5a7d369-14df-42e6-b63d-175b17c136a9)
-*Figure 160: Image of a mirror which leads to the connecting points of The Butterfly Shop. Image Taken By: Steven Grevera*
+*Figure 160: Image of a mirror that leads to the connecting points of The Butterfly Shop. Image Taken By: Steven Grevera*
 
 
-The Shopkeeper sells items for souls that range from items, passives, a single buyable coffee bean bag for the collection or archives. The Shopkeepers stock of an item is not unlimited and in the case of the coffee bean and the archive collectible, these can only be bought once in your save file per corridor. Whereas other items refresh on returns to the corridor after you escape or obtain a “Game Over” and generate a new one. 
+The Shopkeeper sells items for souls that range from items, passives, a single buyable coffee bean bag for the collection or archives. The Shopkeeper’s stock of an item is not unlimited and in the case of the coffee bean and the archive collectible, these can only be bought once in your save file per corridor. Whereas other items refresh on returns to the corridor after you escape or obtain a “Game Over” and generate a new one. 
 
 
 ![image](https://github.com/user-attachments/assets/0bad8db0-e948-43fd-85d3-306f3c6a016e)
-*Figure 161: Image of the butterfly shop menu with it's item names, how much you own and the price of items at the shop. Image Taken By: Steven Grevera*
+*Figure 161: Image of the butterfly shop menu with its item names, how much you own and the price of items at the shop. Image Taken By: Steven Grevera*
 
  
 
-By spending a certain amount of souls, the shop keeper will reward you with special karuta items over time and these do not have to be spent all at once and serve as a tracking across your save file. 
+By spending a certain amount of souls, the shopkeeper will reward you with special karuta items over time, and these do not have to be spent all at once and serve as tracking across your saved file. 
 
 ![image](https://github.com/user-attachments/assets/fd54e4c1-8d0b-4ec0-8985-fd3523c1b785)
 *Figure 162: Image of a mirror back out of The Butterfly Shop that shows a corpse on the other side that has been claimed for it's souls. Image Taken By: Steven Grevera*
