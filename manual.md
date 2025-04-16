@@ -1680,7 +1680,7 @@ Magatama  Rooms are rooms in which you can find Magatama. These rooms are usuall
 ![image](https://git.com/user-attachments/assets/9755883d-c544-4449-84d5-c95a45997449)
 *Figure 200: Image of a Magatama behind a locked door. Image Taken By: Steven Grevera*
 
-These are standard locked rooms that have a Magatama to be picked up within. Picking up the Magatama will grant you it. 
+These are standard locked rooms that have a Magatama  to be picked up within. Picking up the Magatama  will grant you it. 
    
 
 
@@ -1689,21 +1689,21 @@ These are standard locked rooms that have a Magatama to be picked up within. Pic
 ![image](https://github.com/user-attachments/assets/cc36084c-7700-4a59-9220-c72134993f6c)
 *Figure 201: Image of a hole in a room lit up by Butterfly Lantern Green Lighting. Image Taken By: Steven Grevera*
  
-Hole Rooms are locked Magatama Rooms that require a key to unlock. A large hole is in the middle of them that you can fall into. By falling into the hole, you will take health damage similar to trapdoors but instead of being teleported to a location associated with the trapdoor, you will instead be teleported to an area below ground.
+Hole Rooms are locked Magatama  Rooms that require a key to unlock. A large hole is in the middle of them that you can fall into. By falling into the hole, you will suffer health damage similar to trapdoors, but instead of being teleported to a location associated with the trapdoor, you will be teleported to an area below ground.
 
 ![image](https://github.com/user-attachments/assets/bad6bf2c-27d5-408c-b573-5914ac53d8af)
 *Figure 202: Image of a mirror teleport that will lead outside of the hole now entered. Image Taken By: Steven Grevera*
 
-The Magatama will be on a small alter and behind in the opposite direction will be a mirror. This mirror will not work like The Butterfly Shop mirrors and will instead teleport you to a random location within the level itself. 
+The Magatama will be on a small altar, and behind it, in the opposite direction, will be a mirror. This mirror will not work like The Butterfly Shop mirrors and will instead teleport you to a random location within the level itself. 
  
 ![image](https://github.com/user-attachments/assets/296af7e0-a1c0-49ae-8eee-89e211d4e73c)
-*Figure 203: Image of a Magatama waiting on an altar in the hole room. Image Taken By: Steven Grevera* 
+*Figure 203: Image of a Magatama waiting on an altar in the hole room. Image Taken By: Steven Grevera*
 
 **Note: If you drop into the hole without 50 health, you will die and lose a life or be given a “Game Over”.**  
 
 ## Trap Room
 ![image](https://github.com/user-attachments/assets/43e7fbc7-7d02-476b-80fa-ffb018ee4b55)
-*Figure 204: Image of a Mayubo in it's cocoon attached to the Magatama. Image Taken By: Steven Grevera*
+*Figure 204: Image of a Mayubo in its cocoon attached to the Magatama. Image Taken By: Steven Grevera*
 
 
 Unlike most other Magatama Rooms, Trap Rooms are usually open unless on Deluge difficulty in some instances. You can tell a room is a trap room, based on a red line that will be attached to the Magatama like an umbilical cord. Once the Magatama is taken from this cord in the room, a baby monster apparition will be spawned and chase you down until you lose it or you die, costing you a life or a “Game Over” if you are out of them. These rooms are easy to access but at a very high reward. 
@@ -1714,9 +1714,9 @@ To see more about the entity spawned from this room, [click here](#anchor14)
 ![image](https://github.com/user-attachments/assets/c95d5611-5120-4798-9669-1778a39578ca)
 *Figure 205: Image of a Shion crying behind a door, guarding a Magatama. Image Taken By: Steven Grevera*
 
-In many instances, these rooms will be heard not found right away. The flicker of lights will begin as well as the distinct sound of crying. Usually, this indicates a Shion guarding these rooms and the Magatama which is within the room. These rooms can be locked but there are easy work arounds to this fact. 
+In many instances, these rooms will be heard, not found right away. The flicker of lights will begin, and so will the distinct sound of crying. Usually, this indicates a Shion guarding these rooms and the Magatama, which is within the room. These rooms can be locked but there are easy workarounds to this fact. 
 
-By throwing firecrackers, you can draw the slug creature away from the Magatama safely without any major risks. It can also result in the apparition breaking down a locked door and allowing you to safely enter inside. If you try to approach the Magatama without drawing the slug creature away, you will most likely enter up triggering it’s proximity, in which it will never stop chasing you until it has taken a life from you, or caused you to get a “Game Over”. Due to the fact this entity is attracted by footsteps and sounds, it’s sensitivity, dependent on the difficulty you are playing on. 
+By throwing firecrackers, you can draw the slug creature away from the Magatama safely without any major risks. It can also result in the apparition breaking down a locked door and allowing you to safely enter inside. If you try to approach the Magatama without drawing the slug creature away, you will most likely enter up, triggering its proximity, in which it will never stop chasing you until it has taken a life from you or caused you to get a “Game Over.” Due to the fact this entity is attracted by footsteps and sounds, its sensitivity is dependent on the difficulty you are playing on. 
 
 <a name="anchor13"></a>
  
