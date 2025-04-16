@@ -861,12 +861,12 @@ The second gimmick occurs at the standard rate of obtaining Magamata and, depend
 *Figure 86: Image showing how a woman's face and lower body appear to scream in The Mausoleum Corridor. Image Taken By: Steven Grevera*
 
  
-The final gimmick will appear like a generation bug in appearance, a sudden endless void drops at random points of the map will generate and if you fall down these, it is an instant death, resulting in a life lost or a game over if you are out of lives. 
+The final gimmick will appear like a generation bug in appearance: a sudden endless void drops at random points of the map, and if you fall down these, it is an instant death, resulting in a life lost or a game over if you are out of lives. 
 
-The Light Source item of this corridor is that of the small lanterns which are hanging from the ceilings. The soul farming object is a continuation of the vase item from Corridor of Endless Rain. 
+The Light Source item of this corridor is that of the small lanterns that are hanging from the ceilings. The soul-farming object is a continuation of the vase item from Corridor of Endless Rain. 
  
 ![image](https://github.com/user-attachments/assets/1b896016-d2af-4269-bbd6-68dc99c0432e)
-*Figure 87: Image showing the soul farming object in The Mausoleum Corridor. Image Taken By: Steven Grevera*
+*Figure 87: Image showing the soul-farming object in The Mausoleum Corridor. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/f7fadab8-7c78-424c-913c-60ad276bffe1)
 *Figure 88: Image showing the light source object in The Mausoleum Corridor. Image Taken By: Steven Grevera* 
@@ -876,7 +876,7 @@ The Light Source item of this corridor is that of the small lanterns which are h
  ![image](https://github.com/user-attachments/assets/7308654a-5bfd-4c2b-89eb-9b18186afaa9)
 *Figure 89: Image showing the entrance with guards guarding The Shrine. Lit up by a Butterfly Lantern's Light. Image Taken By: Steven Grevera*
 
-For those that thought the Mausoleum was disturbing, The Shrine takes things to the next level. The level always starts outside of the shrine, which you must open using a lever outside to open it up. Greeting you to the doll’s at the front entrance. 
+For those who thought the Mausoleum was disturbing, The Shrine takes things to the next level. The level always starts outside of the shrine, which you must open using a lever outside to open it up. Greeting you to the dolls at the front entrance.
 
 ![image](https://github.com/user-attachments/assets/0e636c8b-18f1-4bd7-9c86-f4169b3853f8)
 *Figure 90: Image showing the walls within The Shrine. Image Taken By: Steven Grevera*
@@ -886,32 +886,31 @@ For those that thought the Mausoleum was disturbing, The Shrine takes things to 
 *Figure 92: Image showing a connection point within The Shrine. Image Taken By: Steven Grevera*
  
  
-Throughout the map, are mechanical dolls that appear stationary. However, if you see one that has it’s lights flashing, do not enter it’s light, or else you will trigger an alarm and the Mechanical Doll will then become an Apparition that will chase you. Other then the Shion it is one of the fastest entities in the game and the hardest to escape. However, they operate entirely on visuals alone, meaning you can be about as loud as you want. Albeit, they are still effected by firecracker karuta to scare them away. 
+Throughout the map, are mechanical dolls that appear stationary. However, if you see one that has its lights flashing, do not enter its light, or else you will trigger an alarm and the Mechanical Doll will then become an Apparition that will chase you. Other than the Shion, it is one of the fastest entities in the game and the hardest to escape. However, they operate entirely on visuals alone, meaning you can be about as loud as you want. However, they are still affected by firecracker karuta, which scares them away. 
 
 ![image](https://github.com/user-attachments/assets/0b7912a5-c503-4e51-b417-630bf498db2e)
 *Figure 93: Image showing a Mechanical Doll's yellow glowing eyes waiting for someone to enter it's sight within The Shrine. Image Taken By: Steven Grevera* 
  
-The light source object of the map are small candles waiting for you to light and the soul farming object is a barrel that when interacted with will show a small green fire light, which grants souls. 
+The light source object of the map are small candles waiting for you to light and the soul farming object is a barrel that, when interacted with, will show a small green fire light, which grants souls. 
 
  ![image](https://github.com/user-attachments/assets/3b26ba4d-1790-4565-96e7-b86110ed6b4e)
  *Figure 94: Image showing the Light Source within The Shrine. Image Taken By: Steven Grevera*
  
 ![image](https://github.com/user-attachments/assets/11e7f60b-b4c8-43ca-97ed-4e322aaebfc7)
-*Figure 95: Image showing the soul farming object within The Shrine. Image Taken By: Steven Grevera*
+*Figure 95: Image showing the soul-farming object within The Shrine. Image Taken By: Steven Grevera*
 
-The Gimmick of this map is that depending on your difficulty, when you obtain a certain amount of magatama you will hear loud activating and rolling sounds throughout the shrine. This will not effect the entire shrine but it will effect a large area around where the gimmick was triggered, causing all the mechanical dolls in a large radius to activate and begin to patrol the level as a hostile Apparition that isn’t detectable by heartbeat warnings, only the rolling/grating sound it makes as it travels along. 
+The Gimmick of this map is that depending on your difficulty when you obtain a certain amount of Magatama, you will hear loud activating and rolling sounds throughout the shrine. This will not affect the entire shrine but it will affect a large area around where the gimmick was triggered, causing all the mechanical dolls in a large radius to activate and begin to patrol the level as a hostile Apparition that isn’t detectable by heartbeat warnings, only the rolling/grating sound it makes as it travels along. 
 
-
-On Advanced and Deluge, this level becomes extremely hard as Doll’s will be activated in a large amount with every single Magatama picked up. It is best to go into this level as such with a load out focused on stunning and scaring away Apparitions, as avoiding them all by means of stealth is near impossible and extremely time consuming. 
+On Advanced and Deluge, this level becomes extremely hard as Dolls will be activated in a large amount with every single Magatama picked up. It is best to go into this level with a load-out focused on stunning and scaring away Apparitions, as avoiding them all by means of stealth is nearly impossible and extremely time-consuming.
 
 ![image](https://github.com/user-attachments/assets/24e39119-b602-45b4-8c07-0c97ec0def63)
-*Figure 96: Image showing a large pole situated in the middle of a room within paper talismans all over the ceiling within The Shrine. Image Taken By: Steven Grevera*
+*Figure 96: Image showing a large pole situated in the middle of a room with paper talismans all over the ceiling within The Shrine. Image Taken By: Steven Grevera*
 
 ### Missing Windhole 
  ![image](https://github.com/user-attachments/assets/befc5e54-e032-47b6-85ec-15f5c575016a)
 *Figure 97: Image showing the large gate entrance to The Missing Windhole Corridor. Image Taken By: Steven Grevera*
 
-The Missing Windhole corridor is unique as it is entirely a boss corridor. Your sole objective in this corridor is to defeat the pursuing boss Apparition by draining it’s health bar using barrels scattered across the level, which is not procedurally generated and is in fact predetermined to be exactly the same, in fact, even ending at some point if the encounter drags on for too long and you don’t die a single time. Requiring you to use a mirror to return to the start. 
+The Missing Windhole corridor is unique as it is entirely a boss corridor. Your sole objective in this corridor is to defeat the pursuing boss Apparition by draining its health bar using barrels scattered across the level, which is not procedurally generated and is, in fact, predetermined to be exactly the same, in fact, even ending at some point if the encounter drags on for too long and you don’t die a single time. Requiring you to use a mirror to return to the start. 
 
  ![image](https://github.com/user-attachments/assets/e0b6d9f6-32bb-4a32-b9d1-ac6764ceee46)
  *Figure 98: Image showing another gate while being pursued by the boss in The Missing Windhole Corridor. Image Taken By: Steven Grevera*
@@ -919,30 +918,30 @@ The Missing Windhole corridor is unique as it is entirely a boss corridor. Your 
 ![image](https://github.com/user-attachments/assets/8a5c5bc2-af81-4725-848a-24688477ff1e)
 *Figure 99: Image showing a pulley lever that must be used to open the gate while being pursued by the boss in The Missing Windhole Corridor. Image Taken By: Steven Grevera* 
  
-The corridor continues until the boss is defeated, in which you are then treated to a triggered cutscene and allows you to then exit the corridor. The corridor is not majorly generated but is to an extent, providing a large amount of fixed aspects but with some variance per playthrough of a variety of room types you can and will encounter.
+The corridor continues until the boss is defeated, in which you are then treated to a triggered cutscene, which allows you to exit the corridor. The corridor is not majorly generated but is to an extent, providing a large amount of fixed aspects but with some variance per playthrough of a variety of room types you can and will encounter.
 
  ![image](https://github.com/user-attachments/assets/c14a2594-e5fd-4eed-9ebc-4c256c08f378)
 *Figure 100: Image showing the boss once you spawn into The Missing Windhole Corridor. Image Taken By: Steven Grevera*
 
  
  ![image](https://github.com/user-attachments/assets/e4e0444f-2747-46be-a097-c84c38c4f687)
-*Figure 101: Image showing the cave like section of The Missing Windhole Corridor. Image Taken By: Steven Grevera*
+*Figure 101: Image showing the cave-like section of The Missing Windhole Corridor. Image Taken By: Steven Grevera*
 
  
  ![image](https://github.com/user-attachments/assets/09ca38f7-a732-4d4e-bf56-38d872565e74)
-*Figure 102: Image showing the cave like section of The Missing Windhole Corridor's dead end portion. Image Taken By: Steven Grevera* 
+*Figure 102: Image showing the cave-like section of The Missing Windhole Corridor's dead-end portion. Image Taken By: Steven Grevera*
 
  
 ![image](https://github.com/user-attachments/assets/9011889e-c18c-41e1-b9fd-cc3fb4fa64ca)
-*Figure 103: Image showing barrels that must be shot with the boss in proximity to deal damage to it in The Missing Windhole Corridor's dead end portion. Image Taken By: Steven Grevera* 
+*Figure 103: Image showing barrels that must be shot with the boss in proximity to deal damage to it in The Missing Windhole Corridor's dead-end portion. Image Taken By: Steven Grevera*
  
  
  ![image](https://github.com/user-attachments/assets/d82129a1-e9e3-433d-8b51-42323b78409e)
-*Figure 104: Image showing a barrel that has exploded after being shot with the boss in proximity to deal damage to it in The Missing Windhole Corridor's dead end portion. Image Taken By: Steven Grevera*
+*Figure 104: Image showing a barrel that has exploded after being shot with the boss in proximity to deal damage to it in The Missing Windhole Corridor's dead-end portion. Image Taken By: Steven Grevera*
 
  
  ![image](https://github.com/user-attachments/assets/b031e074-1e93-4f3d-8b7d-21d5d29301e1)
-*Figure 105: Image showing a dark cave section that can generate in The Missing Windhole Corridor's dead end portion. Image Taken By: Steven Grevera*
+*Figure 105: Image showing a dark cave section that can generate in The Missing Windhole Corridor's dead-end portion. Image Taken By: Steven Grevera*
 
  ![image](https://github.com/user-attachments/assets/fca1c123-ce25-4409-a3e5-21c1c98fddd6)
 *Figure 106: Image showing an underground walkway/bridge section as the boss pursues the player. Image Taken By: Steven Grevera*
@@ -957,16 +956,16 @@ The corridor continues until the boss is defeated, in which you are then treated
 *Figure 109: Image showing a door blocking your path that requires a key to advance in The Missing Windhole Corridor Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/88a9a2b8-622f-4e40-9300-910fcc479af8)
-*Figure 110: Image showing a lower section of a spiraling cave pathway. in The Missing Windhole Corridor Image Taken By: Steven Grevera*
+*Figure 110: Image showing a lower section of a spiraling cave pathway. In The Missing Windhole Corridor Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/266a458d-1e47-4373-8564-529af98ea069)
-*Figure 111: Image showing the bosses defeat in The Missing Windhole Corridor Image Taken By: Steven Grevera*
+*Figure 111: Image showing the boss's defeat in The Missing Windhole Corridor Image Taken By: Steven Grevera*
 
 #### Deluge Eyes Only: 
 ![image](https://github.com/user-attachments/assets/789368c9-e435-4086-a97e-5abbb761e0b1)
 *Figure 112: Image showing the bosses return exclusively in The Missing Windhole Corridor on deluge Image Taken By: Steven Grevera*
 
-On deluge, the boss returns after being defeated in a new form and must be defeated yet again for a “Phase 2”. Which consists of everything being the same as “Phase 1”, only now your on a more crunched timer due to the corruption buildup constantly draining your health. 
+On deluge, the boss returns after being defeated in a new form and must be defeated yet again for a “Phase 2”. This consists of everything being the same as “Phase 1”, only now you're on a more crunched timer due to the corruption buildup constantly draining your health. 
 
 ![image](https://github.com/user-attachments/assets/5935090d-36a3-4f6e-81bf-47febd895b6a)
 *Figure 113: Image showing how dark it can get in The Missing Windhole Corridor on deluge Image Taken By: Steven Grevera*
@@ -982,7 +981,7 @@ Once the boss is defeated, they will drop an object for you to pick up on this l
  ![image](https://github.com/user-attachments/assets/f5319cd4-aedb-4de8-ad84-601b2f9e77d7)
 *Figure 115: Image showing the starting room on the Glass Building Corridor. Image Taken By: Steven Grevera*
 
-The light source of this level are Japanese Lamps which hang on the ceiling and are extremely fancy and also some on the ground like from Corridor of Endless Rain. The means to obtain souls is through a music box usually situated on top of dressers. 
+The light source of this level are Japanese Lamps, which hang on the ceiling and are extremely fancy and also some on the ground like from Corridor of Endless Rain. The means to obtain souls is through a music box usually situated on top of dressers.
  
  ![image](https://github.com/user-attachments/assets/6f768f9c-dbba-4925-b526-2882d3b9e84a)
 *Figure 116: Image showing an outside section of the Glass Building Corridor. Image Taken By: Steven Grevera*
@@ -993,8 +992,7 @@ The light source of this level are Japanese Lamps which hang on the ceiling and 
 ![image](https://github.com/user-attachments/assets/24a898a4-1029-48b9-a129-09549f693fac)
 *Figure 118: Image showing the Soul Farming Object of the Glass Building Corridor. Image Taken By: Steven Grevera*
 
- 
-The Gimmick of the map is that upon obtaining the required number of Magatama dependent on your difficulty level, red crystals will shoot out all around where you took the Magatama from and spread out in a wide radius. Walking normally or running on them will cause 1 point of damage for each step and give the impression and sound of walking on glass. However, to avoid taking damage, you can crouch walk carefully which can take up a large amount of time, or with the Feather of Darkness Passive Item or Karuta card. 
+The Gimmick of the map is that upon obtaining the required number of Magatama, dependent on your difficulty level, red crystals will shoot out all around where you took the Magatama from and spread out in a wide radius. Walking normally or running on them will cause 1 point of damage for each step and give the impression and sound of walking on glass. However, to avoid taking damage, you can crouch walk carefully, which can take up a large amount of time, or with the Feather of Darkness Passive Item or Karuta card. 
  
 ![image](https://github.com/user-attachments/assets/f288acfa-65b6-46ed-81dc-0f52c577d3aa)
 *Figure 119: Image showing The Gimmick of the Glass Building Corridor. Image Taken By: Steven Grevera*
@@ -1003,13 +1001,13 @@ The Gimmick of the map is that upon obtaining the required number of Magatama de
 *Figure 120: Image showing The Gimmick's boundary ending of the Glass Building Corridor. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/e287f8a6-bc94-4ed6-a3dc-22e7db359036)
-*Figure 121: Image showing a hiding place in  the Glass Building Corridor. Image Taken By: Steven Grevera*
+*Figure 121: Image showing a hiding place in the Glass Building Corridor. Image Taken By: Steven Grevera*
 
 ### Sea of Trees Complex
 ![image](https://github.com/user-attachments/assets/bf38f273-7add-45db-97b2-790a0d4d4934)
 *Figure 122: Image showing the spawn location in The Sea of Trees Complex. Image Taken By: Steven Grevera*
 
-The Sea of Tree’s Complex is a mostly outdoor corridor with sections also inside of abandoned and dilapidated buildings which are usually blocked off with pot traps, that upon touching, will explode with corruption smoke as well as do damage to the player. 
+The Sea of Trees Complex is a mostly outdoor corridor with sections inside abandoned and dilapidated buildings, which are usually blocked off with pot traps that, upon touching, will explode with corruption smoke and damage the player. 
  
  ![image](https://github.com/user-attachments/assets/49107570-4147-46c4-8e50-a64f419f0b47)
 *Figure 123: Image showing a trap in The Sea of Trees Complex. Image Taken By: Steven Grevera*
@@ -1017,48 +1015,48 @@ The Sea of Tree’s Complex is a mostly outdoor corridor with sections also insi
  ![image](https://github.com/user-attachments/assets/9b0b8623-72b9-4ca7-be89-26d536364ecc)
 *Figure 124: Image showing a large open section between a series of buildings in The Sea of Trees Complex. Image Taken By: Steven Grevera* 
  
-The gimmick of the map is fairly simple but extremely hard to deal with, in that with the corresponding Magatama obtained, the mushrooms all over the walls across the corridor will glow in a wide radius and emit particle spores. These spores will stop stamina regeneration entirely at the higher levels and decrease it at the lower levels. It will also make compasses spin unendingly and without any control. Making them useless. Dolls however, will still function if bought by the player. 
+The gimmick of the map is fairly simple but extremely hard to deal with in that with the corresponding Magatama obtained, the mushrooms all over the walls across the corridor will glow in a wide radius and emit particle spores. These spores will stop stamina regeneration entirely at the higher levels and decrease it at the lower levels. It will also make compasses spin unendingly and without any control. Making them useless. Dolls, however, will still function if the player buys them. 
 
 ![image](https://github.com/user-attachments/assets/2dee5104-2453-42dc-8387-5a60157109fe)
 *Figure 125: Image showing the map gimmick of the walls starting to glow in the darkness part 1 in The Sea of Trees Complex. Image Taken By: Steven Grevera* 
 
-Any stamina regeneration passive item, coffee effect or consumable item, will bypass this inability to regenerate stamina. Making them mandatory items. Of course, be mindful that the stamina regen will be extremely slow if you only use one of the many options at your disposal. Meaning this level can drag on at the higher difficulties.
+Any stamina regeneration passive item, coffee effect, or consumable item will bypass this inability to regenerate stamina. Making them mandatory items. Of course, be mindful that the stamina regen will be extremely slow if you only use one of the many options at your disposal. Meaning this level can drag on at higher difficulties.
 
  ![image](https://github.com/user-attachments/assets/8c190269-6ea6-42db-b470-248bc2fede54)
-*Figure 126: Image showing the map gimmick of the walls starting to glow in the darkness part 2 in The Sea of Trees Complex. Image Taken By: Steven Grevera*
+*Figure 126: Image showing the map gimmick of the walls starting to glow in the darkness, part 2 in The Sea of Trees Complex. Image Taken By: Steven Grevera*
 
 
-As the level is largely outdoors, rain is all outside, causing large amounts of corruption building. Worse, large bodies of swamps separate sections of the corridor at some location and pests are in large amounts and call this place home. 
+As the level is largely outdoors, rain is all outside, causing large amounts of corruption building. Worse, large bodies of swamps separate sections of the corridor at some locations and pests are in large amounts and call this place home. 
  
 ![image](https://github.com/user-attachments/assets/685044f8-97dd-491c-b6f7-65d4be8ed6f3)
-*Figure 127: Image an opening inside of one of the apartment style looking buildings in The Sea of Trees Complex. Image Taken By: Steven Grevera*
+*Figure 127: Image an opening inside of one of the apartment-style buildings in The Sea of Trees Complex. Image Taken By: Steven Grevera*
 
  ![image](https://github.com/user-attachments/assets/13f0e98a-b067-4e15-9151-bef230aff4ce)
 *Figure 128: Image of a swamp outside in The Sea of Trees Complex. Image Taken By: Steven Grevera* 
 
-As much of the level is outdoors, item spawn rates are not common as they require desks, which also serve as the means of gathering souls as well, other then the usual skeletons that you should utilize heavily in this corridor. 
+As much of the level is outdoors, item spawn rates are not common as they require desks, which also serve as the means of gathering souls, other than the usual skeletons that you should utilize heavily in this corridor. 
 
-The light source of this map is a large mushroom style lamp that starts turned off that you yourself must turn on. The Farming Soul Item is the Underworld Academy’s desk that returns for this level. 
+The light source of this map is a large mushroom-style lamp that starts turned off that you yourself must turn on. The Farming Soul Item is the Underworld Academy’s desk that returns for this level.
  
 ![image](https://github.com/user-attachments/assets/62134d5a-313b-4679-94b7-46eeca554c24)
 *Figure 129: Image of a mushroom light source in The Sea of Trees Complex. Image Taken By: Steven Grevera*
 
 ### Sea of Reminiscence 
 ![image](https://github.com/user-attachments/assets/4d8a4699-c7db-4226-87af-a8e7c91e8939)
-*Figure 130: Image of sprawling large towering hands bound in chains in the dark ocean that is this Corridor. The Sea of Reminiscence. Image Taken By: Steven Grevera*
+*Figure 130: Image of sprawling large, towering hands bound in chains in the dark ocean that is this Corridor. The Sea of Reminiscence. Image Taken By: Steven Grevera*
 
-The Sea of Reminiscence is a corruption stronghold, the entire level is underwater and as a result every second counts. The level is very reminiscent of the beginning of the story, the main characters apartment, yet it spirals and sprawls endlessly with no way down and hands reaching up for the sky in vein under the imposing darkness of this endless sea.
+The Sea of Reminiscence is a stronghold of corruption; the entire level is underwater, and as a result, every second counts. The level is very reminiscent of the beginning of the story, the main character's apartment, yet it spirals and sprawls endlessly with no way down and hands reaching up for the sky in vain under the imposing darkness of this endless sea.
 
 ![image](https://github.com/user-attachments/assets/36bab993-8e36-4a04-b839-2ebb908750e5)
 *Figure 131: Image of a stairway of an apartment that leads up or down in The Sea of Reminiscence. Image Taken By: Steven Grevera*
 
  ![image](https://github.com/user-attachments/assets/b1ba0a02-d935-4e60-9ccb-b3b7218aeabe)
-*Figure 132: Image of a chain blocking off the player continued movement in that direction on a stairway in The Sea of Reminiscence. Image Taken By: Steven Grevera*
+*Figure 132: Image of a chain blocking off the player's continued movement in that direction on a stairway in The Sea of Reminiscence. Image Taken By: Steven Grevera*
  
-Dark tendrils are scattered throughout the map that have no effect on the player itself but will give you a freight for sure. The light source is a blue lamp that can be turned on. The farming item are mirrors that when interacted with will break and grant souls.  
+Dark tendrils are scattered throughout the map that have no effect on the player itself but will give you a freight for sure. The light source is a blue lamp that can be turned on. The farming items are mirrors that, when interacted with, will break and grant souls.  
 
  ![image](https://github.com/user-attachments/assets/c4369df1-5854-4626-a4fb-761e11b6edde)
-*Figure 133: Image of ink textured like chains that have smoke and shadows coming off them and going up into the very water that we currently breathe. in The Sea of Reminiscence. Image Taken By: Steven Grevera*
+*Figure 133: Image of ink-textured-like chains that have smoke and shadows coming off them and going up into the very water that we currently breathe. In The Sea of Reminiscence. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/f242326b-63bf-4543-bdaa-82c80a6fd5cd)
 *Figure 134: Image of the light source in The Sea of Reminiscence. Image Taken By: Steven Grevera*
@@ -1071,11 +1069,11 @@ Dark tendrils are scattered throughout the map that have no effect on the player
 
  
 ![image](https://github.com/user-attachments/assets/90408b9d-e564-4c02-897f-2df576b73917)
-*Figure 137: Image of a dark closed and indoors walkway section with glass windows at the sides that can't be opened due to chains in The Sea of Reminiscence. Image Taken By: Steven Grevera*
+*Figure 137: Image of a dark, closed and indoor walkway section with glass windows at the sides that can't be opened due to chains in The Sea of Reminiscence. Image Taken By: Steven Grevera*
 
  
  
-The gimmick of the corridor involves the spawning of a special Apparition, that entity being “The Trauma”, which is without a doubt the hardest Apparition in the game to deal with. It will announce itself loudly with a unique shrieking wail sound, yet it doesn’t matter as the panic will quickly set in as you realize, you cannot hide from this Apparition. Wherever you go, however far you try and escape, it will know where you are and will pursue you with unlimited stamina, compared to your limited amounts. The only way to deal with the trauma is to stun it via the ‘26 Revolver Pistol or sacrifice a candle of life (life point) to cremate it, which will permanently remove it from the level for that single one. 
+The gimmick of the corridor involves the spawning of a special Apparition, that entity being “The Trauma,” which is without a doubt the hardest Apparition in the game to deal with. It will announce itself loudly with a unique shrieking wail sound, yet it doesn’t matter as the panic will quickly set in as you realize you cannot hide from this Apparition. Wherever you go, however far you try and escape, it will know where you are and will pursue you with unlimited stamina, compared to your limited amounts. The only way to deal with the trauma is to stun it via the ‘26 Revolver Pistol or sacrifice a candle of life (life point) to cremate it, which will permanently remove it from the level for that single one. 
 
 ![image](https://github.com/user-attachments/assets/4fa060ea-2216-4424-b28f-2b0b9b6ed069)
 *Figure 138: Image of The Trauma's spawn warning in The Sea of Reminiscence. Image Taken By: Steven Grevera*
@@ -1084,16 +1082,16 @@ The gimmick of the corridor involves the spawning of a special Apparition, that 
 *Figure 139: Image of The Trauma's chasing after the player in The Sea of Reminiscence. Image Taken By: Steven Grevera*
 
  
-It is highly advised not to trap a Trauma in a barrier, as doing so will result in it multiplying on Deluge difficulty and it’s best to get in a habit of not having to barrier it to deal with it now, as to not make the mistake later down the line.
+It is highly advised not to trap a Trauma in a barrier, as doing so will result in it multiplying on Deluge difficulty and it’s best to get in the habit of not having to barrier it to deal with it now, as to not make the mistake later down the line.
   
 ![image](https://github.com/user-attachments/assets/0601f7b2-1759-4af5-94ad-0f8cd36e50ba)
-*Figure 140: Image of The Trauma's chasing after the player in black and white and up close in The Sea of Reminiscence. Image Taken By: Steven Grevera*
+*Figure 140: Image of The Trauma chasing after the player in black and white and up close in The Sea of Reminiscence. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/d30e3de5-0afe-4c76-957d-3624ff9cfc91)
- *Figure 141: Image of the greater sea and it's darkness when you use a Star Hourglass item in The Sea of Reminiscence. Image Taken By: Steven Grevera*
+*Figure 141: Image of the greater sea and its darkness when you use a Star Hourglass item in The Sea of Reminiscence. Image Taken By: Steven Grevera*
  
 ![image](https://github.com/user-attachments/assets/bbe4a168-575b-4ee5-be8d-dde92e32a6bd)
-*Figure 142: Image of how large sections outside the map disappear when you use a Star Hourglass item in The Sea of Reminiscence Turning it into darkness. Image Taken By: Steven Grevera*
+*Figure 142: Image of how large sections outside the map disappear when you use a Star Hourglass item in The Sea of Reminiscence, Turning it into darkness. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/cbd425ec-caab-4dc9-b436-eb2e2fa56479)
 *Figure 143: Image of the light above, which is only visible in The Sea of Reminiscence's exit of the corridor. Image Taken By: Steven Grevera* 
@@ -1101,9 +1099,9 @@ It is highly advised not to trap a Trauma in a barrier, as doing so will result 
 
 ## Difficulty 
 ![image](https://github.com/user-attachments/assets/99c1fae0-da0e-47cb-9438-977709c063bc)
-*Figure 144: Image of the different diffculty levels you can chose after you've selected a corridor. Image Taken By: Steven Grevera*
+*Figure 144: Image of the different difficulty levels you can choose after you've selected a corridor. Image Taken By: Steven Grevera*
 
-Shadow Corridor 2’s difficulty levels are fairly straightforward and pretty well kept to their names. However, much of what is changed isn’t clear until you play the game at higher levels and by then, you may have forgotten how you started. If you are new to the Shadow Corridor franchise, or maze style games in general, you should certainly pick Beginner. 
+Shadow Corridor 2’s difficulty levels are fairly straightforward and pretty well kept to their names. However, much of what has changed isn’t clear until you play the game at higher levels, and by then, you may have forgotten how you started. If you are new to the Shadow Corridor franchise or maze-style games in general, you should certainly pick Beginner.
  
 ### Beginner 
 
@@ -1220,16 +1218,16 @@ Shadow Corridor 2’s difficulty levels are fairly straightforward and pretty we
 ![image](https://github.com/user-attachments/assets/4424af56-4490-4af2-b8fd-793ba5d2aec6)
 *Figure 145: Image of an example of a light source in Shadow Corridor 2. Image Taken By: Steven Grevera*
 
-Across your designated corridor’s level, you might find various forms of interactable light sources. Turning these one will mark the area as explored by you and provide you with higher visibility in the area. However, what provides you with better visibility, may also provide the apparitions with higher visibility as well depending on the corridor 2. So keep this in my when deciding which lights to turn on.
+Across your designated corridor’s level, you might find various forms of interactable light sources. Turning these on will mark the area you explored and provide you with higher visibility in the area. However, what provides you with better visibility may also provide the apparitions with higher visibility as well depending on the corridor 2. So keep this in mind when deciding which lights to turn on.
 
 ## Trapdoors 
 ![image](https://github.com/user-attachments/assets/a748c8e3-c6ce-4b18-93ec-fca64d4b2758)
 *Figure 146: Image of a trap door that hasn't been stepped on yet. Image Taken By: Steven Grevera*
 
-Trapdoors will spawn in the ground in rare occasions which lead to linked locations. If you walk over one twice, you will fall through. However, if you walk over it once while being pursued by an Apparition, the Apparition that walks over it will fall through the trapdoor, saving you from the chase. If you fall through yourself, you will be teleported to the corresponding location connected with the trapdoor around the corridor which is randomly generated. However, an Apparition that falls through will simply despawn. 
+Trapdoors will spawn in the ground on rare occasions, leading to linked locations. If you walk over one twice, you will fall through. However, if you walk over it once while being pursued by an Apparition, the Apparition that walks over it will fall through the trapdoor, saving you from the chase. If you fall through yourself, you will be teleported to the corresponding location connected with the trapdoor around the corridor, which is randomly generated. However, an Apparition that falls through will simply despawn.
 
 ![image](https://github.com/user-attachments/assets/28b9b655-317a-4a50-be55-d918cf8d4d12)
-*Figure 147: Image of where I trap door would lead if you fell through the one on the floor. Image Taken By: Steven Grevera*
+*Figure 147: Image of where a trap door would lead if you fell through the one on the floor. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/25784aff-09eb-496d-8de8-2bd090d6f3a0)
 *Figure 148: Image of a trap door that has been damaged once due to being stepped on once. A second step on it will cause it to break. Image Taken By: Steven Grevera*
@@ -1251,9 +1249,9 @@ Across the levels you explore amongst the corridors, you will encounter special 
  ![image](https://github.com/user-attachments/assets/d5025287-bf18-41bd-a384-09f786c455db)
 *Figure 149: Image of the section where you would buy the candle for an extra life. Image Taken By: Steven Grevera*
 
-These exist as two different parts, a section which contains a buyable candle for 1500 souls. (3000 in Marathon.) 
+These exist in two different parts, one of which contains a buyable candle for 1500 souls. (3000 in Marathon.) 
 
-Then the second part is the actual shrine in which you place the candle. In placing the candle, you will obtain a new life if you had a candle extinguished.
+The second part is the actual shrine in which you place the candle. When placing the candle, you will obtain a new life if you have a candle extinguished.
 
 ![image](https://github.com/user-attachments/assets/62eac86d-db78-4035-9c53-2c3f30cdf0c5)
 *Figure 150: Image of where you would drop off the candle to obtain another Candle Light (Life Point). Image Taken By: Steven Grevera*
@@ -1266,11 +1264,12 @@ Then the second part is the actual shrine in which you place the candle. In plac
  ![image](https://github.com/user-attachments/assets/d8041a79-249f-4e49-b35d-2944a3b18c0b)
 *Figure 151: Image of a Doll on a table in a dark room, waiting to be bought for 1500 souls. Image Taken By: Steven Grevera*
 
-For the price of 1500 souls, you can buy this Doll, which will spawn onto the ground nearby. The doll will then upon being interacted with, wind up and will start to head in the direction of the levels exist. Serving as a guide to the exit for you. 
+For the price of 1500 souls, you can buy this Doll, which will spawn on the ground nearby. The doll will then, upon being interacted with, wind up and will start to head in the direction of the level's exit. Serving as a guide to the exit for you. 
 
 While you are within a certain range of the doll, due to the flower in which it is holding, you will be cleansed of all corruption buildup, allowing it to be used as a mobile safe hub from corruption all the way to the exit. 
 
-For 800 souls instead, you can use one of your karuta card slots to spawn this same doll anywhere by inputting a button combination. This can also help with corruption if you are near full corruption build up. You must select this card at the start of the game or as an extra slotted card if you can find the table. 
+For 800 souls instead, you can use one of your karuta card slots to spawn this same doll anywhere by inputting a button combination. This can also help with corruption if you are near full corruption build-up. You must select this card at the start of the game or as an extra slotted card if you can find the table.
+
 ![image](https://github.com/user-attachments/assets/2c32ba30-2ec3-42e1-abd6-71b78686ffce)
 *Figure 152: Image of a Doll that has been spawned and is leading the way toward the exit with the light on. Image Taken By: Steven Grevera*
 
@@ -1285,9 +1284,10 @@ For 800 souls instead, you can use one of your karuta card slots to spawn this s
  ![image](https://github.com/user-attachments/assets/b0ecb10c-5456-46ae-a638-2f6625a038be)
 *Figure 154: Image of a Well that you can spend 1000 souls in to obtain 30 extra health in a Corridor. With the clairvoyance item in use for the visual effect.  Image Taken By: Steven Grevera*
 
-For the price of 1000 souls, upon finding this well in a room, you can add 30 additional maximum health to your character for the duration of that level’s journey permanently. This effect persists even through death but does not persist beyond an exit/completion of a level, or a “Game Over”. 
+For the price of 1000 souls, upon finding this well in a room, you can add 30 additional maximum health to your character for the duration of that level’s journey permanently. This effect persists even through death but does not persist beyond an exit/completion of a level or a “Game Over.” 
+
 ![image](https://github.com/user-attachments/assets/87662bfb-61b9-45a8-8433-3665f3251b0e)
-*Figure 155: Image of the players maximum health increased and restoring to full after spending 1000 souls at the well in clairvoyance vision still. Image Taken By: Steven Grevera*
+*Figure 155: Image of the player's maximum health increased and restoring it to full after spending 1000 souls at the well in clairvoyance vision still. Image Taken By: Steven Grevera*
 
  
  
@@ -1297,13 +1297,12 @@ For the price of 1000 souls, upon finding this well in a room, you can add 30 ad
  ![image](https://github.com/user-attachments/assets/96682f1d-1be4-4a6d-98df-ccfa9afbe49f)
  *Figure 156: Image of a Swamp that has spawned in The Shrine in Butterfly Lantern Light. Image Taken By: Steven Grevera*
  
-Swamps don’t spawn on every corridor unless it is at the higher difficulties for the “Swamp Trap” Magatama rooms. The swamps when walked in will slow down the player’s movement drastically and also build up corruption at a fast rate. Traversing these could be extremely dangerous as a result. 
+Swamps don’t spawn on every corridor unless it is at the higher difficulties for the “Swamp Trap” Magatama rooms. The swamps, when walked in, will slow down the player’s movement drastically and also build up corruption at a fast rate. Traversing these could be extremely dangerous as a result. 
 
-Apparitions are not slowed by these unlike the player so if being chased by one, factor this into your decision making when choosing to traverse one. 
+Apparitions are not slowed by these, unlike the player, so if being chased by one, factor this into your decision-making when choosing to traverse one.
 
 ![image](https://github.com/user-attachments/assets/83ff8382-9316-4d19-aabc-28161321ca55)
-*Figure 157: Image of a Swamp that has spawned in The Sea of Tree's Complex Corridor. Image Taken By: Steven Grevera*
-
+*Figure 157: Image of a Swamp that has spawned in The Sea of Trees Complex Corridor. Image Taken By: Steven Grevera*
    
 <a name="anchor8"></a>
 
