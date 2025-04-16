@@ -713,11 +713,13 @@ If you fail to exit the level and run out of lives, all of your progress in that
  ![image](https://github.com/user-attachments/assets/18deddfe-d8f6-4ec4-ac10-04fb5e1cf76c)
 *Figure 56: Image showing the different corridors to choose from after the snail pool level selection is accessed. Image Taken By: Steven Grevera*
 
-Select one of the levels at this screen to be taken to the corridor you wish to play a level of. Below, are a series of options and what is unique to each of them. 
+Select one of the levels on this screen to be taken to the corridor in which you wish to play a level. 
 
-Each map has a gimmick that will trigger depending on the situation. For Beginner and Intermediate for example, it will occur on the 3rd Magamata obtained, the on intermediate, it will occur on the 5th as well. On advanced however, it will occur with every Magamata picked up except for Sea of Reminiscence which will only have the gimmick occur on the 3rd and 5th pick ups. 
+Each map has a gimmick that will trigger depending on the situation. For Beginner and Intermediate, for example, it will occur on the 3rd Magamata obtained, the for intermediate, it will occur on the 5th as well. On advanced, however, it will occur with every Magamata picked up except for Sea of Reminiscence, which will only have the gimmick occur on the 3rd and 5th pick ups. 
 
 When exploring, you might find areas rarely that have rain coming through the ceiling. The amount of these that can spawn increases based on the difficulty you choose to play the corridor on. 
+
+Below are a series of options and what is unique to each of them.
 
 ![image](https://github.com/user-attachments/assets/9e021020-d1c9-4696-9a6c-627cda3e1151)
 *Figure 57: Image showing the dark and wet ceiling effect that occurs in raining hallways. Image Taken By: Steven Grevera*
