@@ -1725,10 +1725,10 @@ By throwing firecrackers, you can draw the slug creature away from the Magatama 
 *Figure 206: Image of the entrance to a swamp Magatama room. Image Taken By: Steven Grevera*
 
 
-Swamp Trap Magatama Rooms are rooms that are entirely covered on the floor in water. Entering the room will cause corruption build up, meaning that you must obtain the Magatama fast and then proceed to leave it with the Magatama obtained. On Deluge, these rooms can be extremely deadly without coffee and karuta card negations for corruption as you’ll build up corruption on your way to the Magatama and then proceed to get hit with further buildup that could push it over the edge to cost a life. 
+Swamp Trap Magatama  Rooms are rooms that are entirely covered on the floor in water. Entering the room will cause corruption to build up, meaning that you must obtain the Magatama fast and then proceed to leave it with the Magatama obtained. On Deluge, these rooms can be extremely deadly without coffee and karuta card negations for corruption as you’ll build up corruption on your way to the Magatama and then proceed to get hit with further buildup that could push it over the edge to cost a life. 
 
 ![image](https://github.com/user-attachments/assets/cc2c6c4b-5d31-4dea-8d21-5e3c3b997984)
-*Figure 207: Image of an altar that once held a Magatama with a barrier around the room and a swamp at the players feet. Image Taken By: Steven Grevera*
+*Figure 207: Image of an altar that once held a Magatama with a barrier around the room and a swamp at the player's feet. Image Taken By: Steven Grevera*
 
 
 ## Hanging Man Trap Room
@@ -1736,16 +1736,17 @@ Swamp Trap Magatama Rooms are rooms that are entirely covered on the floor in wa
 *Figure 208: Image of Hanging Men pests in their respective trap room. Image Taken By: Steven Grevera*
 
 
-Hanging Man Magatama Trap Room’s contain many Hanging Men trap pests which when touched will start to flail around and cause issues for your character and deal damage as well as create loud noises that could attract apparitions. The key to these rooms is to carefully try and traverse them or run through them and trigger a few at a time. Once they are triggered, waiting for them to untrigger and then that area will remain safe while others could be triggered later. 
+Hanging Man Magatama  Trap Room contains many Hanging Men trap pests, which, when touched will start to flail around and cause issues for your character and deal damage as well as create loud noises that could attract apparitions. The key to these rooms is to carefully try and traverse them or run through them and trigger a few at a time. Once they are triggered, wait for them to untrigger and then that area will remain safe while others could be triggered later. 
 
-These rooms can be major drains on your health and should be very carefully treated as they will drain your health fast if not treated with respect and care.  
+These rooms can be major drains on your health and should be very carefully treated as they will drain your health fast if not treated with respect and care. 
+
 
 ## Cocoon Moth Trap Room
 ![image](https://github.com/user-attachments/assets/ed2bc3c5-9d31-46c2-986d-02cb2fdfa5dc)
 *Figure 209: Image of humans that have been cocooned up in the Cocoon Moth trap room. Image Taken By: Steven Grevera*
 
 
-Cocoon Moth’s guard this room and the Magatama within. The only way to obtain it is to take the damage of the room, or to use a fire cracker to scatter the moths, or to use a a star hour glass to freeze time and no damage and run out before it’s time runs out. 
+Cocoon Moth’s guard this room and the Magatama within. The only way to obtain it is to take the damage of the room or to use a firecracker to scatter the moths, or to use a a star hourglass to freeze time and no damage and run out before its time runs out. 
 
 ![image](https://github.com/user-attachments/assets/b029d616-fdef-47bd-b2be-0a528b016b68)
 *Figure 210: Image of cocoon Moths in their trap room fluttering about. Image Taken By: Steven Grevera*
@@ -1758,14 +1759,14 @@ Cocoon Moth’s guard this room and the Magatama within. The only way to obtain 
 ![image](https://github.com/user-attachments/assets/ad7404e9-c487-4ce6-acdd-3dd700f570f5)
 *Figure 211: Image of an aftermath screen after a corridor has been completed. Image Taken By: Steven Grevera*
 
-Upon the completion of the level of a corridor, you will receive a series of medals with a set valuation of points and from those points, be granted a rating. The ratings consist with the medals unlocked and what are obtained as a result. If enough rating is obtained, you will receive Bonus Magatama for purchasing further karuta cards. 
+Upon the completion of the corridor level, you will receive a series of medals with a set valuation of points and, from those points, be granted a rating. The ratings consist with the medals unlocked and what are obtained as a result. If enough rating is obtained, you will receive Bonus Magatama for purchasing further karuta cards. 
 
  
 ## Medals and Their Valuations
 ![image](https://github.com/user-attachments/assets/fd5dba83-75d8-4322-8817-70c3ee1ad451)
 *Figure 212: Image of the players earned medals on a wall from their experiences playing the game. Image Taken By: Steven Grevera*
 
-Medals will be rewarded for specific actions such as completing a level within a certain time limit or performing a specific action while in that level itself. All possible obtainable medals are listed below:
+Medals will be rewarded for specific actions, such as completing a level within a certain time limit or performing a specific action while in that level itself. All possible obtainable medals are listed below:
 
 **Note: If an item is part of the series, such as “Time Medal 3”, by obtaining Time Medal one, you also obtain Time Medals 1 and 2 as well, giving a total valuation of “9” points, as you get all three medals together.**
 
@@ -1821,7 +1822,7 @@ Medals will be rewarded for specific actions such as completing a level within a
 
 ## Ratings: 
 
-Ratings serve as the game’s “stamp” on your performance and will reward bonuses for high enough ratings. The Ratings brackets are as followed below: 
+Ratings serve as the game’s “stamp” on your performance and will reward bonuses for high enough ratings. The Ratings brackets are as follows below: 
 
 - SS: 24 points or beyond.
 - S: 15-23 points 
@@ -1833,12 +1834,12 @@ Ratings serve as the game’s “stamp” on your performance and will reward bo
 
 SS rating is considered “perfect” and the highest rating you can achieve. E is the lowest, while in practice it is “D” as “E” is extremely hard to obtain in game without trying to obtain it deliberately.
 
-Demonstration: To obtain E Rank, you must  follow these rules.
+Demonstration: To obtain an E Rank, you must follow these rules.
 - Complete the level AFTER 40 minutes.
 - Be heard by Apparitions more then two times.
 - Take 100 Health Damage total. 
 
-And not break more then 2 of these rules: 
+And not break more then two of these rules: 
 
 - Complete the level after traveling below 3KM but more then 1KM (1.1KM and above but now anything past 3KM)
 -  Eat no more then 4 rice balls or more then 2 popsicles in a row
@@ -1858,12 +1859,12 @@ And not break more then 2 of these rules:
 - Do not trap an apparition in a barrier or the Trauma,
 - Do not escape a wander a single time. 
 
-The above scenario is POSSIBLE… but is more of a challenge, then something likely to occur. 
+The above scenario is POSSIBLE… but is more of a challenge than something likely to occur. 
 
 To see your rating on each difficulty and at each level, on the corridor select menu, look where the letters are circled to see your best results. 
  
 ![image](https://github.com/user-attachments/assets/54d9b4fb-6c08-4818-83aa-b93496d69dea)
-*Figure 213: Image of the players past best results in a corridor circled in red. Image Taken By: Steven Grevera*
+*Figure 213: Image of the player's past best results in a corridor circled in red. Image Taken By: Steven Grevera*
 
 
 ## Bonus Magatama 
@@ -1887,23 +1888,23 @@ Archives are documents that can be collected throughout your explorations that c
 
 # Magamata Challenge
 ![image](https://github.com/user-attachments/assets/67e142a1-1b84-4640-b105-3fe83b2dab9c)
-*Figure 214: Image of the players Magatama trophies location. Image Taken By: Steven Grevera*
+*Figure 214: Image of the player's Magatama trophies location. Image Taken By: Steven Grevera*
 
 
-The Magamata Challenge is unlocked after completing the entire story fully on any difficulty. The goal of the mode is to grab as many Magamata as fast as possible within the time limit. You start with 5 minutes and every time you obtain a Magamata you are given an additional minute for your run time. Focusing on speed as such, is essential. 
+The Magamata Challenge is unlocked after completing the entire story fully on any difficulty. The goal of the mode is to grab as many Magamata as fast as possible within the time limit. You start with 5 minutes and every time you obtain a Magamata, you are given an additional minute for your run time. Focusing on speed, as such, is essential. 
 
-Every 3 Magamata you obtain will grant you with a trophy in the following bracket: 
+Every three Magamata you obtain will grant you a trophy in the following bracket: 
 
 - Gold Trophy: 9
 - Silver Trophy: 6
 - Bronze Trophy: 3
 
-The map is 4 x 4 and in total there are 16 magatama generated at once to collect. Health and lives (Candle Lights) still count in this mode, however, you don’t take a direct time penalty for losing a life, aside from the death and respawn animation time itself to the timer. 
+The map is 4 x 4, and in total, 16 Magatama were generated at once to collect. Health and lives (Candle Lights) still count in this mode. However, you don’t take a direct time penalty for losing a life, aside from the death and respawn animation time itself to the timer. 
 Item appearance rates are based on beginner mode.
 
-The conditions for activating the map gimmick when obtaining the magatama are the same as in advanced mode but the range of effect of the gimmick are those of intermediate mode.
+The conditions for activating the map gimmick when obtaining the Magatama are the same as in the advanced mode but the range of effect of the gimmick is the same as that of the intermediate mode.
 
-The enemy's performance is based on intermediate level and play at that level as a result. However, the trauma will spawn on any map regardless of it’s gimmick, after a 9th magamata is obtained and it will multiply if put in a barrier just like in Advanced mode. 
+The enemy's performance is based on the intermediate level, and the enemy plays at that level as a result. However, the trauma will spawn on any map regardless of its gimmick after a 9th magamata is obtained and it will multiply if put in a barrier, just like in Advanced mode.
 
  ![image](https://github.com/user-attachments/assets/bcaf55e7-a916-4d74-bc56-f958686955ca)
 *Figure 215: Image of where to access the Magatama Challenge game mode. Image Taken By: Steven Grevera*
@@ -1914,11 +1915,11 @@ The enemy's performance is based on intermediate level and play at that level as
 *Figure 216: Image of where to access the Marathon gamemode. Image Taken By: Steven Grevera*
 
 
-To unlock Marathon Mode, you must fully complete the story of the game once and in doing so, will unlock this mode. 
+To unlock Marathon Mode, you must fully complete the story of the game once, and in doing so, you will unlock this mode. 
 
-In Marathon Mode, you start on the first level at the difficulty of your choice and play from start to finish. If you quit mid marathon run on the pause menu, resuming will bring the player back to the start of the corridor they were running when they return. This also allows you to change karuta for each individual map for optimal play, as well as coffee effects. If a Game over is obtained, the Marathon is considered “over” and you must start all over again. 
+In Marathon Mode, you start on the first level at the difficulty of your choice and play from start to finish. If you quit the mid-marathon run on the pause menu, resuming will bring the player back to the start of the corridor they were running when they return. This also allows you to change karuta for each individual map for optimal play, as well as coffee effects. If a Game over is obtained, the Marathon is considered “over,” and you must start all over again. 
 
-Souls and items carry over from one corridor into the next, so exploring a corridor for longer periods of time to prepare for a next one, might be a possible play to make. 
+Souls and items carry over from one corridor into the next, so exploring a corridor for longer periods of time to prepare for the next one might be a possible play to make. 
 
 
 
