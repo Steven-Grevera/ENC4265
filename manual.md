@@ -111,7 +111,7 @@
 
 # Introduction
 
-Shadow Corridor 2 is a maze style horror game in which you are given a set predetermined theme, which your “level”, or rather, “corridor”, in this sense. Each “corridor”, is procedurally generated upon level selection based upon a seed which will ensure that each and every experience you have is unique. The layout learned from one session, will not be the same layout for the next even if they are the same corridor and vice versa. 
+Shadow Corridor 2 is a maze-style horror game in which you are given a set predetermined theme, which is your “level,” or rather, “corridor,” in this sense. Each “corridor” is procedurally generated upon level selection based on a seed, which will ensure that each and every experience you have is unique. The layout learned from one session will not be the same layout for the next, even if they are the same corridor and vice versa. 
 
 ![image](https://github.com/user-attachments/assets/0429fc8e-732d-4bd6-8b5b-ad9d469c5188)
 *Figure 2: Image of a corridor generating in game. Image by: Steven Grevera.* 
@@ -121,14 +121,14 @@ Amo No Yohira is the spiritual land in which you find yourself, a world of the d
 ![image](https://github.com/user-attachments/assets/3b49031f-3c78-42d4-a358-82a9c8a4730d)
 *Figure 3: Image of the name of the realm the player is in. Image Taken By: Steven Grevera* 
 
-Your purpose in each corridor is the find an item known as Magatamas, which are green jade like objects that serve as “keys” to escape the maze. Your difficulty will determine if how many you need to escape, scaling from 3-5. Upon obtaining the required Magatamas, you can then escape the level by finding the generated exit which is never in the same place. Using a type of guide doll or a compass to help you find this exit as well. Keeping track of your progress through the use of glowing stones and your own mental notes as you progress through the maze.
+Your purpose in each corridor is to find an item known as Magatama, which are green jade-like objects that serve as “keys” to escape the maze. Your difficulty will determine how many you need to escape, scaling from 3-5. Upon obtaining the required Magatamas, you can then escape the level by finding the generated exit, which is never in the same place. Using a type of guide doll or a compass to help you find this exit as well. Keeping track of your progress through the use of glowing stones and your own mental notes as you progress through the maze.
 
 ![image](https://github.com/user-attachments/assets/df86fd81-034c-4026-8a60-80606b4b05cc)
 *Figure 4: Image of an exit at the end of a corridor. Image Taken By: Steven Grevera*
  
-Shadow Corridor 2 has a large fanbase primarily situated in Japan, yet many English players have also began to play and enjoy the game. However, when looking up information about the game online, most of that information is in Japanese or translated very poorly into English. This guide aims to solve that issue by establishing that information firmly into proper English words and instructions. 
+Shadow Corridor 2 has a large fanbase primarily situated in Japan, yet many English players have also begun to play and enjoy the game. However, when looking up information about the game online, most of that information is in Japanese or translated very poorly into English. This guide aims to solve that issue by firmly establishing that information in proper English words and instructions. 
 
-The purpose of this guide is to provide a clear and concise means and method to playing the game: Shadow Corridor 2. While the game is English dubbed and even translated fairly well in the game itself, many aspects of the game reveal themselves to you over a long period of time. By reading ahead in this guide, you can save a run of a level and ultimately end up saving hours of work. 
+The purpose of this guide is to provide a clear and concise means and method to playing the game Shadow Corridor 2. While the game is English dubbed and even translated fairly well in the game itself, many aspects of the game reveal themselves to you over a long period of time. By reading ahead in this guide, you can save a run of a level and ultimately end up saving hours of work. 
  
 # PC System Requirements 
 
@@ -156,7 +156,7 @@ Shadow Corridor 2 is currently available in two locations.
 
 ## PC (Steam)
 
-Shadow Corridor 2 and it’s respective soundtrack, can all be purchased on it’s store page on PC on the Steam platform. It is currently not sold anywhere else. 
+Shadow Corridor 2 and its respective soundtrack can all be purchased on its store page on PC on the Steam platform. It is currently not sold anywhere else. 
 
 If you wish to purchase for PC and you are viewing this manual online, feel free to click on the following link: https://store.steampowered.com/app/2310700/Shadow_Corridor_2/
 
@@ -165,21 +165,21 @@ If you wish to purchase for PC and you are viewing this manual online, feel free
 
 Shadow Corridor 2 can be purchased on Console exclusively on the Nintendo Switch only at this time. If you are interested in finding this title, search it up within the Switch Shop on the console itself.
 
-Alternatively, you can use the following link if you are reading this guide online to be taken right there: https://www.nintendo.com/us/store/products/shadow-corridor-2-switch/ 
+Alternatively, you can use the following link if you are reading this guide online to be taken right there: https://www.nintendo.com/us/store/products/shadow-corridor-2-switch/  
  
 # Main Menu: 
 ![image](https://github.com/user-attachments/assets/0f7872a5-cae0-46d1-9a19-d82d603b67d0)
 *Figure 5: Image of the main menu from the game. Image Taken By: Steven Grevera*
 
-When you boot up the game software, these 4 options will present themselves to you accordingly. Hitting quit game will close the game software and take you out of everything.
+When you boot up the game software, these four options will present themselves to you accordingly. Hitting quit game will close the game software and take you out of everything.
 
 
  
 # Start A New Game 
 ![image](https://github.com/user-attachments/assets/a22d0ba1-1bab-4e83-92f6-53f9c56aa102)
-*Figure 6: Image showing the players option when hitting start a new game with their save slots. Image Taken By: Steven Grevera* 
+*Figure 6: Image showing the player's option when hitting start a new game with their save slots. Image Taken By: Steven Grevera* 
 
-Selecting Start A New Game will allow you to pick a save slot to use out of your three options, or will wipe out an existing file if you so desire to do so. 
+Selecting Start A New Game will allow you to pick a save slot to use out of your three options, or it will wipe out an existing file if you desire to do so.  
 
 ## Continue
 
