@@ -483,23 +483,24 @@ By interacting with this device while in the hub, you can cycle through a series
  
 # Karuta Cards
 ![image](https://github.com/user-attachments/assets/48f05b1e-724c-4f30-a0f8-09be400f5302)
-*Figure 39: Image showing a Karuta Card's artwork known as: Doll Calling from in game. Image Taken By: Steven Grevera* 
+*Figure 39: Image showing a Karuta Card's artwork known as Doll Calling from in-game. Image Taken By: Steven Grevera*
 
-Karuta Cards are benefits that you bring into your corridor explorations that all have different benefits and effects. One such example is above. Gamers with experience with other games, might call these “Perks”. 
+Karuta Cards are benefits that you bring into your corridor explorations that all have different benefits and effects. One such example is above. Gamers with experience with other games might call these “Perks.” 
 
-Karuta are one of Shadow Corridor 2’s most powerful benefits as they can completely change your experience while exploring corridors as their effects can be extremely powerful and dynamically change aspects of the game in some way. They can vary from things like using a special map that can help you navigate, to simple but powerful buffs like stat resistances to certain negative traits you can run into while exploring, such as Corruption. 
+Karuta are one of Shadow Corridor 2’s most powerful benefits, as they can completely change your experience while exploring corridors; as their effects can be extremely powerful and dynamically change aspects of the game in some way. They can vary from things like using a special map that can help you navigate to simple but powerful buffs like stat resistances to certain negative traits you can run into while exploring, such as Corruption.
 
 ![image](https://github.com/user-attachments/assets/c52f1031-0a01-410f-8a12-72710e46bca6)
 *Figure 40: Image showing a Karuta Card's loadout and changing screen. Image Taken By: Steven Grevera*
 
 
-Karuta are limited to 5 total by the end game of Shadow Corridor 2, with an extra slot possible if found in a level itself for a price. 
+Karuta are limited to five total by the end game of Shadow Corridor 2, with an extra slot possible if found in a level itself for a price. 
+
+To select your Karuta loadout at The Hub, come to the location listed below and interact with the table.
+
 
 ![image](https://github.com/user-attachments/assets/5d6ddcef-e0a5-418f-a33b-f3bc23d61f20)
 *Figure 41: Image showing where you set up your karuta cards. Image Taken By: Steven Grevera*
 
-To select you Karuta loadout at The Hub, come to this location listed below and interact with the table.
- 
 
 ## Sealed Karuta Cards
 
