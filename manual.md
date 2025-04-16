@@ -1334,17 +1334,18 @@ The Shopkeeper sells items for souls that range from items, passives, a single b
 By spending a certain amount of souls, the shopkeeper will reward you with special karuta items over time, and these do not have to be spent all at once and serve as tracking across your saved file. 
 
 ![image](https://github.com/user-attachments/assets/fd54e4c1-8d0b-4ec0-8985-fd3523c1b785)
-*Figure 162: Image of a mirror back out of The Butterfly Shop that shows a corpse on the other side that has been claimed for it's souls. Image Taken By: Steven Grevera*
-
+*Figure 162: Image of a mirror back out of The Butterfly Shop that shows a corpse on the other side that has been claimed for its souls. Image Taken By: Steven Grevera*
  
 
 # Corridor Items
  ![image](https://github.com/user-attachments/assets/34ccb8ab-d725-4f3d-a5cf-4fc7b5c02e27)
 *Figure 163: Image of items that have spawned in a drawer in The Underworld Academy. Image Taken By: Steven Grevera*
 
-Corridor items are items that you pick up while exploring the level of a corridor. Certain karuta cards allow you to start with specific items to achieve purposes. Items can be used for a variety of purposes such as restoring health and stamina, scaring away apparitions, pests or drawing their attention somewhere else. Some are used to mark areas of the map or light up the map as a light source. Whereas others can be used to combat apparitions directly through the use of stunning or outright forced removal with the right item in hand. 
+Corridor items are items that you pick up while exploring the level of a corridor. Certain karuta cards allow you to start with specific items to achieve purposes. Items can be used for a variety of purposes, such as restoring health and stamina, scaring away apparitions, pests or drawing their attention somewhere else. Some are used to mark areas of the map or light up the map as a light source. Meanwhile, others can be used to combat apparitions directly through the use of stunning or outright forced removal with the right item in hand. 
 
-Items are collected by opening up drawers scattered throughout the corridor levels in the form usually of desks and tables and are always indoors on levels that have an outside and inside. 
+Items are collected by opening drawers scattered throughout the corridor levels in the form of desks and tables and they are always indoors on levels that have an outside and inside. 
+
+The Compass item is a unique item that spawns at a very rare chance from drawers and, when found, will display the exit’s location, guiding the player to the means of escape.
 
 <a name="anchor1"></a>
 
@@ -1355,7 +1356,7 @@ The Compass item is a unique item that spawns at a very rare chance from drawers
 ![image](https://github.com/user-attachments/assets/ae69c316-d8bd-4ed2-80ea-f99a44261fac)
 *Figure 165: Image of a compass being used to navigate a player toward the exit. Image Taken By: Steven Grevera*
 
-When picking up items as well, there is a chance for you to be jumped by spiders as a “trap” that will do damage to you. This can also result sometimes in a karuta being sealed. The way to tell if it’s a trap or not, is the drawer should slightly open but not all the way and seem to get “stuck.” This will tell you the drawer is a trap. You can open it again to take damage and there will usually be an item inside. Giving you the choice: Some of your health and a karuta sealing chance for an item, or ignore it. 
+When picking up items as well, there is a chance for you to be jumped by spiders as a “trap” that will do damage to you. This can also sometimes result in a karuta being sealed. The way to tell if it’s a trap or not is that the drawer should be slightly open but not all the way and it should seem to get “stuck.” This will tell you the drawer is a trap. You can open it again to take damage and there will usually be an item inside. Giving you a choice: Some of your health and a karuta sealing chance for an item, or ignore it. 
 
 ![image](https://github.com/user-attachments/assets/5b6f1763-24bb-4bae-9a10-519dbc72c6f1)
 *Figure 166: Image of spiders attacking the player after a drawer was opened. Image Taken By: Steven Grevera*
@@ -1374,14 +1375,14 @@ When picking up items as well, there is a chance for you to be jumped by spiders
 | Firecrackers  | Directs Apparitions to the sound of the firecracker and covers your own footsteps as you traverse the level. Can also be used to scare away “Pest” level foes. | 
 | Shining Stone  | Places a stone on the ground to mark locations of interest to you and provide a small amount of light. |
 | Mysterious Key | Used for opening locked doors which tend to be rooms with Magamata waiting to be collected. |
-| Clairvoyance  | Allows you to see through the walls and floor as well as darkness itself. Also picks out item in color, Pests and Apparitions as well.   |
+| Clairvoyance  | Allows you to see through the walls and floor as well as the darkness itself. Also, lists out items in color, Pests and Apparitions as well.   |
 | Barrier Card  | When used in a partitioned room, it creates a barrier around the room. Sound and vision are blocked between the inside and outside of the barrier, and only the player can enter or exit the boundary. |
 | Star Hourglass | Disables time so that nothing can harm you and also allows you to walk on water without invoking corruption and at a faster speed.  |
 | Bronze Hand Mirror | Instantly teleports to another random location on the level. |
 | Type 26 Revolver Pistol | Right click to aim and then fire with left click. Shooting Corrupted Humans will make them disappear. Shooting Apparitions will stun them. Shooting the key sockets on a door will force the door open but destroy the pistol in the process. Has a chance to misfire, or break before firing. |
 | Hotaruya Ticket | Teleports you to the Butterfly Shop. |
 | Ice Candy | It restores some health, stamina and cleanses some corruption.  |
-| Candle of Life | Place at the alter to receive a new Candle Light (Life Point) if you had one go out. |
+| Candle of Life | Place at the altar to receive a new Candle Light (Life Point). If you had one, go out. |
 | Thunder Spear | Right click to aim and then left click to throw the spear. Whatever it touches will be turned to ash, making it stronger then the Revolver. It only has one use. It can also be used to break locked doors. |
 | Arch | Slashing an Apparition will disable them for a certain period of time but will cause you to accumulate Corruption. |
 
@@ -1391,7 +1392,7 @@ When picking up items as well, there is a chance for you to be jumped by spiders
 
 | Passive Item Name | Effect |
 |---|---|
-| Lizard's Tail | If you are grabbed by a Apparition, you will consume 30% of your health and be teleported elsewhere. |
+| Lizard's Tail | If you are grabbed by an Apparition, you will consume 30% of your health and be teleported elsewhere. |
 | Doubtful Knight’s Spur | Increases stamina recovery speed. |
 | Lucky Kokeshi Doll | Increases the rate of items appearing when you open drawers. |
 | Insect Repellent | Neutralize the threat of insect Pests, allowing you to walk on them without taking damage, at the cost of the usage bar of this item |
@@ -1438,17 +1439,17 @@ When picking up items as well, there is a chance for you to be jumped by spiders
 ![image](https://github.com/user-attachments/assets/a44ed994-d096-4678-abd4-6ca2a8ade344)
 *Figure 167: Image of a Shion crying in the darkness. Image Taken By: Steven Grevera*
 
-Apparitions are wandering enemies that will usually proceed to extinguish a life should the player be caught by them regardless of health value.. All Apparitions behave differently and have unique characteristics. Some are even unique to specific corridors themselves or specific difficulties of those corridors. 
+Apparitions are wandering enemies that will usually proceed to extinguish a life should the player be caught by them, regardless of health value. All Apparitions behave differently and have unique characteristics. Some are even unique to specific corridors themselves or have specific difficulties in those corridors. 
 
-To avoid an Apparition, players need to hide without any light sources in the corridors safe hiding zone which will change it’s appearance and type each corridor type. Some may be closets, some may be small baskets. If an Apparition finds you while you are hiding within a hiding spot due to unfortunate circumstances, you will lose a life regardless of health value. 
+To avoid an Apparition, players need to hide without any light sources in the corridor's safe hiding zone, which will change its appearance and type each corridor type. Some may be closets; some may be small baskets. If an Apparition finds you while you are hiding within a hiding spot due to unfortunate circumstances, you will lose a life regardless of health value. 
 
-Apparitions spawn based on the location of the player as well as how fast they are moving through the corridor and the amount of noise they are making. Once and Apparition is spawned, usually near the player, they will track the player by those noises and lights that they are using. By using things like Butterfly Lanterns, they can appear mostly invisible to Apparitions’s, albeit unless they get close enough to the player. 
+Apparitions spawn based on the location of the player as well as how fast they are moving through the corridor and the amount of noise they are making. Once an Apparition is spawned, usually near the player, they will track the player by those noises and lights that they are using. By using things like Butterfly Lanterns, they can appear mostly invisible to Apparitions, albeit unless they get close enough to the player. 
 
-There are two key indicators to know that an apparition is nearby. One of the easiest to hear will be two distinct sounds. You will start to hear your own heartbeat, for starters. Then the second, will proceed to be a unique sound to that entity itself. These sounds could be bells for the dancers or screams for the monsters. The other indicator is flickering light sources. If a light source is flickering, it means that you should find shelter. As not all entities use sound and your only means of knowing one is present is your heartbeat or the light sources flickering. 
+There are two key indicators to know that an apparition is nearby. One of the easiest to hear will be two distinct sounds. You will start to hear your own heartbeat, for starters. The second will proceed to be a unique sound to that entity itself. These sounds could be bells for the dancers or screams for the monsters. The other indicator is flickering light sources. If a light source is flickering, it means that you should find shelter. Not all entities use sound and your only means of knowing one is present is your heartbeat or the light sources flickering. 
 
-When you are discovered, a red light will beam out of the Apparition and they will pursue you. Until that red light disappears, you are in “pursuit” and if they catch you, it’s a life lost, or a game over if it’s your last one. 
+When you are discovered, a red light will beam out of the Apparition and they will pursue you. Until that red light disappears, you are in “pursuit,” and if they catch you, it’s a life lost or a game over if it’s your last one. 
 
-If you are being chased by an Apparition and you close a door behind yourself, depending on the Apparition in question, they will begin to bang on the door you closed on them as if it was locked. After a certain amount of hits they will break through and continue to chase you. Allowing you to use doors as a means to buy you time should you be pursued. 
+If you are being chased by an Apparition and you close a door behind yourself, depending on the Apparition in question, they will begin to bang on the door you closed on them as if it was locked. After a certain amount of hits, they will break through and continue to chase you. This allows you to use doors as a means to buy time should you be pursued.
 
 
  
@@ -1460,18 +1461,20 @@ If you are being chased by an Apparition and you close a door behind yourself, d
 ![image](https://github.com/user-attachments/assets/b94cf4a7-e06c-4c9e-bc40-160bc3d1d8a6)
 *Figure 168: Image of a Teru teru bōzu Doll coming right for the player. Image Taken From: https://img.wiki3.jp/shadowcorridor2amanoyohira/teruteru.jpg*
 
-Apparitions which are covered in branded white cloth covering their faces. Their lower body of “feet” are hands and can be identified from far distances due to their loud screaming and constantly shaking speed of their limbs. They cannot hear sounds due to how loud they are and so are not prone to sounds other then firecrackers. They also only ever look in front of themselves and will not look behind unless they turn their entire bodies around. 
+Apparitions that are covered in branded white cloth covering their faces. Their lower body of “feet” are hands and can be identified from far distances due to their loud screaming and constantly shaking speed of their limbs. They cannot hear sounds due to how loud they are and so are not prone to sounds other than firecrackers. They also only ever look in front of themselves and will not look behind unless they turn their entire bodies around. 
+
+
  ![image](https://github.com/user-attachments/assets/9d667a70-cdcf-4e0f-bba7-360130e45fa6)
 *Figure 169: Image of a Teru teru bōzu running past a barriered door. Image Taken By: Steven Grevera*
 
-Teru teru bōzu destroy doors extremely fast and on the higher levels, destroy doors instantly. They will destroy doors even if they haven’t spotted you sometimes. This is not cause for panic if you are not being chased, simply duck into cover and wait for their business to conclude. 
+Teru teru bōzu can destroy doors extremely fast and, on the higher levels, destroy doors instantly. They will destroy doors even if they haven’t spotted you sometimes. This is not cause for panic if you are not being chased; simply duck into cover and wait for their business to conclude.  
 
  ![image](https://github.com/user-attachments/assets/7d0c06fc-cd2e-40f6-9c6b-a51c2b3b71c5)
 *Figure 170: Image of a Teru teru bōzu's outline as seen from the clairvoyance item. Image Taken By: Steven Grevera*
 
 If being chased by a Teru teru bōzu, try to find a trap door fast as they are extremely fast and without items to stun them, you will be in great trouble without the ability to block them with doors. 
 
-Outside of the game, Teru teru bōzu is a Japanese doll tradition involving the creation of a handmade doll, often made of paper or cloth, that is hung outside to bring sunny weather and ward off rain. As this game is about “rain” and “water” in relation together with the spirt world and death, this is their take on that tradition. 
+Outside of the game, Teru teru bōzu is a Japanese doll tradition involving the creation of a handmade doll, often made of paper or cloth, that is hung outside to bring sunny weather and ward off rain. As this game is about “rain” and “water” in relation to the spirit world and death, this is their take on that tradition.
  
 
 ### Whirlpool Dancer (Kagura suzu)
@@ -1501,18 +1504,18 @@ The Whirlpool Dancer has a full 360 degree vision, is it is advised not to try a
  ![image](https://github.com/user-attachments/assets/f1fea948-6c0b-488d-99d1-7d9e7f71407d)
 *Figure 176: Image of a Shion crying in the darkness. Image Taken By: Steven Grevera*
 
-The Shion is constantly crying and whimpering, usually in place in it’s most common form. Rarely, it can wonder the halls as a wandering form, that acts just like the stationary form but actually moves it’s locations. As it is blind, it won’t react to your flashlight or any other light sources which you may turn on. 
+The Shion is constantly crying and whimpering, usually in place in its most common form. Rarely it can wander the halls as a wandering form that acts just like the stationary form but actually moves its locations. As it is blind, it won’t react to your flashlight or any other light sources that you may turn on. 
 
 ![image](https://github.com/user-attachments/assets/0926d7b1-00e6-4621-b31e-f0dac0ca30d7)
 *Figure 177: Image of a Shion crying in the light but as they are blind not detecting the player at all. Image Taken By: Steven Grevera*
  
-The Shion is entirely blind but on higher level difficulties, can sense your presence if you get too close. From a large radius, it can sense your movements, on the higher difficulties even something as simple as walking normally, will trigger this Apparitions attention and they will come to verify and check where you are. If you run while in the radius of these Apparitions, you will initiate a chase and these entities are extremely fast. Your only hope of escaping one is to quickly use a firecracker to cover your own movements and flee as far and fast as you can. You’ll likely need to throw several firecrackers at higher levels behind yourself, to keep it’s attention drawn just long enough to lose it. 
+The Shion is entirely blind but, on higher level difficulties, can sense your presence if you get too close. From a large radius, it can sense your movements; on the higher difficulties, even something as simple as walking normally will trigger this Apparitions attention and they will come to verify and check where you are. If you run while in the radius of these Apparitions, you will initiate a chase, and these entities will run extremely fast. Your only hope of escaping one is to quickly use a firecracker to cover your own movements and flee as far and fast as you can. You’ll likely need to throw several firecrackers at higher levels behind yourself to keep its attention drawn just long enough to lose it. 
 
 ![image](https://github.com/user-attachments/assets/79d546a9-35b0-42f5-bc93-4a0514421f48)
-*Figure 178: Image of a Shion up close and from a side angle of it's whole body. Image Taken By: Steven Grevera*
+*Figure 178: Image of a Shion up close and from a side angle of its whole body. Image Taken By: Steven Grevera*
 
 
-The Shion naming is due to the flowers which grow out of it’s head in some ways, though these flowers have the same effects of Hydrangea Flowers and will actually cleanse your corruption within a certain radius for the player. These flowers are called: Aster tataricus, or the word “Shion” in Japanese. Which means in the language of flowers: “I won’t forget you.” Implying that perhaps the apparition crying, is due to being forgotten. Alternatively It can also be interpreted that the name “Shion” in Japanese for females, is a name which means “A person who remembers, one who does not forget.” Which could explain why they are crying, for they remember something horrible and it torments them, based on the trauma apparition, this is likely another hint at the linkage to the main character. Shion can also mean “Purple Garden.”. Which relates to the flowers and colorations on them. All of these things, can be true at once and lead to the Apparition you see before you and could explain why the character even has some resemblance to the main character. 
+The Shion naming is due to the flowers that grow out of its head in some ways, though these flowers have the same effects as Hydrangea Flowers and will actually cleanse your corruption within a certain radius for the player. These flowers are called Aster tataricus, or the word “Shion” in Japanese. In the language of flowers, this means, “I won’t forget you.” This implies that perhaps the apparition crying is due to being forgotten. Alternatively, it can also be interpreted that the name “Shion” in Japanese for females is a name that means “A person who remembers, one who does not forget.” This could explain why they are crying, for they remember something horrible and it torments them; based on the trauma apparition, this is likely another hint at the linkage to the main character. Shion can also mean “Purple Garden.”, which relates to the flowers and colorations on them. All of these things, can be true at once and lead to the Apparition you see before you and could explain why the character even has some resemblance to the main character. 
 
 ### Mizuchi (Snake Woman)
 
@@ -1520,10 +1523,10 @@ The Shion naming is due to the flowers which grow out of it’s head in some way
 *Figure 179: Image of a Mizuchi apparition in black and white from the front view. Image Taken By: Steven Grevera*
 
 
-The Mizuchi is a unique Apparition as it has no unique sound until it has found you, in which case it will scream at you in a woman’s shrieking voice. If you have light sources around you flickering and your heart beat is ringing out, this means that a Mizuchi is nearby. You must get to cover to hide as they can both see and hear you under the right circumstances. 
+The Mizuchi is a unique Apparition as it has no unique sound until it has found you, in which case it will scream at you in a woman’s shrieking voice. If you have light sources around you flickering and your heartbeat is ringing out, this means that a Mizuchi is nearby. You must get to cover to hide as they can both see and hear you under the right circumstances. 
 
 ![image](https://github.com/user-attachments/assets/be051b73-2fd5-49f6-8371-c769cb7aac66)
-*Figure 180: Image of a Mizuchi apparition’s outline with the clairvoyance item activated Image Taken By: Steven Grevera*
+*Figure 180: Image of a Mizuchi apparition’s outline with the clairvoyance item activated. Image Taken By: Steven Grevera*
 
 
  
@@ -1536,46 +1539,47 @@ In Japanese mythology, "mizuchi" (蛟, 虯) refers to a type of aquatic, dragon-
 
 ### Mechanical Doll 
 ![image](https://github.com/user-attachments/assets/847f0953-7308-425d-b96c-e61c7a256e9f)
-*Figure 181: Image of a Mechancial Doll appariton chasing the player. Image Taken From: https://img.wiki3.jp/shadowcorridor2amanoyohira/kikainingyou.jpg*
+*Figure 181: Image of a Mechanical Doll appariton chasing the player. Image Taken From: https://img.wiki3.jp/shadowcorridor2amanoyohira/kikainingyou.jpg*
 
 
-The Mechanical Doll Apparition only appears in The Shrine corridor and they will only begin to wander around or chase after you if you walk into their search lights from their eyes or trigger the map gimmick depending on the difficulty you are playing on. 
+The Mechanical Doll Apparition only appears in The Shrine corridor and they will only begin to wander around or chase after you if you walk into their searchlights from their eyes or trigger the map gimmick, depending on the difficulty you are playing on. 
 
 ![image](https://github.com/user-attachments/assets/66044c1a-11d9-40c8-a4f1-9b12be37afc6)
-*Figure 182: Image of a dormant Mechanical Doll shining out it's search light from it's eyes, waiting for a player to walk into it's light. Image Taken By: Steven Grevera*
+*Figure 182: Image of a dormant Mechanical Doll shining out its searchlight from its eyes, waiting for a player to walk into its light. Image Taken By: Steven Grevera*
 
 
-The Mechanical Doll can be shot and stunned by gunfire but will not make any indication aside from stopping it’s movement that it’s been hit. Additionally, they will not react to the sound of your running but will react to screaming Hanging Men, as well as firecrackers. Which you can use to your advantage to draw them away. If they see you however, they will pursue you at all cost. 
+The Mechanical Doll can be shot and stunned by gunfire but will not make any indication aside from stopping its movement that it’s been hit. Additionally, they will not react to the sound of your running but will react to screaming Hanging Men, as well as firecrackers, which you can use to your advantage to draw them away. If they see you, however, they will pursue you at all costs. 
  
 ### Haikara (Stylish, Megaphone Heads)
 ![image](https://github.com/user-attachments/assets/f1bd9d32-0742-46bb-94b1-5916381f19b7)
 *Figure 183: Image of a Haikara frozen in time and appearing to seem like it's pointing in black and white. Image Taken By: Steven Grevera*
 
 
-The first thing you will hear is a type of crazed chattering through a filtered technological wind pipe of some kind. These are the sounds produced through the megaphone. While it is within hearing distance of the player, it will start to build up your “insanity” gauge. Causing major issues if you end up not being able to find cover. As if you scream by becoming “frenzied”, you will be discovered and likely lose a Cande Light (Life Point). 
+The first thing you will hear is a type of crazed chattering through a filtered technological windpipe of some kind. These are the sounds produced through the megaphone. While it is within hearing distance of the player, it will start to build up your “insanity” gauge. Causing major issues if you end up not being able to find cover. As if you scream by becoming “frenzied,” you will be discovered and likely lose a Cande Light (Life Point). 
 
 ![image](https://github.com/user-attachments/assets/bc916f8f-0f71-49cc-b4aa-b3c008b7dbb1)
 *Figure 184: Image of a Haikara walking away from the player as it's not spotted them yet. Image Taken By: Steven Grevera*
 
 
-Haikara due to their lack of heads, are considered “blind”, to an extent, in that they won’t usually react to light sources at all. However, they will “see/sense” you if you can be found within a straight line and their ability to sense you will increase if you have light sources up, other then the Butterfly Lantern. 
+Haikara, due to their lack of heads, are considered “blind” to an extent in that they won’t usually react to light sources at all. However, they will “see/sense” you if you can be found within a straight line and their ability to sense you will increase if you have light sources up other than the Butterfly Lantern. 
 
-The Haikara are a type of stylish, Eurocentric Japanese clothing that were popular in the Meiji period ( 1868-1912) of Japanese culture. The Emperor Meiji in Japaense culture is seen as an Emperor that took their traditions and kept the nation as it’s nation and yet still modernized it and embraced some of it’s European traditions as well. In the context of this Apparition, it could mean two possibilities. It could simply be a note of their fancy looking Europeanized clothing, as well as the Apparitions location in “The Glass Building” in normal circumstances, which is a fancy large corridor in itself. Alternatively, it could be a critique on a time in which the Japanese changed drastically and became more Europeanized. Which is a Japanese criticism primarily pointed at Americans, specifically. 
+The Haikara are a type of stylish, Eurocentric Japanese clothing that were popular in the Meiji period ( 1868-1912) of Japanese culture. Emperor Meiji, in Japanese culture, is seen as an Emperor who took their traditions and kept the nation as its nation while still modernizing it and embracing some of its European traditions. In the context of this Apparition, it could mean two possibilities. It could simply be a note of their fancy-looking Europeanized clothing, as well as the Apparitions location in “The Glass Building” in normal circumstances, which is a fancy large corridor in itself. Alternatively, it could be a critique of a time in which the Japanese changed drastically and became more Europeanized. This is a Japanese criticism that is primarily directed at Americans. 
+
 
 <a name="anchor14"></a>
 
 ### Mayubo (Cocoon, Baby Faces) 
 ![image](https://github.com/user-attachments/assets/bef1d9d5-fb4f-4844-957e-2b752eee4d07)
-*Figure 185: Image of a Mayubo facing the player, crying out with it's baby face. Image Taken By: Steven Grevera*
+*Figure 185: Image of a Mayubo facing the player, crying out with its baby face. Image Taken By: Steven Grevera*
 
 
-The Mayubo will start attached to a Magatama, like a parasitic organism. It will be inside a large blood red tumor looking growth on the ceiling that is attached to the Magatama. It will not activate and burst out this tumor, unless you pick up the Magatama. This tumor, is likely a “cocoon”, hence, it’s name of Mayubo, which is a name which means “Cocoon” due to the Kanji: 繭
+The Mayubo will start attached to a Magatama, like a parasitic organism. It will be inside a large blood-red tumor-looking growth on the ceiling that is attached to the Magatama. It will not activate and burst out this tumor unless you pick up the Magatama. This tumor is likely a “cocoon,” hence, its name of Mayubo, which is a name which means “Cocoon” due to the Kanji: 繭
 
 ![image](https://github.com/user-attachments/assets/1fbbadc2-502d-4322-92e4-543a327babea)
-*Figure 186: Image of a the cocoon a Mayubo was previously in before it burst open. Image Taken By: Steven Grevera*
+*Figure 186: Image of the cocoon a Mayubo was previously in before it burst open. Image Taken By: Steven Grevera*
 
 
-Once it has emerged, it will cry loudly with the face of a baby and pursue you. It is a fast Apparition and can instantly break down doors. Your best bet is to have means to stun it such as a gun and then to flee as fast as you can. Once you have escaped it’s range and your heartbeat returns to normal, The Apparition will curl up on the ground, running out of lifeforce and die there. 
+Once it has emerged, it will cry loudly with the face of a baby and pursue you. It is a fast Apparition and can instantly break down doors. Your best bet is to have means to stun it, such as a gun and then to flee as fast as you can. Once you have escaped its range and your heartbeat returns to normal, The Apparition will curl up on the ground, running out of lifeforce and die there. 
 
 ![image](https://github.com/user-attachments/assets/c2042b3f-f1de-4f07-9a31-c09175a9c9fd)
 *Figure 187: Image of a dead Mayubo due to the player escaping it. Image Taken By: Steven Grevera*
@@ -1586,11 +1590,10 @@ Once it has emerged, it will cry loudly with the face of a baby and pursue you. 
 ![image](https://github.com/user-attachments/assets/7684316d-da21-4db3-adad-d3dd5abd68de)
 *Figure 188: Image of Trauma chasing after the player. Image Taken From: https://img.wiki3.jp/shadowcorridor2amanoyohira/torauma.jpg*
 
-The trauma will be heard by it’s crazed loud sounds approaching you, grating and noticeable from far away, it can distinctively be heard louder then any other Apparition in the game. They resemble in some ways, the main player yet appear when the text is displayed that says: “You fell a darkness within you….” While the character looks like themselves, the dress and slight detailed differences, imply that it might instead be that of the “mother” of the main character instead. 
+The trauma will be heard by its crazed loud sounds approaching you, grating and noticeable from far away; it can distinctively be heard louder than any other Apparition in the game. They resemble, in some ways, the main player yet appear when the text is displayed that says: “You fell a darkness within you….” While the character looks like themselves, the dress and slight detailed differences imply that it might instead be that of the “mother” of the main character instead. 
 
-This Apparition is the most deadly in the entire game, as if you barrier it on the higher modes, it will multiply. Yet worse, no matter where you are, even if you hide, it will be able to find you. From the moment it spawns until the very end, it will rush at you from any distance away and pursue you endlessly. The only way to be rid of a Trauma for good, is to use a Two-Hole Candle, costing you a Cande Light (Life Point) to permanently erase them from the level. As if they grab you and take one life themselves, they will still be present and pursue you yet again in your next life. 
-
-If you go to the Butterfly Shop, The Trauma will not follow you. Instead, it will be teleported to the “exit” and await your leaving of the Butterfly Shop. The moment you leave, it will begin it’s pursuit, pathfinding you until it reaches you or is removed. 
+This Apparition is the most deadly in the entire game; as if you barrier it on the higher modes, it will multiply. Yet worse, no matter where you are, even if you hide, it will be able to find you. From the moment it spawns until the very end, it will rush at you from any distance away and pursue you endlessly. The only way to be rid of a Trauma for good, is to use a Two-Hole Candle, costing you a Cande Light (Life Point) to permanently erase them from the level. As if they grab you and take one life themselves, they will still be present and pursue you yet again in your next life. 
+If you go to the Butterfly Shop, The Trauma will not follow you. Instead, it will be teleported to the “exit” and await your leaving of the Butterfly Shop. The moment you leave, it will begin its pursuit, pathfinding you until it reaches you or is removed. 
 
 Another thing you should never do is use a barrier without a teleport out, as the Trauma will way for you outside. If the barrier room you used only has one way inside, the only way out is through the Trauma, which means losing your Candle Light (Life Point) anyway. 
 
@@ -1599,20 +1602,20 @@ Another thing you should never do is use a barrier without a teleport out, as th
 *Figure 189: Image of The Shadow of Shinshi boss chasing after the player. Image Taken From: https://img.wiki3.jp/shadowcorridor2amanoyohira/shinsinokage.jpg*
 
 
-The Shadow of The True Story, is a godlike entity which is story explained to be your “other half”. An abandoned half that has been left within the realm in which you preside. For this reason, it feels rage toward you due to how long it’s been isolated and left to the corrupting forces that live amongst the realm of the dead. 
+The Shadow of Shinshi is a godlike entity that is story explained to be your “other half.” An abandoned half that has been left within the realm in which you reside. For this reason, it feels rage toward you due to how long it’s been isolated and left to the corrupting forces that live amongst the realm of the dead. 
 
-The boss only appears on the Missing Windhole level and will pursue the player throughout the level as a chase stage. You will damage it by blowing up or shooting barrels. You can blow up the barrels without shooting them with a pistol by using firecrackers. The Boss must be close enough in range to take the explosion damage, stunning them for a time and allowing you a chance to escape. 
+The boss only appears on the Missing Windhole level and will pursue the player throughout the level as a chase corridor. You will damage it by blowing up or shooting barrels. You can blow up the barrels without shooting them with a pistol by using firecrackers. The Boss must be close enough in range to take the explosion damage, stunning them for a time and allowing you a chance to escape. 
 
-If you try and put a barrier down on the map to block it’s path, it will destroy the barrier and then continue it’s pursuit. If you make it to the end of the level and use the mirror to transport back to an area similar to the start of the level, you will find The Boss will return by seeping out of the ground behind you. The same will occur if you are captured by it and lose a Candle Light (Life Point) in earlier parts of the chase itself. 
+If you try to put a barrier down on the map to block its path, it will destroy the barrier and then continue its pursuit. If you make it to the end of the level and use the mirror to transport you back to an area similar to the start of the level, you will find The Boss will return by seeping out of the ground behind you. The same will occur if you are captured by it and lose a Candle Light (Life Point) in earlier parts of the chase itself.
  
 ## Pests
 ![image](https://github.com/user-attachments/assets/a041b974-9c63-4636-8296-1993093a0214)
 *Figure 190: Image of Cocoon Moth Pests swarming the player. Image Taken By: Steven Grevera*
 
-Pests are enemies that won’t outright kill you right away but can deal damage to your total health as well as effect various other aspects of your character and the game. While a pest won’t instantly kill you like an Apparition will, if your left in a bad situation, they could be largely responsible for giving you a game over or taking one of your lives. 
+Pests are enemies that won’t outright kill you right away but can deal damage to your total health as well as affect various other aspects of your character and the game. At the same time, a pest won’t instantly kill you like an Apparition will; if you're left in a bad situation, they could be largely responsible for giving you a game over or taking one of your lives. 
 
-Some can seal your karuta, some can slow you down, a pest is “an annoyance” but combined with an apparition together, could result in the loss of your life, or worse, an entire run’s failure if the wrong karuta ends up sealed. 
- 
+Some can seal your karuta, some can slow you down, a pest is “an annoyance” but combined with an apparition together, could result in the loss of your life, or worse, an entire run’s failure if the wrong karuta ends up sealed.
+
 
 
 ### Pest Types
@@ -1621,41 +1624,41 @@ Some can seal your karuta, some can slow you down, a pest is “an annoyance” 
 ![image](https://github.com/user-attachments/assets/d4e8fba0-02db-44c7-a942-e69bfc55b2f2)
 *Figure 191: Image of a Hanged Man that has just burst out of the ceiling. Image Taken By: Steven Grevera*
 
-
-The Hanged Man can be sticking out of ceiling’s of enclosed buildings in corridors and will then proceed to jumpscare the player, causing great sounds and disturbances and doing damage to what it touches. It will also cause loud amounts of noise which can attract Apparitions 
+The Hanged Man can be sticking out of the ceilings of enclosed buildings in corridors and will then proceed to jumpscare the player, causing great sounds and disturbances and doing damage to what it touches. It will also cause loud amounts of noise, which can attract Apparitions. 
 
 #### Spiders
 ![image](https://github.com/user-attachments/assets/19489772-650e-44e2-86bb-7f742e14738f)
-*Figure 192: Image of Spiders on the ground blocking the players access to a door. Image Taken By: Steven Grevera*
+*Figure 192: Image of Spiders on the ground blocking the player's access to a door. Image Taken By: Steven Grevera*
 
-The Spiders lay webs on the ground waiting for it’s prey to step inside, slowing them down. Apparitions are unaffected by the webs but players will be slowed down extremely and take damage for every second they are within the webs.
+The Spiders lay webs on the ground, waiting for their prey to step inside, slowing them down. Apparitions are unaffected by the web, but players will be slowed down extremely and will suffer damage for every second they are on the web.
 
 #### Human Cocoon Moth
 ![image](https://github.com/user-attachments/assets/9506b545-a44c-45d1-ae30-478a5dbfad44)
 *Figure 193: Image of Cocoon Moth Pests swarming the player. Image Taken By: Steven Grevera*
 
 
-Human Cocoon Moth’s like the spiders, lay on top of human cocoon remains amidst the corridors and when triggered by getting to close to them, will chase the player, doing damage to them constantly until they are escaped or a certain amount of time passes. If a player stands still on their cocoon base location, they will take damage until they lose a life or receive a “Game Over”. 
+Human Cocoon Moths, like the spiders, lay on top of human cocoon remains amidst the corridors and, when triggered by getting too close to them, will chase the player, doing damage to them constantly until they escape or a certain amount of time passes. If a player stands still on their cocoon base location, they will take damage until they lose a life or receive a “Game Over.” 
 
-The alternative version of these are the moths which fly in the room of the Cocoon Moth Trap Room which guard a Magatama. 
+The alternative version of these are the moths that fly in the room of the Cocoon Moth Trap Room, which guards a Magatama.
 
 
 #### A Glimpse of The Past (Snails)
 ![image](https://github.com/user-attachments/assets/2a7b1395-e361-41af-b1e2-56a6ecbfbefa)
 *Figure 194: Image of Snails glowing in the darkness in a faint dark blue color. Image Taken By: Steven Grevera*
 
-When approached, walked over or scared, The Snails will spew out a purple mist that covers aw ide area of a corridor and will build up the players corruption meter until they escape it’s large purple radius, or they die. The radius bypasses walls and is determined in a circular radius from where the smoke is emitted from.
+When approached, walked over, or scared, The Snails will spew out a purple mist that covers a large area of a corridor and will build up the player's corruption meter until they escape its large purple radius, or they die. The radius bypasses walls and is determined in a circular radius from where the smoke is emitted from.
+
 ![image](https://github.com/user-attachments/assets/6f32d9dc-da07-4828-a7d1-544ddd70ad8d)
 *Figure 195: Image of Snails spewing corrupting gas out of their bodies. Image Taken By: Steven Grevera*
 
 ![image](https://github.com/user-attachments/assets/379a9591-85c6-41c6-9b7f-f16cb382187d)
-*Figure 196: Image of the corrupting gases boundary and how it would appear to the player when you escape it. Image Taken By: Steven Grevera*
+*Figure 196: Image of the corrupting gas boundary and how it would appear to the player when you escape it. Image Taken By: Steven Grevera*
 
 
 
 #### Corrupted Humans (Impure) 
 ![image](https://github.com/user-attachments/assets/110681c5-4af9-43fd-89ae-ce7549e7d4ae)
-*Figure 197: Image of a Corrupted Human from it's back where it's glowing darkness is fainter. Image Taken By: Steven Grevera*
+*Figure 197: Image of a Corrupted Human from its back where its glowing darkness is fainter. Image Taken By: Steven Grevera*
 
 
 
@@ -1670,7 +1673,7 @@ Corrupted Humans (Impure) will grab the player if contact is made and you will h
 *Figure 199: Image of a Magatama behind a door and windows. Image Taken By: Steven Grevera*
 
 
-Magatama Rooms are rooms in which you can find Magatama. These rooms are usually behind locked doors, which will require a key to unlock. On higher difficulties, even if taking a Magatama from a room without any traps, the corridor’s effect maybe be triggered on each one’s pick up. Moreover, on deluge, picking up a Magatama will cause an amount of buildup of corruption, which may even kill you if you pick it up and you had enough corruption prior to picking it up. Causing a “Game Over” or loss of a life. 
+Magatama  Rooms are rooms in which you can find Magatama. These rooms are usually behind locked doors, which will require a key to unlock. On higher difficulties, even if taking a Magatama from a room without any traps, the corridor’s effect maybe be triggered on each one’s pick-up. Moreover, on deluge, picking up a Magatama will cause an amount of buildup of corruption, which may even kill you if you pick it up and you had enough corruption prior to picking it up. Causing a “Game Over” or loss of a life. 
 
 
 ## Standard Room: 
