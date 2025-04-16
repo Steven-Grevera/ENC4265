@@ -309,24 +309,24 @@ Environmental Sounds: This value determines the atmospheric sounds that can exis
 # General Game Mechanics
  ![image](https://github.com/user-attachments/assets/20c50b62-9a3b-43ba-88d0-417534ce5877)
 
-*Figure 13: Image showing the in game UI along with the inventory open and expanded. Image Taken By: Steven Grevera* 
+*Figure 13: Image showing the in-game UI along with the inventory that is open and expanded. Image Taken By: Steven Grevera*
 
-In order to survive traversing the corridors of this game, you must manage a series of survival mechanisms built into the game in order to succeed. These all must be managed successfully or else you could end up with a game over. Resulting in you having to generating a new level of the corridor and having to rediscover a brand new layout from scratch. 
-
+In order to survive traversing the corridors of this game, you must manage a series of survival mechanisms built into the game in order to succeed. These all must be managed successfully, or you could end up with a game over. This results in you having to generate a new level of the corridor and rediscover a brand-new layout from scratch.
 
  
 ## Lives (Candle’s Lit)
  ![image](https://github.com/user-attachments/assets/f925d099-eea9-44b9-b8dd-39bbc10cf2ce)
-*Figure 14: Image showing the in game UI along with the inventory open and expanded and with the lives indicator circled in red. Image Taken By: Steven Grevera* 
+*Figure 14: Image showing the in-game UI along with the inventory open and expanded, with the lives indicator circled in red. Image Taken By: Steven Grevera*
 
-Once you find yourself in the level of a corridor, the candles will appear in the circled location of your screen at the top left. These candles indicate your lives. When you run out, you will obtain a “Game Over” and be given the option to “retry” which will allow you to generate a brand new level of that corridor or “Return to Base” which will take you back to your Hub. 
+Once you find yourself at the level of a corridor, the candles will appear in the circled location of your screen at the top left. These candles indicate your lives. When you run out, you will obtain a “Game Over” and be given the option to “retry,” which will allow you to generate a brand new level of that corridor, or “Return to Base,” which will take you back to your Hub.  
 
 ![image](https://github.com/user-attachments/assets/16676541-19bd-4633-bde9-bcca32e71acf)
 *Figure 15: Image showing a "Game Over" in a corridor. Image Taken By: Steven Grevera*
 
 With a series of two items that can be found while exploring the corridors, you may find an extra life. Restoring one of your extinguished candles. 
 
-**Note: You need all your candles to survive. Losing your third and final candle, is a Game Over. You have 3 lives total and 0 in this context is counted as “Dead”.**
+**Note: You need all your candles to survive. Losing your third and final candle is a Game Over. You have three lives total and 0 in this context is counted as “Dead”.**
+
  
   
 
@@ -334,9 +334,9 @@ With a series of two items that can be found while exploring the corridors, you 
 
 ## Health
  ![image](https://github.com/user-attachments/assets/f64a2dde-2dcb-4e68-9343-ff6c83994a01)
-*Figure 16: Image showing the in game UI along with the inventory open and expanded and with the health bar circled in red. Image Taken By: Steven Grevera* 
+*Figure 16: Image showing the in-game UI along with the inventory open and expanded and the health bar indicator circled in red. Image Taken By: Steven Grevera*
 
-Next to the candles on the right side is a bar with a value of 100/100. The number on the left is your current health and the number on the right side is your maximum total health you can have. If your health on the left side reaches “0”, you will lose a candle and if you run out of candles, you will obtain a “Game Over” as a failure condition. 
+Next to the candles on the right side is a bar with a value of 100/100. The number on the left is your current health and the number on the right side is your maximum total health you can have. If your health on the left side reaches “0”, you will lose a candle and if you run out of candles, you will obtain a “Game Over” as a failure condition.
 
 Several items can restore health as well as certain [Karuta](#anchor5)  and even [Coffee Effects](#anchor6) to try and keep you alive. You can even increase your maximum health by finding a special well/pool room found in your journeys, increasing your max health to 130 at the cost of 1000 souls. [Click here for more information on that special room.](#anchor7)
 
@@ -345,18 +345,18 @@ Several items can restore health as well as certain [Karuta](#anchor5)  and even
  ![image](https://github.com/user-attachments/assets/2f022da8-1d9e-4e15-aa0a-38405e47f9aa)
 *Figure 17: Image showing the in game UI and stamina circle indicator circled in red. Image Taken By: Steven Grevera* 
 
-Stamina is used to sprint in the game and allows for running if being chased or just traversing things faster. Stamina can be increased in it’s regeneration rate, never in it’s maximum amount. Using coffee, karuta and some passive items. 
+Stamina is used to sprint in the game and allows for running if being chased or just traversing things faster. Stamina can be increased in its regeneration rate but never in its maximum amount. Using coffee, karuta and some passive items.  
 
 ## Magatama Total
  ![image](https://github.com/user-attachments/assets/67ae82b6-d914-4b88-bbd1-d8c3b8bb2413)
-*Figure 18: Image showing the in game UI along with the inventory open and expanded and Magatama count indicator circled in red. Image Taken By: Steven Grevera*
+*Figure 18: Image showing the in-game UI along with the inventory open and expanded and Magatama count indicator circled in red. Image Taken By: Steven Grevera*
 
-To the right of your candles and right below your health bar is the total amount of Magatama you have in your current level’s session. As you pick one up, you will obtain a green glowing orb in the orbs listed in that section. If you play at higher levels, this count of three can raise to 5. You must have all orbs glowing green in order to properly use the levels exit. 
+To the right of your candles and right below your health bar is the total amount of Magatama you have in your current level session. As you pick one up, you will obtain a green glowing orb in the orbs listed in that section. If you play at higher levels, this count of three can be raised to five. You must have all orbs glowing green in order to properly use the level exit.  
 
  ![image](https://github.com/user-attachments/assets/f907c05c-0626-4f04-866a-f848216cb66b)
- *Figure 19: Image showing the in game UI along with the inventory open and expanded and Magatama count indicator circled in red with one obtained. Image Taken By: Steven Grevera)
+*Figure 19: Image showing the in-game UI along with the inventory open and expanded and Magatama count indicator circled in red with one obtained. Image Taken By: Steven Grevera*
  ![image](https://github.com/user-attachments/assets/1841d1da-8bae-4057-abd0-72460065c553)
- *Figure 20: Image showing the in game UI along with the inventory open and expanded and Magatama count indicator circled in red with all three obtained. Image Taken By: Steven Grevera*
+*Figure 20: Image showing the in-game UI along with the inventory open and expanded and Magatama count indicator circled in red with all three obtained. Image Taken By: Steven Grevera*
  ![image](https://github.com/user-attachments/assets/eba649d5-749c-4973-a791-8638c1fa58e1)
  *Figure 21: Image showing a Magatama from further away. Image Taken By: Steven Grevera*
  ![image](https://github.com/user-attachments/assets/157d4661-1edb-4be9-9725-f9ec0d86dadc)
@@ -368,7 +368,7 @@ To the right of your candles and right below your health bar is the total amount
 
 ## Souls: 
 ![image](https://github.com/user-attachments/assets/4932c701-5a63-4331-9685-c082b086984f)
-*Figure 24: Image showing the in game UI along with the inventory open and expanded and the Souls Counter circled in red Image. Image Taken By: Steven Grevera* 
+*Figure 24: Image showing the in-game UI along with the inventory open and expanded and the Souls Counter circled in red. Image Taken By: Steven Grevera*
 
 Souls are the currency of the corridors. You can use souls for various things, such as karuta effects such as the map which will drain them constantly. Items from [The Butterfly Shop](#anchor8) and [other helpful corridor rooms](#anchor9) and for things such as the [Butterfly Lantern Light Source](#anchor10)
 
@@ -376,29 +376,29 @@ Souls are obtained through checking resource gathering spots, which are specific
 ![image](https://github.com/user-attachments/assets/0ce8a616-36e8-4f1d-85c9-85e7c2fff465)
 *Figure 25: Image showing a Soul Farming Spot (Resource Gathering Spot). Image Taken By: Steven Grevera*
 
-Or by finding skeleton’s in hallways or rooms, which can appear within any corridor. 
+Or by finding skeletons in hallways or rooms, which can appear within any corridor.  
 
 ![image](https://github.com/user-attachments/assets/43b76537-98a0-468b-b04d-40aa4e9a34bf)
 *Figure 26: Image showing a corpse which you can get souls from and cleanse corruption. Image Taken By: Steven Grevera*
 
-Interacting with either of these objects, will net the player a number of souls. The number obtained for the player can be upgraded with certain karuta for those who want to play with a heavy souls earning potential build. 
+Interacting with either of these objects will net the player a number of souls. The number obtained for the player can be upgraded with certain karuta for those who want to play with heavy souls earning potential build.
 
 ## Items
 ![image](https://github.com/user-attachments/assets/cf0449f0-db63-4215-9b17-fe97985e1659)
-*Figure 27: Image showing the in game UI along with the inventory open and expanded and the inventory slots circled in red. Image. Image Taken By: Steven Grevera*
+*Figure 27: Image showing the in-game UI along with the inventory open and expanded and the inventory slots circled in red. Image Taken By: Steven Grevera*
 
-Items are placed within the section circled and this section will display your max inventory size. By pressing your destinated inventory button, you can open this menu to look as the image above does, though yours might appear smaller in slots. That is due to the fact that in the image above, a karuta is being used which increases the total amount of inventory slots you have for unique items. 
+Items are placed within the circled section, and this section will display your maximum inventory size. By pressing your designated inventory button, you can open this menu to look as the image above does, though yours might appear smaller in slots. That is due to the fact that in the image above, a karuta is being used, which increases the total number of inventory slots you have for unique items. 
 
-Items have a set number that can be picked up. For example, glowing stones cap at under normal circumstances at 20 stones. You can not duplicate an item beyond that cap into a second slot. Each slot is for unique items only. However, with a karuta, you can increase the cap of held number of the item in question by a set amount that is varied by that item type. 
+Items have a set number that can be picked up. For example, glowing stones cap under normal circumstances at 20 stones. You can not duplicate an item beyond that cap into a second slot. Each slot is for unique items only. However, with a karuta, you can increase the cap of the held number of the item in question by a set amount that is varied by that item type.
 
 For more information on all items in Shadow Corridor 2, [click here](#anchor11)
 
 
 ## Passive Items
 ![image](https://github.com/user-attachments/assets/4c10183f-e9c4-4061-b969-705508d9b1a2)
-*Figure 28: Image showing the in game UI along with the inventory open and expanded and the passive inventory slot circled in red. Image Taken By: Steven Grevera*
+*Figure 28: Image showing the in-game UI along with the inventory open and expanded and the passive inventory slot circled in red. Image Taken By: Steven Grevera*
 
-Passive items are held items that you hold on your left side of your inventory that have various effects. Such as Insect Repellent, which makes it so insect based Pests cannot deal damage to the player, or will even be alerted to their presence.
+Passive items are held items that you hold on your left side of your inventory that have various effects. Such as Insect Repellent, which makes it so insect-based Pests cannot deal damage to the player or will even be alerted to their presence.
 
 Passive items are used up without a button needing to be pressed, which will be indicated by a Grey Bar outlining the passive items uses. Some items will activate a single time, such as the charm item shown above, when the player is grabbed, teleporting them away. 
 
@@ -410,7 +410,7 @@ For more information about the existing passive items in Shadow Corridor 2, see 
 
 ## Light Source Items
 ![image](https://github.com/user-attachments/assets/fe28a4e6-b23b-448b-9912-6407fee34bfe)
-*Figure 29: Image showing the in game UI along with the inventory open and expanded and the Light Source inventory slots circled in red. Image Taken By: Steven Grevera* 
+*Figure 29: Image showing the in-game UI along with the inventory open and expanded and the Light Source inventory slots circled in red. Image Taken By: Steven Grevera*
 
 Light Source items are various items that provide light source in an area but may also have other effects. In Shadow Corridor 2, you always start with an infinite basic light source in the “Lighter”, which is obtained at the start of the game and exists no matter what. It cannot be replaced. 
 
