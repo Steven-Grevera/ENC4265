@@ -189,9 +189,10 @@ Selecting this option will allow you to continue from your saved file slot of yo
 
 ## Keyboard and Mouse or Controller Support
 
-If you are using the Steam Version of Shadow Corridor 2, you have the option of using Keyboard and Mouse and binding all your keys to your keyboard, or using a Steam supported controller type of your choice, such as the Duel Shock 4 controllers or an Xbox One style controller. This will be automatically detected upon your launching of the game. 
+If you are using the Steam Version of Shadow Corridor 2, you have the option of using a Keyboard and Mouse and binding all your keys to your keyboard or using a Steam-supported controller type of your choice, such as the Duel Shock 4 controllers or an Xbox One style controller. This will be automatically detected upon your launching of the game. 
 
-If you are using Nintendo Switch, you will use the Switch based controllers or console buttons provided to you as your only option at this time. 
+If you are using Nintendo Switch, you will use the Switch-based controllers or console buttons provided to you as your only option at this time. 
+
 
 
  
@@ -199,98 +200,97 @@ If you are using Nintendo Switch, you will use the Switch based controllers or c
 ![image](https://github.com/user-attachments/assets/cfb84465-00b3-403f-8569-2a3992bc3e35)
 *Figure 7: Image showing the options the player has in "Game Settings". Image Taken By: Steven Grevera* 
 
-A series of options will be present in this tab and will each have different effects to your experience with the game. 
+A series of options will be present in this tab, and each will have a different effect on your experience with the game. 
 
-Language: Sets the language of the text from it’s choice selection. All dubbing is done exclusively in Japanese. 
+Language: Sets the language of the text from its choice selection. All dubbing is done exclusively in Japanese. 
 
-Display Timer: When you are in a level, this option being enabled will allow you to see your time always displayed while playing in the mission itself.
+Display Timer: When you are on a level, this option being enabled will allow you to see your time always displayed while playing in the mission itself. 
 
 Item Inventory Display Time: The total number (in seconds) that the inventory will be displayed when expanded before it automatically closes itself. 
 
-Display Item Info: This option will display item info when you highlight an item, such as a the firecrackers for example, to provide a tooltip which will provide a general idea of what the item in question does. Toggling to off or on based your preference.
+Display Item Info: This option will display item info when you highlight an item, such as the firecrackers, for example, to provide a tooltip that will provide a general idea of what the item in question does. Toggling it off or on based on your preference.
 
-Look When Using Compass: As you traverse your generated corridor, you may run across an item called a compass. [Read more on that here](#anchor1). If this option is disabled, then you cannot move and look at the compass at the same time. Having this enabled allows you to do so. This is for people who may find this as a distraction. 
+Look When Using Compass: As you traverse your generated corridor, you may run across an item called a compass. Read more on that here. If this option is disabled, then you cannot move and look at the compass at the same time. Having this enabled allows you to do so. This is for people who may find this as a distraction. 
 
-Return To Base Immediately After Results: If this option is set to on, then upon completing a level, you will be sent back to the “hub” of the game. [See more on this here](#anchor2)
+Return To Base Immediately After Results: If this option is set to on, then upon completing a level, you will be sent back to the “hub” of the game. See more on this here. 
 
 Vision Shake From Walking: This option will determine if your vision shakes from walking or not. For immersive experiences, this should be turned on. For those with motion sickness or who dislike this visual effect, keeping it off will ensure this does not occur. 
 
-Controller Vibration: If your controller is in use, having this option set to on will result in certain in game events causing your controller to shake, such as when a Wanderer (the enemy monsters in the game-) approach you. [See more on monsters here](#anchor3)
+Controller Vibration: If your controller is in use, having this option set to on will result in certain in-game events causing your controller to shake, such as when an Apparition (the enemy monsters in the game-) approaches you. See more on monsters here.  
 
 The Shaking of The Flashlight: With this option set to true, when you use your flashlight item, it will shake as you run as opposed to staying sturdy to light up areas. This option will provide a more immersive experience for those who want “realism” in their experiences. 
 
-Whispers of The Remains: When collecting “souls” [more on this later](#anchor4) you will hear an audio sound effect when picking them off of skeleton bodies. Having this option off will display this effect, for those who want to focus more on the sound of possible Apparitions instead. 
-
-
-
+Whispers of The Remains: When collecting “souls” (more on this later), you will hear an audio sound effect when picking them off of skeleton bodies. Having this option off will display this effect for those who want to focus more on the sound of possible Apparitions instead.
 
  
 ## Control Settings
 ![image](https://github.com/user-attachments/assets/4166a22c-6a99-42b6-b3d9-169b0cb78618)
 *Figure 8: Image showing the options the player has in "Control Settings". Image Taken By: Steven Grevera* 
 
-A series of options will be present in this tab and will each have different effects to how your controller/mouse/keyboard operates and feels. 
+A series of options will be present in this tab, and each will have different effects on how your controller/mouse/keyboard operates and feels. 
 
-Look Sensitivity Mouse: Exclusively for Keyboard and Mouse Users, this option determines the sensitivity when looking around in your first person perspective with the mouse.
+Look Sensitivity Mouse: This option is exclusive to keyboard and mouse users; it determines the sensitivity when looking around from your first-person perspective with the mouse.
 
-Look Sensitivity Controller: Exclusively for Controller Users, this option determines the sensitivity when looking around in your first person perspective with a controller.
+Look Sensitivity Controller: This option is exclusive to Controller Users; it determines the sensitivity when looking around from your first-person perspective with a controller.
 
-Invert Horizontal Look Axis: Having this option on will reverse your movements of right and right with your desired control type. So left will go right and right left and vice versa. 
+Invert Horizontal Look Axis: Having this option on will reverse your movements of right and right with your desired control type. So, the left will go right, the right will go left, and vice versa. 
 
 Invert Vertical Look Axis: Having this option on will reverse your movements of up and down looking with your desired control type. So up will go down and down will go up and vice versa. 
 
-Crouch Control Type: Your options being “Trigger” or “Hold” will determine if you want to hold down your crouch key or simply press the button to toggle between crouching or standing. 
+Crouch Control Type: Your options, being “Trigger” or “Hold,” will determine if you want to hold down your crouch key or simply press the button to toggle between crouching or standing. 
 
-Spring (Sprint) Ground Type: Is currently a misspelled option, which is meant to say (Sprint) Ground Type. Your options being “Trigger” or “Hold” will determine if you want to hold down your sprint key or simply press the button to toggle between sprinting and walking.
+Spring (Sprint) Ground Type: This is currently a misspelled option, which is meant to say (Sprint) Ground Type. Your options being, “Trigger” or “Hold,” will determine if you want to hold down your sprint key or simply press the button to toggle between sprinting and walking.
 
-Aim Assist Shooting: Currently will lock certain items that require pointing at apparitions just by aiming them down, such as the revolver pistol item.   
+Aim Assist Shooting: Currently, it will lock certain items that require pointing at apparitions just by aiming them down, such as the revolver pistol item.   
 
 Aim Assist Interaction: This option will lock your interaction within a certain radius with doors or trigger fires from the revolver pistol. 
+
 
  
 ## Control Assignments 
 ![image](https://github.com/user-attachments/assets/db4234cb-4894-48fa-8f48-f19e67f331b9)
-*Figure 9: Image showing the options the player has in "Control Assignments". Part 1 Image Taken By: Steven Grevera*
+*Figure 9: Image showing the options the player has in "Control Assignments." Part 1 Image Taken By: Steven Grevera*
 ![image](https://github.com/user-attachments/assets/e4370103-a7c8-4313-a4a4-48bd2bfe0502)
-*Figure 10: Image showing the options the player has in "Control Assignments". Part 2 Image Taken By: Steven Grevera* 
+*Figure 10: Image showing the options the player has in "Control Assignments." Part 2 Image Taken By: Steven Grevera*
 
  
-In this section for keyboard and mouse will be a series of keybindings or mouse interactions that will activate the given action in the scenario’s they list. The top being Mouse and Keyboard Settings and below it being Gamepad settings, showing you what buttons on your controller or gamepad and what they do. 
+In this section, for keyboard and mouse, there will be a series of keybindings or mouse interactions that will activate the given action in the scenarios they list. The top is Mouse and Keyboard Settings and below is Gamepad Settings, which shows you what buttons are on your controller or gamepad and what they do.
 
  
 
 ## Graphics Settings 
 ![image](https://github.com/user-attachments/assets/a1e4e1fc-9bf2-4d0a-b8d0-b9347d1f7b37)
-*Figure 11: Image showing the options the player has in "Graphics Settings". Image Taken By: Steven Grevera*
+*Figure 11: Image showing the options the player has in "Graphics Settings." Image Taken By: Steven Grevera*
 
-This tab is all about graphical settings for the game itself and will do various graphical things for the game itself. Options in here will mostly effect your visuals in game and be effected by your Graphics Card in your PC or system device. 
+This tab is all about graphical settings for the game itself and will do various graphical things for the game itself. Options here will mostly affect your visuals in the game and be affected by your graphics card in your PC or system device. 
 
-Brightness: Determines how bright the actual in game world will be. 5 is the lowest setting and 20 is the highest. 
+Brightness: Determines how bright the actual in-game world will be. 5 is the lowest setting and 20 is the highest. 
 
-Window Mode: Determines how the game will be played, allowing you to window, window a simulated fullscreen mode or to run the game in fullscreen mode. Windowed modes may take away from immersion but allow for easy tabbing in and out of the game. 
+Window Mode: Determines how the game will be played, allowing you to window, window a simulated fullscreen mode, or to run the game in fullscreen mode. Windowed modes may take away from immersion but allow for easy tabbing in and out of the game. 
 
 Resolution: Determines your screen resolution for the program itself. 
 
 Indirect Lightning Quality: Determines lightning that is further away or possibly through reflective surfaces. Setting this to 0 will increase performance but lower graphical fidelity. 
 
-Reflection Quality: Determines the quality and fidelity toward real reflective surfaces such as mirror and glass, as well as even water surfaces in game. Lowering the option will increase performance.   
+Reflection Quality: Determines the quality and fidelity of real reflective surfaces such as mirrors and glass, as well as even water surfaces in the game. Lowering the option will increase performance.   
 
-Level of Shadow Depiction: Determines the detail and graphical fidelity of shadows in game cast about by objects and apparitions. Lowering the option will increase performance.  
+Level of Shadow Depiction: Determines the detail and graphical fidelity of shadows in the game cast about by objects and apparitions. Lowering the option will increase performance.  
 
-Bloom: Bloom is a means to simulate light artifacting through a camera lens as opposed more specifically to what a human themselves might see. 
+Bloom: Bloom is a means to simulate light artifacting through a camera lens as opposed, more specifically, to what a human themselves might see. 
 
-Motion Blur: Determines if motion blur will be used with movement in the game. Those for a more immersive experience can keep this on and those who wish to avoid any possible motion sickness issues can turn this off. 
+Motion Blur: Determines if motion blur will be used with movement in the game. Those looking for a more immersive experience can keep this on and those who wish to avoid any possible motion sickness issues can turn this off. 
 
-Fish Eye Lens: A fish eyes lens effect is a panoramic type of view and can essentially transcend standard monitor images. Having this option on will only show an effect is a panoramic supporting device is used. 
+Fish Eye Lens: A fish eyes lens effect is a panoramic type of view and can essentially transcend standard monitor images. Having this option on will only show an effect if a panoramic supporting device is used. 
 
-FPS Cap: Setting an option value here will limit FPS of the game to a certain value. Setting it to off will allow it to run without a cap. Setting FPS caps can improve performance if performance issues arise. Or if a preferred FPS is desired to be experienced without any deviations.
+FPS Cap: Setting an option value here will limit the FPS of the game to a certain value. Setting it to off will allow it to run without a cap. Setting FPS caps can improve performance if performance issues arise. Or if a preferred FPS is desired to be experienced without any deviations.
+
  
 ## Sound Settings
 
 ![image](https://github.com/user-attachments/assets/261ae3d9-fe4d-4fe6-8a8d-9c6c3e28836d)
 *Figure 12: Image showing the options the player has in "Sound Settings". Image Taken By: Steven Grevera*
 
-In this tab you will find various audio levels for different sets of sounds and the levels in which they will be heard from.
+In this tab, you will find various audio levels for different sets of sounds and the levels at which they will be heard.
 
 Master Volume: Determines the level of all sounds overall. 
 
@@ -302,9 +302,9 @@ Sound Effects: This determines the volume of all sounds made by items, apparitio
 
 Voice: Determines the voice for certain speaking apparitions but is mostly used as dialogue for cinematics or interactions with characters.
 
-Footsteps: Determines the sound of your footsteps in game if you wish to hear them. 
+Footsteps: Determines the sound of your footsteps in the game if you wish to hear them. 
 
-Environmental Sounds: This value determines the atmospheric sounds  that can exist in corridors such as water style effects in levels that exist with them. 
+Environmental Sounds: This value determines the atmospheric sounds that can exist in corridors, such as water-style effects at levels that exist within them. 
  
 # General Game Mechanics
  ![image](https://github.com/user-attachments/assets/20c50b62-9a3b-43ba-88d0-417534ce5877)
