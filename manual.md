@@ -1677,7 +1677,7 @@ Magatama  Rooms are rooms in which you can find Magatama. These rooms are usuall
 
 
 ## Standard Room: 
-![image](https://git.com/user-attachments/assets/9755883d-c544-4449-84d5-c95a45997449)
+![image](https://github.com/user-attachments/assets/ff30f27b-47c4-4e9d-b704-2e37b63b4df7)
 *Figure 200: Image of a Magatama behind a locked door. Image Taken By: Steven Grevera*
 
 These are standard locked rooms that have a Magatama  to be picked up within. Picking up the Magatama  will grant you it. 
